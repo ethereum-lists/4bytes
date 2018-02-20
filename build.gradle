@@ -1,0 +1,36 @@
+buildscript {
+    ext {
+        KOTLIN_VERSION = "1.2.21"
+    }
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${KOTLIN_VERSION}"
+    }
+}
+
+apply plugin: "kotlin"
+apply plugin: 'application'
+
+mainClassName = "org.ethereum.lists.methodsignatures.MainKt"
+
+repositories {
+    jcenter()
+    maven { url 'https://jitpack.io' }
+}
+
+task importFrom4ByteDirectory(type: JavaExec) {
+    main = "org.ethereum.lists.methodsignatures.ImportKt"
+    classpath = sourceSets.main.runtimeClasspath
+}
+
+dependencies {
+    compile "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
+    compile "com.github.walleth.kethereum:keccak_shortcut:0.38"
+    compile 'com.beust:klaxon:0.30'
+    compile 'com.squareup.okhttp3:okhttp:3.9.1'
+}
+
