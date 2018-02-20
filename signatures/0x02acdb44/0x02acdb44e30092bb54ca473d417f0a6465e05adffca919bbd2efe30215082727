@@ -1,0 +1,1 @@
+setAnyoneCanCall(address,bytes4,bool)
