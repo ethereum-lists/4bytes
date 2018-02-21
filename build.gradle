@@ -15,7 +15,7 @@ buildscript {
 apply plugin: "kotlin"
 apply plugin: 'application'
 
-mainClassName = "org.ethereum.lists.methodsignatures.MainKt"
+mainClassName = "org.ethereum.lists.methodsignatures.CheckAndStatsKt"
 
 repositories {
     jcenter()
