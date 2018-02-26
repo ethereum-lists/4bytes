@@ -5,6 +5,7 @@ import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Parser
 import okhttp3.OkHttpClient
 import okhttp3.Request
+import org.kethereum.methodsignatures.FileBackedMethodSignatureStore
 
 const val PAGE_SIZE = 2000
 const val url = "https://www.4byte.directory/api/v1/signatures/?page_size=$PAGE_SIZE&ordering=created_at"
@@ -19,7 +20,7 @@ fun main(args: Array<String>) {
 }
 
 private fun import(url: String) {
-    val store = FileBackedStore(outDir)
+    val store = FileBackedMethodSignatureStore(outDir)
     val request = Request.Builder().url(url).build()
 
     val response = client.newCall(request).execute()

@@ -1,11 +1,12 @@
 package org.ethereum.lists.methodsignatures
 
 import org.kethereum.keccakshortcut.keccak
+import org.kethereum.methodsignatures.FileBackedMethodSignatureStore
 import org.walleth.khex.toNoPrefixHexString
 
 fun main(args: Array<String>) {
     var totalProcessed = 0
-    val store = FileBackedStore(signatureDirectory)
+    val store = FileBackedMethodSignatureStore(signatureDirectory)
     val methodSet = HashSet<String>()
     val paramSet = HashSet<String>()
 
@@ -31,7 +32,8 @@ fun main(args: Array<String>) {
     val min = methodSet.minBy { it.length }?.length
     println("min method name length: $min")
     println("max method name length: $max")
-    println("param types used: ${paramSet.size}")
+    val size = paramSet.size
+    println("param types used: $size")
     println("param types: ${paramSet.joinToString()}")
 
 }

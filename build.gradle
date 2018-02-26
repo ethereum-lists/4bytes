@@ -29,7 +29,8 @@ task importFrom4ByteDirectory(type: JavaExec) {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
-    compile "com.github.walleth.kethereum:keccak_shortcut:0.38"
+    compile "com.github.walleth.kethereum:keccak_shortcut:0.39"
+    compile "com.github.walleth.kethereum:method_signatures:0.39"
     compile 'com.beust:klaxon:0.30'
     compile 'com.squareup.okhttp3:okhttp:3.9.1'
 }
