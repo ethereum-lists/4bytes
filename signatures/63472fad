@@ -1,0 +1,1 @@
+setVote(address,string,uint256,address,bool)

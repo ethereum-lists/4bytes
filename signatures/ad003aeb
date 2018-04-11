@@ -1,0 +1,1 @@
+setUserNotifications(address,address,bool[],bool,uint8[],uint8)

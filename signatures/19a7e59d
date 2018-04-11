@@ -1,0 +1,1 @@
+assertEq4(bytes4,bytes4,bytes32)

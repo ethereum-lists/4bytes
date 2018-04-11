@@ -1,0 +1,1 @@
+grantUserRole(bytes32,string,address)

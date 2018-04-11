@@ -1,0 +1,1 @@
+grantPermission(address,address,bytes4,address)

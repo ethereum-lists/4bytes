@@ -1,0 +1,1 @@
+register(bytes20,uint24,uint32,bytes32[],uint16)
