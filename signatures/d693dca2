@@ -1,0 +1,1 @@
+setAllowCnsContract(address,bytes32,address,bytes32,bool)

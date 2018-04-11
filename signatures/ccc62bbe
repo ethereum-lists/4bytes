@@ -1,0 +1,1 @@
+assertEq2(bytes2,bytes2,bytes32)

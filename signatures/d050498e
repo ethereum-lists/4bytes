@@ -1,0 +1,1 @@
+assertEq24(bytes24,bytes24,bytes32)

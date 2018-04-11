@@ -1,0 +1,1 @@
+setPublicCapability(address,bytes4,bool)
