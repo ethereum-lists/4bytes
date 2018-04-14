@@ -16,7 +16,7 @@ fun main(args: Array<String>) {
 
     store.all().forEach { signatureHash ->
         val get = store.get(signatureHash)
-        get.forEach { signatureText ->
+        get.map { it.signature }.forEach { signatureText ->
             val methodName = signatureText.substringBefore("(")
             val params = signatureText.substringAfter("(").substringBefore(")").split(",").toHashSet()
             methodSet.add(methodName)
