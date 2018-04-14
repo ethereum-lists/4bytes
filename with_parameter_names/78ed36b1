@@ -1,0 +1,1 @@
+safeSubtract(uint a,uint b);safeSubtract(uint256 x,uint256 y)

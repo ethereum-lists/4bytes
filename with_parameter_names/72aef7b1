@@ -1,0 +1,1 @@
+move(State storage self,uint256 fromIndex,uint256 toIndex,bool isWhite)

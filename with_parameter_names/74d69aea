@@ -1,0 +1,1 @@
+newWeiController(address _owner,address _token,uint _tokenValue,bool _autoDisperse)

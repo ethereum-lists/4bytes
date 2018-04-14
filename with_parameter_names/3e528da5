@@ -1,0 +1,1 @@
+getIudexScoreAll(address lookupAddr,address addr);getIudexScoreAll(address lookupAddr,bytes32 userId)

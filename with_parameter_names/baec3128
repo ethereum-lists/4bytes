@@ -1,0 +1,1 @@
+constructProof(bytes32 leaf,bytes32[] siblings,byte[] directions)

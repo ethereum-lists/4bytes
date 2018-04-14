@@ -1,0 +1,1 @@
+addIdArrayItem(address db,uint id,string key,string countKey,uint val);addIdArrayItem(address db,uint id,string key,string countKey,address val);addIdArrayItem(address db,address id,string key,string countKey,uint val)

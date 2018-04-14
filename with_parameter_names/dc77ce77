@@ -1,0 +1,1 @@
+requireFile(uint id,bytes32 hash,Storage st)

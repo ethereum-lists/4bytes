@@ -1,0 +1,1 @@
+LaborHourToken(address _mint,string _currency,uint _rate)

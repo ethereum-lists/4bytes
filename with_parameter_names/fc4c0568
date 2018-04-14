@@ -1,0 +1,1 @@
+setVoter(address _owner,uint256 _roundID,bytes32 _hash,voterStatus _status,bool _voteResult,uint256 _rewards)

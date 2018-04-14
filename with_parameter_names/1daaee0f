@@ -1,0 +1,1 @@
+checkFileProof(bytes32 state,bytes32[10] roots,uint[4] pointers,bytes32[] proof,uint loc);checkFileProof(bytes32 state,bytes32[10] roots,uint[4] pointers,bytes32[] _proof,uint loc)

@@ -1,0 +1,1 @@
+setCostPerEnergy(DirectConnection connection,uint256 cost_per_energy)

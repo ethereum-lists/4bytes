@@ -1,0 +1,1 @@
+insert(CLL storage self,int a,int b,bool d);insert(CLL storage self,uint a,uint b,bool d)

@@ -1,0 +1,1 @@
+registerVoteToken(bytes32 receiptIn,bytes32 voteTokenIn)

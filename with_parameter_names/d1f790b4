@@ -1,0 +1,1 @@
+removeContractRole(bytes32 ctrct,string roleName)

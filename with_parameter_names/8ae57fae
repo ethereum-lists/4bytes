@@ -1,0 +1,1 @@
+setMany(address _user,uint _areas,uint[] _categories,uint[] _skills);setMany(address,uint,uint[],uint[])

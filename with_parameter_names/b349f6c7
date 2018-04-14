@@ -1,0 +1,1 @@
+attemptSpend(uint _value);attemptSpend(uint256 _value)

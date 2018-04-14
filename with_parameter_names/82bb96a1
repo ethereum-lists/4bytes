@@ -1,0 +1,1 @@
+add(iterableAddressBalanceMap storage self,address mappedAddress,uint32 coinBalance,int160 dollarBalance)

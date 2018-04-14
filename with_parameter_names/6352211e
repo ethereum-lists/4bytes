@@ -1,0 +1,1 @@
+ownerOf(uint _campaignID);ownerOf(uint256 _tokenId)

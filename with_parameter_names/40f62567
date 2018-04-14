@@ -1,0 +1,1 @@
+doTransfer(address _from,address _to,uint _amount);doTransfer(address _from,address _to,uint _value)

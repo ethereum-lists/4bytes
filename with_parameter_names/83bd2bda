@@ -1,0 +1,1 @@
+RemiCoin(uint256 initial_supply,string _name,string _symbol,uint8 _decimal)

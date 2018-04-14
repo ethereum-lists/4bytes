@@ -1,0 +1,1 @@
+changeRequirement(uint _newRequired);changeRequirement(uint _required)

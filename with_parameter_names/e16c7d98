@@ -1,0 +1,1 @@
+getContract(bytes32 name);getContract(bytes32 _id)

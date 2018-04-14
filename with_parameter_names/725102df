@@ -1,0 +1,1 @@
+deleteVisaOffering(uint _country,uint _index);deleteVisaOffering(uint _country,uint index)

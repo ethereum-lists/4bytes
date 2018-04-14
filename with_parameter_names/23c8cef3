@@ -1,0 +1,1 @@
+emitOwnershipChange(address _from,address _to,bytes32 _symbol)

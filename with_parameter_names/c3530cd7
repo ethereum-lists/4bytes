@@ -1,0 +1,1 @@
+setDollarBalance(iterableAddressBalanceMap storage self,address mappedAddress,int160 dollarBalance)

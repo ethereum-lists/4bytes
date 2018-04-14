@@ -1,0 +1,1 @@
+cancelOrderLog(Market _market,address _sender,int256 _fxpPrice,uint256 _fxpAmount,bytes32 _orderId,uint8 _outcome,Trading.TradeTypes _type,uint256 _fxpMoneyEscrowed,uint256 _fxpSharesEscrowed)

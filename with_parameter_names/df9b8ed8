@@ -1,0 +1,1 @@
+registerOffering(bytes32 node,bytes32 labelHash,address newOffering,uint version)

@@ -1,0 +1,1 @@
+setHeir(address heir,uint8 inheritancePoints,uint periodInDays)

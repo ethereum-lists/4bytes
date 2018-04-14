@@ -1,0 +1,1 @@
+contribute(address party1,address party2);contribute(address _participant,uint256 _amount)

@@ -1,0 +1,1 @@
+getComponentId(uint parentId,uint componentIndex)

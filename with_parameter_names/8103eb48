@@ -1,0 +1,1 @@
+approveAndCall(address _spender,// another contract's adress)

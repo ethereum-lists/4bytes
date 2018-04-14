@@ -1,0 +1,1 @@
+validContract(uint32 _emplyeHWage,uint32 _workHours,address _agencyAddress)

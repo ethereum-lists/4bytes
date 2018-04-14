@@ -1,0 +1,1 @@
+getDataPointForSubject(uint _subjectId,uint _dataPointId)

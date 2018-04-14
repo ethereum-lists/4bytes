@@ -1,0 +1,1 @@
+verifyExtraData(bytes32 extraData,bytes32 minerId,uint difficulty)

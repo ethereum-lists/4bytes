@@ -1,0 +1,1 @@
+isAuditor(address _adtr);isAuditor(address auditoraddress);isAuditor(address _audt)

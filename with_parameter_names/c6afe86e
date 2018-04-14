@@ -1,0 +1,1 @@
+hashBiometricTemplates(string _fingerPrint,string _faceRecon,string _iris)

@@ -1,0 +1,1 @@
+inPermission(address cont,bytes4 func)

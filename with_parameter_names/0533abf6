@@ -1,0 +1,1 @@
+getUInt(Struct storage self,address _address)

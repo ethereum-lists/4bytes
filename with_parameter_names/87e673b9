@@ -1,0 +1,1 @@
+log(string _str,string _topic);log(string _str,address _addr);log(string _str,uint _ui);log(string _str,string _str2);log(string _str,int _i)

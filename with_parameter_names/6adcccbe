@@ -1,0 +1,1 @@
+toJson(FileServerInfo storage _self)

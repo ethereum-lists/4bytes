@@ -1,0 +1,1 @@
+mint(address _owner,uint256 _amount,bool _isRaw,uint32 timestamp)

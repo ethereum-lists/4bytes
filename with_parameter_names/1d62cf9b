@@ -1,0 +1,1 @@
+onApprove(address _from,address _spender,uint256 _value);onApprove(address _owner,address _spender,uint _amount);onApprove(address,address,uint256);onApprove(address _from,address,uint256)

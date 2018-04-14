@@ -1,0 +1,1 @@
+removePermissionManager(address _app,bytes32 _role)

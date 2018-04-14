@@ -1,0 +1,1 @@
+getPrice(string _datasource,uint _gaslimit,address _addr);getPrice(string manufacturer,string productType,uint price)

@@ -1,0 +1,1 @@
+buildConnection(address _from,address _to,address _meter_point,uint256 _cost_per_energy,uint256 _cost_per_day)

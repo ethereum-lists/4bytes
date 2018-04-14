@@ -1,0 +1,1 @@
+setUInt8(bytes32 _crate,bytes32 _key,uint8 _value)

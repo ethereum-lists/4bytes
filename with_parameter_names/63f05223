@@ -1,0 +1,1 @@
+issue(address recipient,uint32 amount);issue(address benefactor,uint amount);issue(address _for,uint outcomeTokenCount);issue(address _to,uint256 _amount);issue(address account,uint amount)

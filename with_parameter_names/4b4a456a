@@ -1,0 +1,1 @@
+ChargeFix(uint amount);ChargeFix(uint256 amount)

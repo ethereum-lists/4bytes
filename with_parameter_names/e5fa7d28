@@ -1,0 +1,1 @@
+buyAllAmount(ERC20 buy_gem,uint buy_amt,ERC20 pay_gem,uint max_fill_amount)

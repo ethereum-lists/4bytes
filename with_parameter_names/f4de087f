@@ -1,0 +1,1 @@
+isAuthorized(address src,bytes4 sig)

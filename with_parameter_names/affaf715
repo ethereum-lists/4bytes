@@ -1,0 +1,1 @@
+SecondBiathlonToken(address _node_address,string _name,string _symbol,uint256 _decimals,address _upgradeFrom)

@@ -1,0 +1,1 @@
+LicenseIssuer(string itemName,string textHash,string url,uint lifeTime,uint price,address _pa)

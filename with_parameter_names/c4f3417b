@@ -1,0 +1,1 @@
+getProposalVote(uint proposalId,uint iteration,uint proposalIdIndex)

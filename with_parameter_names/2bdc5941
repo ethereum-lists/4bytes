@@ -1,0 +1,1 @@
+getVotesCount(address chainperson,uint256 ballot,bytes32 proposalName)

@@ -1,0 +1,1 @@
+stampOut(address _owner,uint _country,uint _visaId)

@@ -1,0 +1,1 @@
+hasPermission(address _who,address _where,bytes32 _what)

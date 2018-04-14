@@ -1,0 +1,1 @@
+logFeeWindowCreated(IFeeWindow _feeWindow,uint256 _id)

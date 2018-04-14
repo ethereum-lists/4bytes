@@ -1,0 +1,1 @@
+buyPixel(uint256 _coordinates,bytes32 _color)

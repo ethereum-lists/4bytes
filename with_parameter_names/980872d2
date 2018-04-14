@@ -1,0 +1,1 @@
+queryN_withGasLimit(uint _timestamp,string _datasource,bytes _args,uint _gaslimit);queryN_withGasLimit(uint _timestamp,string _datasource,bytes _argN,uint _gaslimit)

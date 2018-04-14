@@ -1,0 +1,1 @@
+depositBond(address _rules,uint _proposalID);depositBond(address _board,uint _proposalID)

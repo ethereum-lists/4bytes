@@ -1,0 +1,1 @@
+changeZS(address link,address oracle,uint256 _power_in,uint256 _power_out)

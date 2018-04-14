@@ -1,0 +1,1 @@
+setStatus(address db,address userId,uint8 status);setStatus(address db,uint jobId,uint8 status);setStatus(address db,uint contractId,uint8 status);setStatus(address dbAddress,address userId,uint8 status)

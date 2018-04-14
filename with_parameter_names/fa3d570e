@@ -1,0 +1,1 @@
+destroy(address _from,uint256 _value);destroy(address account,uint amount);destroy(address _from,uint256 _amount)

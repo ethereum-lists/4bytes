@@ -1,0 +1,1 @@
+registerCoinData(address a,uint initialSupply,uint decimals)

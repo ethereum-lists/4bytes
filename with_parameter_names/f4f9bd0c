@@ -1,0 +1,1 @@
+configure(uint _periodicity,uint8 _auctionSize,uint _prize,uint _minTx,uint _counter,uint _startTime)

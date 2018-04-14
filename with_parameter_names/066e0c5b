@@ -1,0 +1,1 @@
+newGame(uint numberChosen,bool _isDivisible,uint _amountTip)

@@ -1,0 +1,1 @@
+declineBid(string name,uint64 bidId)

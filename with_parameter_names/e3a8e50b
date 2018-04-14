@@ -1,0 +1,1 @@
+Subscription(bytes _ipfsHash,address _service,bytes _serviceRoot)

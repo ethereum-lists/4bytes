@@ -1,0 +1,1 @@
+registerImpact(string _impactId,uint _accountIndex,uint _linkedValue)

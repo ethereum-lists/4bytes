@@ -1,0 +1,1 @@
+setTransferAgent(address addr,bool state)

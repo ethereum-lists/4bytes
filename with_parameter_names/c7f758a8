@@ -1,0 +1,1 @@
+getProposal(uint propno);getProposal(uint index);getProposal(uint _proposalNumber)

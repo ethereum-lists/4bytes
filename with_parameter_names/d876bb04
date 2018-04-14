@@ -1,0 +1,1 @@
+addEvent(history storage hist,uint etype,address actor)

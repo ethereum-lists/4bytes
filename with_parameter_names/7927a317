@@ -1,0 +1,1 @@
+set(uint nr,string addr);set(uint first,uint second);set(uint key,uint value)

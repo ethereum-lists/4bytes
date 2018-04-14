@@ -1,0 +1,1 @@
+newChannel(Data storage self,address partner,uint settle_timeout)

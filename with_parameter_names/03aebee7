@@ -1,0 +1,1 @@
+allocate(token from_token,uint256 amount)

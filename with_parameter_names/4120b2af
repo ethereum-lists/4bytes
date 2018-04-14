@@ -1,0 +1,1 @@
+getBountyWithModifier(PaymentData storage self,uint8 _paymentModifier)

@@ -1,0 +1,1 @@
+createCategoricalMarket(Branch _branch,uint256 _endTime,uint8 _numOutcomes,uint256 _feePerEthInWei,Cash _denominationToken,address _automatedReporterAddress,bytes32 _topic)

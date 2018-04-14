@@ -1,0 +1,1 @@
+Crowdsale(address _beneficiary,uint _fundingGoal,uint _duration,uint _price,token _reward)

@@ -1,0 +1,1 @@
+setClientLastPaidRate(address clientAddress,uint8 lastPaidRate)

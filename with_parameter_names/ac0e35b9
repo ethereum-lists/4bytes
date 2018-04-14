@@ -1,0 +1,1 @@
+createPost(string name,string content,bytes32 topic)

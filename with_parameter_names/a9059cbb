@@ -1,0 +1,1 @@
+transfer(address _to,uint256 _value);transfer(address to,uint val)

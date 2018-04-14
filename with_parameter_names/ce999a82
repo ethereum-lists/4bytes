@@ -1,0 +1,1 @@
+logDisputeCrowdsourcerCreated(IUniverse _universe,address _market,address _disputeCrowdsourcer,uint256[] _payoutNumerators,uint256 _size,bool _invalid)

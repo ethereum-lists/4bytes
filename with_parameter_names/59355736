@@ -1,0 +1,1 @@
+lockedBalanceOf(address _owner);lockedBalanceOf(address _userAddress)

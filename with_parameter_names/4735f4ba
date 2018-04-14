@@ -1,0 +1,1 @@
+iaOnInvested(address investor,uint payment,bool usingPaymentChannel);iaOnInvested(address /*investor*/,uint /*payment*/,bool /*usingPaymentChannel*/)

@@ -1,0 +1,1 @@
+addMoneyInternal(address account,uint amount)

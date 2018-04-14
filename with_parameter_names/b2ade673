@@ -1,0 +1,1 @@
+publish(uint _idx,string _link,string _image,string _title,bool _NSFW)

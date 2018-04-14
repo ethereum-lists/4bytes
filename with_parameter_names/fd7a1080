@@ -1,0 +1,1 @@
+getByteFromByte32(bytes32 _b32,uint8 byteindex)

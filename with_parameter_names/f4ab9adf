@@ -1,0 +1,1 @@
+addVoter(address _voter);addVoter(address voter)

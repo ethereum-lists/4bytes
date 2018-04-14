@@ -1,0 +1,1 @@
+addProposal(address contractToDecide,uint deadline);addProposal(address proposalAddress,uint deadline)

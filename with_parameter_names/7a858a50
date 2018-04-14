@@ -1,0 +1,1 @@
+addProductAtId(uint id,string name,uint8 price)

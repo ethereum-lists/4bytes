@@ -1,0 +1,1 @@
+deposit(string _domain,uint _amount);deposit(string account,uint amount)

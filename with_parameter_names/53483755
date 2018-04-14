@@ -1,0 +1,1 @@
+logMessage(bytes msg,Logginglevel msgLevel)

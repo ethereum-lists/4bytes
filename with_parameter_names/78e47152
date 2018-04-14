@@ -1,0 +1,1 @@
+Basic23TokenVault(address _owner,uint256 _freezeEndsAt,Basic23Token _token,uint256 _tokensToBeAllocated)

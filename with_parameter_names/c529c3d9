@@ -1,0 +1,1 @@
+setScore(Scores storage self,address player,uint score)

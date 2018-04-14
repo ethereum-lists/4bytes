@@ -1,0 +1,1 @@
+askForRegistration(uint[2] personalPublicKey,bytes32 inscriptionCode)

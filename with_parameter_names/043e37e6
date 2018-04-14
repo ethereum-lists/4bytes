@@ -1,0 +1,1 @@
+createPassport(uint countryId,bytes32 hashedPass)

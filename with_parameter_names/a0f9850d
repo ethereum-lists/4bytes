@@ -1,0 +1,1 @@
+downTick(address _owner,uint256 _now);downTick(address _holder,uint256 _now)

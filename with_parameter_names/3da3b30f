@@ -1,0 +1,1 @@
+addSponsorship(address db,address userId,uint sponsorshipId);addSponsorship(address db,uint jobId,uint sponsorId)

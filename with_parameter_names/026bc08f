@@ -1,0 +1,1 @@
+oraclize_query(uint timestamp,string datasource,string arg1,string arg2,uint gaslimit)

@@ -1,0 +1,1 @@
+initialize(Market _market,address _bondHolder,uint256 _bondAmount,bytes32 _payoutDistributionHash)

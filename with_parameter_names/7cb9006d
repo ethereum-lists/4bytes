@@ -1,0 +1,1 @@
+setNewBudget(uint _newGoalDemurrage,uint _newGoalCrowdFunding,uint _newGoalCommunityHours,uint _newGoalExpenses)

@@ -1,0 +1,1 @@
+Manager(address dataAddress);Manager(address _controller)

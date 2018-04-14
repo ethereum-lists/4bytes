@@ -1,0 +1,1 @@
+getHashFromData(bytes32 passOne,bytes32 passTwo)

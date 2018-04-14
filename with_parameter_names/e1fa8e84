@@ -1,0 +1,1 @@
+register(bytes32 _hash);register(bytes32 _name);register(bytes32 name);register(bytes32 data_hash);register(bytes32 labelHash);register(bytes32 hash)

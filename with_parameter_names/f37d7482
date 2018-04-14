@@ -1,0 +1,1 @@
+registerProduct(uint256 id,bytes32 name,bytes32 description,)

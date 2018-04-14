@@ -1,0 +1,1 @@
+getReportingWindowByMarketEndTime(uint256 _endTime,bool _hasAutomatedReporter)

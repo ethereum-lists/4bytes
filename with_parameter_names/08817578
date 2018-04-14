@@ -1,0 +1,1 @@
+doTransferFrom(address from,address to,uint256 amount);doTransferFrom(address from,address to,uint amount)

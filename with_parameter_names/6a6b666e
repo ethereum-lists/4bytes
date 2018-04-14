@@ -1,0 +1,1 @@
+_transfer(address _from,address _to,uint256 _amount);_transfer(address _from,address _to,uint256 _tokenId);_transfer(address from,address to,uint256 amount);_transfer(address _from,address _to,uint _value);_transfer(address _from,address _to,uint256 _value)

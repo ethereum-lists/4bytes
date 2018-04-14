@@ -1,0 +1,1 @@
+registerEtherToken(IEtherToken _token,bool _register)

@@ -1,0 +1,1 @@
+setMockAddress(bytes4 _func,address _value)

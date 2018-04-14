@@ -1,0 +1,1 @@
+Event(Token _collateralToken,Oracle _oracle,uint8 outcomeCount)

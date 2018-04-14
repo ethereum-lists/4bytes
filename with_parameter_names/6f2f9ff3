@@ -1,0 +1,1 @@
+getStatus(address dbAddress,address userId);getStatus(address db,uint invoiceId);getStatus(address db,uint jobId);getStatus(address db,address userId);getStatus(address db,uint contractId)

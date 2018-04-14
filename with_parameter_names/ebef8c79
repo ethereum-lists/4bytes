@@ -1,0 +1,1 @@
+getJobInvoicesByStatus(address db,uint jobId,uint8 invoiceStatus)

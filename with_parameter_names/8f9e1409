@@ -1,0 +1,1 @@
+removeSection(bytes32 index_id,bytes32 section_id)

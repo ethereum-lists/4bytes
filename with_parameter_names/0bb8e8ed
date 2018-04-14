@@ -1,0 +1,1 @@
+addToAvgRating(address db,address userId,string countKey,string key,uint8 rating)

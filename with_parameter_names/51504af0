@@ -1,0 +1,1 @@
+setFiscal(uint mesaId,bytes32 fiscalEmail)

@@ -1,0 +1,1 @@
+convert(uint _amount);convert(uint256 amount)

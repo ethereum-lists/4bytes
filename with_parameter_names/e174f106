@@ -1,0 +1,1 @@
+ManualMigration(address _original);ManualMigration(address _migrationHost)

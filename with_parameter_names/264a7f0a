@@ -1,0 +1,1 @@
+airdropsTokens(address[] _vaddr,uint256[] _vamounts)

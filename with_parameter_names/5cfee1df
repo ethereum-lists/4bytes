@@ -1,0 +1,1 @@
+ClinicalTrial(address _regulator,address _cro,uint _proposalId,uint _startDate,uint _endDate,bytes32 _drugName,bytes _ipfsHash)

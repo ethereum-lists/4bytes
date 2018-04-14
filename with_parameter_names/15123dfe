@@ -1,0 +1,1 @@
+getIfVoted(uint _proposalNumber,address _member)

@@ -1,0 +1,1 @@
+AddressGroupLogic_v1(ContractNameService _cns,AddressGroupField_v1 _field,AddressGroupEvent_v1 _event)

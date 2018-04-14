@@ -1,0 +1,1 @@
+_burn(address owner,uint256 value);_burn(address _holder,uint256 _amount);_burn(address _owner,uint256 _tokenId)

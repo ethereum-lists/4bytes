@@ -1,0 +1,1 @@
+update(uint256 table_id,uint256 row,bytes32 data1,bytes32 data2)

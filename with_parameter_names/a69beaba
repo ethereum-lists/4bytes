@@ -1,0 +1,1 @@
+vote(bytes32 candidate);vote(bytes32 name);vote(bytes32 movieName)

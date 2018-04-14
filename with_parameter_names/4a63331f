@@ -1,0 +1,1 @@
+hasRole(address addr,bytes32 role);hasRole(address _account,bytes32 _role);hasRole(address addr,string roleName)

@@ -1,0 +1,1 @@
+freezeAllowance(address _freezer,uint _daysToThaw)

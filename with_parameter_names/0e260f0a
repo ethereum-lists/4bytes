@@ -1,0 +1,1 @@
+AddContact(address newCAddress,bytes32 newCName,bytes32 PubKey_x1,bytes32 PubKey_x2,bytes32 PubKey_y1,bytes32 PubKey_y2)

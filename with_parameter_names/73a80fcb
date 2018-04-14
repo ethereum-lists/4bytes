@@ -1,0 +1,1 @@
+getVotedData(address chainperson,uint256 ballot,address voter)

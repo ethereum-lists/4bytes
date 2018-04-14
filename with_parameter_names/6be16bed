@@ -1,0 +1,1 @@
+register(string32 _name);register(string32 name)

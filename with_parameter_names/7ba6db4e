@@ -1,0 +1,1 @@
+newOffer(bytes32 _hash,string _message)

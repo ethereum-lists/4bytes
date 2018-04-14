@@ -1,0 +1,1 @@
+assertEq2(bytes2 a,bytes2 b)

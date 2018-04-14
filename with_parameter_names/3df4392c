@@ -1,0 +1,1 @@
+submitTransaction(address destination,uint value,bytes data);submitTransaction(address _destination,uint _value,bytes _data)

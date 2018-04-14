@@ -1,0 +1,1 @@
+seedCoins(address receiver,uint32 amount,string notes,uint pricePerCoin)

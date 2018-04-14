@@ -1,0 +1,1 @@
+changeSettings_only_Dev(uint newCasinoStatLimit,uint newMaxBetsBlock,uint256 newMinGamble,uint256 newMaxGamble,uint16 newMaxInvestor,uint256 newMinInvestment,uint256 newMaxInvestment,uint256 newLockPeriod,uint8 newBlockDelay,uint8 newBlockExpiration)

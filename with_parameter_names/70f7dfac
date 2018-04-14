@@ -1,0 +1,1 @@
+createInitialReporter(IController _controller,IMarket _market,address _designatedReporter)

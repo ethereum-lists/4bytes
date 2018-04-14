@@ -1,0 +1,1 @@
+decreaseSalesBalance(address retailer,address insurance,uint price)

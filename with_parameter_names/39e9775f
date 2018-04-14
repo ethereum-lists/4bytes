@@ -1,0 +1,1 @@
+getFreelancerAvgRating(address db,address userId)

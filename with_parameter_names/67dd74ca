@@ -1,0 +1,1 @@
+buyTicket(uint nonce);buyTicket(uint _numberGuessed)

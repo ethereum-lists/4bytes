@@ -1,0 +1,1 @@
+calculateFloatingValue(uint256 _badMarkets,uint256 _totalMarkets,uint256 _targetDivisor,uint256 _previousValue,uint256 _defaultValue,uint256 _floor)

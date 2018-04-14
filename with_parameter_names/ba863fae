@@ -1,0 +1,1 @@
+balanceOf(address _holder,bytes32 _symbol);balanceOf(address token,address user)

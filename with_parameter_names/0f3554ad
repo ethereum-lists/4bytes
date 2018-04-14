@@ -1,0 +1,1 @@
+addBoolListItem(bool social,address d,address addr,uint index,bool check)

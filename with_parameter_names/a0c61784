@@ -1,0 +1,1 @@
+remove(Data storage self,uint value);remove(Data storage self,address _id);remove(Data storage self,uint curr)

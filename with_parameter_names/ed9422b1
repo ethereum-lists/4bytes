@@ -1,0 +1,1 @@
+_createPermission(address _entity,address _app,bytes4 _action,address _parent);_createPermission(address _entity,address _app,bytes32 _role,address _manager)

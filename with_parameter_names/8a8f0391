@@ -1,0 +1,1 @@
+addTask(bytes ipfs,uint start,uint end,address validator,uint penalty,uint reward,uint freq)

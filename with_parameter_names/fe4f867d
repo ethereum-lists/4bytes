@@ -1,0 +1,1 @@
+addField(string _fieldName,uint _fieldType)

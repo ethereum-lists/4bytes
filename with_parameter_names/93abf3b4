@@ -1,0 +1,1 @@
+read256(Context ctx,uint addr)

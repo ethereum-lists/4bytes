@@ -1,0 +1,1 @@
+setUInt8Value(bytes32 recordFieldName,uint8 value);setUInt8Value(bytes32 record,uint8 value)

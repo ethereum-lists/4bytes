@@ -1,0 +1,1 @@
+transferTraderBalance(address oldAccount,address newAccount)

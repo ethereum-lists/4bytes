@@ -1,0 +1,1 @@
+overflowResistantFraction(uint a,uint b,uint divisor)

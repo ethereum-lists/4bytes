@@ -1,0 +1,1 @@
+encrypt(bytes32 key,bytes32 iv,bytes32[] memory data)

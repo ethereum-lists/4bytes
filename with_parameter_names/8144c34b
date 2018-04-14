@@ -1,0 +1,1 @@
+nativeProof_verify(string result,bytes proof,bytes pubkey)

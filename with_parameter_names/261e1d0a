@@ -1,0 +1,1 @@
+withdrawFrom(address _from,uint _value);withdrawFrom(address _kAddr,uint _value)

@@ -1,0 +1,1 @@
+subtract(uint256 a,uint256 b);subtract(uint x,uint y);subtract(uint a,uint b)

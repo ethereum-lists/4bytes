@@ -1,0 +1,1 @@
+getAllowance(address owner,address spender);getAllowance(address token,address owner);getAllowance(address account,address spender);getAllowance(address _owner,address _spender)

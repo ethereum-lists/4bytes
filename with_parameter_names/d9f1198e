@@ -1,0 +1,1 @@
+GetDOTDelegatedRevoker(bytes32 dothash,uint8 index)

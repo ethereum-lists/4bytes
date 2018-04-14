@@ -1,0 +1,1 @@
+LegacyRepToken(address _legacyReputationToken,uint256 _amountUsedToFreeze,address _accountToSendFrozenRepTo);LegacyRepToken(address _legacyRepContract,uint256 _amountUsedToFreeze,address _accountToSendFrozenRepTo)

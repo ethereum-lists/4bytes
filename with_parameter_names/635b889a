@@ -1,0 +1,1 @@
+addClaim(uint256 _claimType,address issuer,uint256 signatureType,bytes32 _signature,bytes32 _claim,string _uri)

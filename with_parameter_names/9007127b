@@ -1,0 +1,1 @@
+getIntValue(bytes32 record);getIntValue(bytes32 recordFieldName)

@@ -1,0 +1,1 @@
+feedAndMultiply(uint _zombieId,uint _targetDna,string _species)

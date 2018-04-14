@@ -1,0 +1,1 @@
+stringToUint(string s);stringToUint(string _str)

@@ -1,0 +1,1 @@
+addGlobalConstraint(address _globalConstraint,bytes32 _params,address _avatar)

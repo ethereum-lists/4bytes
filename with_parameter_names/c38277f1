@@ -1,0 +1,1 @@
+hasPermission(address _who,address _where,bytes32 _what,bytes _how);hasPermission(address who,address where,bytes32 what,bytes how);hasPermission(address _who,address _where,bytes32 _what,uint256[] memory _how);hasPermission(address _who,address _where,bytes32 _what,bytes memory _how)

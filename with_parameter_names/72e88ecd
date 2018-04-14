@@ -1,0 +1,1 @@
+pay(address _sender,uint _amount);pay(address _addr,uint256 _amount);pay(address _to,uint _amount);pay(address _recipient,uint _amount);pay(address user,bytes12 id)

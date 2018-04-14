@@ -1,0 +1,1 @@
+changeQuarterlyRate(bytes32 _name,uint256 _rate)

@@ -1,0 +1,1 @@
+linkAccount(uint8 accountProvider,string userId,string proofLocation)

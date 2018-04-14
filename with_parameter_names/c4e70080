@@ -1,0 +1,1 @@
+createCampaign(uint _community,bytes32 _name,bytes32 _description,bytes32 _image)

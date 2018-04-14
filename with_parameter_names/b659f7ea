@@ -1,0 +1,1 @@
+putServerAddress(string contractName,address contractAddress,uint serverStatusPar)

@@ -1,0 +1,1 @@
+setRegistry(address r);setRegistry(address _newRegistryAddress)

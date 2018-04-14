@@ -1,0 +1,1 @@
+make_transfer(address cryptobankAddress,uint256 amount,uint256 receiver_account,bytes32 message)

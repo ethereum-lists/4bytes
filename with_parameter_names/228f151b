@@ -1,0 +1,1 @@
+_setFeeStructure(uint _absMinFee,uint _feePercent,uint _absMaxFee)

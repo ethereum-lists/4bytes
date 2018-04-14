@@ -1,0 +1,1 @@
+setRootUser(address _user,bool _enabled)

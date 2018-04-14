@@ -1,0 +1,1 @@
+controla(address user,bytes32 hash,bytes32 rol)

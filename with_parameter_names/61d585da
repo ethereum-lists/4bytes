@@ -1,0 +1,1 @@
+state(bytes32 _hash);state(bytes32 _proposalId);state(bytes32 hash)

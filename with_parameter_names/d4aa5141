@@ -1,0 +1,1 @@
+newDeal(uint _depositDurationInHours,uint _claimDurationInHours,uint _claimUnitValueInWei,uint _claimDepositInWei,uint _minNumClaims)

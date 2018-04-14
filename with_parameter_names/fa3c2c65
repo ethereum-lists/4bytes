@@ -1,0 +1,1 @@
+Channel(address _owner,address _partner);Channel(address to,uint timeout)

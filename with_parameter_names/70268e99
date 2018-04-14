@@ -1,0 +1,1 @@
+createRules(address _registry,address[] _curators)

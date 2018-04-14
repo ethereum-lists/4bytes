@@ -1,0 +1,1 @@
+verifyZKPVote(uint[3] y,uint[2][2] res2D,uint[2][10] diAndriList,uint[2][10] aList,uint[2][10] bList)

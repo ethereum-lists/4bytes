@@ -1,0 +1,1 @@
+register_token(address _addr,string _name)

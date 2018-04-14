@@ -1,0 +1,1 @@
+Billing(uint256 _cost_per_day,uint256 _cost_per_energy)

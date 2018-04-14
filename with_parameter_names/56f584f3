@@ -1,0 +1,1 @@
+depositFiat(address trader,uint fiatDeposited,CurrencySymbol fiatSymbol,uint btcAsked,bytes20 btcAddress)

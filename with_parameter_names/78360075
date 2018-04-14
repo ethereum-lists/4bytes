@@ -1,0 +1,1 @@
+getHashID(address who,bytes32 factor)

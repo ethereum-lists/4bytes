@@ -1,0 +1,1 @@
+subTotalInvoiced(address db,uint contractId,uint amount)

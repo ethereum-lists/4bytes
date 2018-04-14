@@ -1,0 +1,1 @@
+setClaim(address subject,bytes32 key,bytes value)

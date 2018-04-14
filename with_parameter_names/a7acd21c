@@ -1,0 +1,1 @@
+addDataPoint(uint _subjectId,bytes32 _json)

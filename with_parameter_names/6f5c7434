@@ -1,0 +1,1 @@
+setAuthorityContract(address new_authority,AuthMode new_authMode)

@@ -1,0 +1,1 @@
+place_buy_order(uint16 quantity,string shipping_address,string zip_code,string contact_info)

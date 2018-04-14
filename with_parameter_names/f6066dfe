@@ -1,0 +1,1 @@
+lenghtenAccountFrozenState(Account storage account,uint duration)

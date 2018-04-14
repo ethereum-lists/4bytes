@@ -1,0 +1,1 @@
+getPriceByteFromCompactData(bytes32 data,ERC20 token,bool buy)

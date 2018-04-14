@@ -1,0 +1,1 @@
+configureModule(announcementType aType,uint256 value,address addr)

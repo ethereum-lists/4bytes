@@ -1,0 +1,1 @@
+init(UInt storage self,bytes32 _id)

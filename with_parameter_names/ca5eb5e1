@@ -1,0 +1,1 @@
+setDelegate(address _delegate);setDelegate(address _new)

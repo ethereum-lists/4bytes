@@ -1,0 +1,1 @@
+getContractInvoices(uint contractId,uint8 invoiceStatus)

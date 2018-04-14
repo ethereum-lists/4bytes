@@ -1,0 +1,1 @@
+calculateVote(uint _newSupplyVote,uint _newRewardVote,uint _numOfVotes)

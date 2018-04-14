@@ -1,0 +1,1 @@
+addCheck(address d,address addr,uint index,bool check)

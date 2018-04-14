@@ -1,0 +1,1 @@
+transfer(string32 _name,address _newOwner)

@@ -1,0 +1,1 @@
+setBytes32Slice(bytes _proof,uint _index,bytes32 _value)

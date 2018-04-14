@@ -1,0 +1,1 @@
+addSignature(uint256 docId,bytes16 _type,bytes _sign)

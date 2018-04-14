@@ -1,0 +1,1 @@
+update(uint index,uint amount,bytes32 items);update(uint256 _DB_id,uint256 _row,bytes32[] _data)

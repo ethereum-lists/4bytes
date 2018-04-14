@@ -1,0 +1,1 @@
+onTokenTransfer(address _from,address _to,uint256 _value);onTokenTransfer(address,address,uint256);onTokenTransfer(address _from,address _to,uint _amount)

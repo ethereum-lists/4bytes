@@ -1,0 +1,1 @@
+processAllocation(address _account,uint256 _amount);processAllocation(address _grantee,uint256 _amount)

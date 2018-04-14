@@ -1,0 +1,1 @@
+DummyContract(uint _secret,uint _wellKnown,uint[10] _array)

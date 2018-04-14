@@ -1,0 +1,1 @@
+registerDonation(address _from,uint _value);registerDonation(address _from,uint _amount)

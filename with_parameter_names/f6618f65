@@ -1,0 +1,1 @@
+_transfer(ElcoinDb _db,address _from,address _to,uint _value)

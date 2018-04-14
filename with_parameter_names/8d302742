@@ -1,0 +1,1 @@
+reveal(uint256 _campaignID,uint256 _s);reveal(uint x,bytes32 hash)

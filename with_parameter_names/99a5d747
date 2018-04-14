@@ -1,0 +1,1 @@
+calculateFee(uint _value);calculateFee(uint _amount)

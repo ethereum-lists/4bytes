@@ -1,0 +1,1 @@
+truncate(slice self,uint new_len)

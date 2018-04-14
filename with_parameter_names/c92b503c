@@ -1,0 +1,1 @@
+divide(uint _divisor,uint _divident);divide(uint a,uint b)

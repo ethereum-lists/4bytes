@@ -1,0 +1,1 @@
+DirectBalancingGroup(DirectConnectionFactory _dconf,DirectChargingFactory _dcharf,bool _isDynamicPricing)

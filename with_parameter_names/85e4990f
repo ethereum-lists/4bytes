@@ -1,0 +1,1 @@
+suicideFunds(address _destination,ERC20Basic[] _tokens);suicideFunds(address _target,ERC20Basic[] _tokens)

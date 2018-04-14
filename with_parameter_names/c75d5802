@@ -1,0 +1,1 @@
+changeVotingRules(address _fundsRecipient,uint _daysToWait)

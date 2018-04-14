@@ -1,0 +1,1 @@
+appendKeyValue(string _key,int _val);appendKeyValue(string _key,string _val);appendKeyValue(string _key,uint _val);appendKeyValue(string _key,address _val)

@@ -1,0 +1,1 @@
+manager(uint code,address a,string s,uint256 u,bool b)

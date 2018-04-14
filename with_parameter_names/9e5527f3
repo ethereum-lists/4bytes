@@ -1,0 +1,1 @@
+alterBannedStatus(address _addr,bool _newStatus)

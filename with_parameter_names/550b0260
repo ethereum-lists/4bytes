@@ -1,0 +1,1 @@
+canWrite(address _account,bytes32 _id)

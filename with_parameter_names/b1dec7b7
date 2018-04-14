@@ -1,0 +1,1 @@
+SampleOffer(address _contractor,bytes32 _hashOfTheTerms,uint _totalCosts,uint _oneTimeCosts,uint _minDailyCosts)

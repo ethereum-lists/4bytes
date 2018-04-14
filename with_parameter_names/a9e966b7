@@ -1,0 +1,1 @@
+setState(uint _state);setState(uint _value)

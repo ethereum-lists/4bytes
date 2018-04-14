@@ -1,0 +1,1 @@
+isFromCountry(address db,address userId,uint countryId)

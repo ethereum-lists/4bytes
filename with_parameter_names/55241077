@@ -1,0 +1,1 @@
+setValue(uint val);setValue(uint newvalue);setValue(uint i);setValue(uint _value);setValue(uint256 value_)

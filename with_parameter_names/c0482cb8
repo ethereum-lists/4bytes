@@ -1,0 +1,1 @@
+replace_square(uint location,bool obstacle,uint _eth,address creature)

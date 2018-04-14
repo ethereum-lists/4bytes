@@ -1,0 +1,1 @@
+getUserByUsername(bytes20 _username)

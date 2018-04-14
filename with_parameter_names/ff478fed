@@ -1,0 +1,1 @@
+approve_fixed(address _spender,uint _currentValue,uint _value)

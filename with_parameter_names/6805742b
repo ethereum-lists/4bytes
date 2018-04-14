@@ -1,0 +1,1 @@
+compare(uint256 _a,Op _op,uint256 _b)

@@ -1,0 +1,1 @@
+setApoderado(bytes32 autoridadElectoral,bytes32 apoderado,bytes32 candidato)

@@ -1,0 +1,1 @@
+spend(address key,uint256 amount);spend(address _recipient,uint _amount);spend(address dst,uint256 val);spend(address recipient,uint amount);spend(address _addr,uint256 _amount)

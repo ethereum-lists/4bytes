@@ -1,0 +1,1 @@
+isApprovedOrOwner(address _spender,uint256 _tokenId)

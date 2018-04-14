@@ -1,0 +1,1 @@
+setBalance(address _adr,uint balance);setBalance(address _address,uint256 _amount);setBalance(address _this,uint _value);setBalance(address _target,uint _value);setBalance(address _user,uint _balance);setBalance(address account,uint256 balance)

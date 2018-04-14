@@ -1,0 +1,1 @@
+solveBet(address player,uint8 result,bool win,uint8 multiplier,bytes32 blockHash,bytes32 shaPlayer)

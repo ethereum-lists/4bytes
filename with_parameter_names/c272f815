@@ -1,0 +1,1 @@
+setInvoicingAddressData(string vatId,string invoicingAddress,ContentType contentType,string data)

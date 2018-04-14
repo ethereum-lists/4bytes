@@ -1,0 +1,1 @@
+createBid(bytes32 name,address seller,address oracle,address buyer,uint price,uint timeout,uint fee)

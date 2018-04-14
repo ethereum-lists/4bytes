@@ -1,0 +1,1 @@
+initialize(MiniMeToken _token,ERC20 _wrappedToken)

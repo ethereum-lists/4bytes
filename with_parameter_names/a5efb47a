@@ -1,0 +1,1 @@
+getFreelancerContractsByStatus(address db,address userId,uint[] contractStatuses,uint[] jobStatuses)

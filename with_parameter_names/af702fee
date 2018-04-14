@@ -1,0 +1,1 @@
+checkWayFree(State storage self,uint256 fromIndex,uint256 toIndex,int8 currentPlayerColor,bool shouldCheckForCheck)

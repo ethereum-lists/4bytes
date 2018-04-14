@@ -1,0 +1,1 @@
+addSkillNames(address db,bytes32[] names,address userId)

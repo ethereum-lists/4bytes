@@ -1,0 +1,1 @@
+BancorChanger(ISmartToken _token,IBancorFormula _formula,uint32 _maxChangeFee,IERC20Token _reserveToken,uint32 _reserveRatio)

@@ -1,0 +1,1 @@
+createChannel(string module,bytes configuration,address partner,address partnerPaymentAddress,address[] auditors,)

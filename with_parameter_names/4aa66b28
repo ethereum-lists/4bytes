@@ -1,0 +1,1 @@
+getBonus(uint time);getBonus(uint256 amount);getBonus(uint amount);getBonus(uint256 _tokens)

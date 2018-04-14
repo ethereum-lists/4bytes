@@ -1,0 +1,1 @@
+setRate(uint256 _rate);setRate(uint256 _value);setRate(uint _newRate);setRate(uint _exchangeRate)

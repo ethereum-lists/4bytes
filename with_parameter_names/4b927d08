@@ -1,0 +1,1 @@
+newProposal(string meta,bytes data);newProposal(string _metadata,bytes _data)

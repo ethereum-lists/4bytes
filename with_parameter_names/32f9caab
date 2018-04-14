@@ -1,0 +1,1 @@
+setRole(address addr,bytes32 domain,bytes32 role,uint state)

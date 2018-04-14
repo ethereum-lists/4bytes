@@ -1,0 +1,1 @@
+getBidIndex(address seller,bytes32 name)

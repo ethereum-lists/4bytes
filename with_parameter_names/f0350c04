@@ -1,0 +1,1 @@
+transfer_ownership(address new_owner);transfer_ownership(address _owner);transfer_ownership(address _new_implementer);transfer_ownership(address _admin)

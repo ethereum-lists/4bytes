@@ -1,0 +1,1 @@
+addPerson(bytes32 NationalID,bytes32 FirstName,bytes32 LastName,bytes32 Gender,uint DateOfBirth,bytes32 ImageLink,address PersonAddress)

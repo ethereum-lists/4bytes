@@ -1,0 +1,1 @@
+getUIntValueConverted(bytes32 record,uint8 uintType)

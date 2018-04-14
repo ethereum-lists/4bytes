@@ -1,0 +1,1 @@
+setInvestorDataAndIssueNewToken(address _addr,uint _weiAmount,uint _tokenAmount,uint _originalTxHash)

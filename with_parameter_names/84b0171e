@@ -1,0 +1,1 @@
+Lottery(uint feePercent,uint unixEndTime,uint daysToRedeem)

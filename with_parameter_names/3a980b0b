@@ -1,0 +1,1 @@
+getCategoryInfo(address _user,uint _area,uint _category)

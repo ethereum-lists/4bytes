@@ -1,0 +1,1 @@
+destroyTokens(address,uint);destroyTokens(address _owner,uint _amount)

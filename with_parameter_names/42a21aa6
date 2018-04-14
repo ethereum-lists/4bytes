@@ -1,0 +1,1 @@
+oraclize_randomDS_setCommitment(bytes32 queryId,bytes32 commitment)

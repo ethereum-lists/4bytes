@@ -1,0 +1,1 @@
+recoverUser(User _userContract,address _newAddress)

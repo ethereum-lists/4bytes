@@ -1,0 +1,1 @@
+ProjectWithBonds(string _name,uint256 _couponNominalPrice,uint256 _couponInterestRate)

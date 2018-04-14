@@ -1,0 +1,1 @@
+newParameters(int _newDemurrage,uint _newRewardRate,int _newIniCCUs,uint _newIniR)

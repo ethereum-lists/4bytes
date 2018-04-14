@@ -1,0 +1,1 @@
+job(string _streamId,string _transcodingOptions,uint256 _maxPricePerSegment,uint256 _endBlock)

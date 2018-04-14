@@ -1,0 +1,1 @@
+registerMember(address _member,bytes _name,uint _token)

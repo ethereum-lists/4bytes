@@ -1,0 +1,1 @@
+proposeVote(Avatar _avatar,IntVoteInterface _originalIntVote,bytes32 _originalProposalId)

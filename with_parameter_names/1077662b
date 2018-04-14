@@ -1,0 +1,1 @@
+hashTransfer(address _transferId,address _channel,bytes _lockData,uint256 _sum)

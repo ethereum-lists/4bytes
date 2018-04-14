@@ -1,0 +1,1 @@
+createOffer(address coinx,uint amountx,uint coeff,bool fixe,uint index)

@@ -1,0 +1,1 @@
+hmacsha256(bytes key,bytes message)

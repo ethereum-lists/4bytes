@@ -1,0 +1,1 @@
+setSource(uint _index,TokenEmission[] _source,uint[] _coef)

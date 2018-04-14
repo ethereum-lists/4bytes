@@ -1,0 +1,1 @@
+TimeClock(string contractDetailsText,uint startDelayInSeconds,uint paymentIntervalInSeconds,uint numberOfPayments,uint minimumPaymentAmount)

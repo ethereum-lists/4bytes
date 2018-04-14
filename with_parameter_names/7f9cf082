@@ -1,0 +1,1 @@
+Queue(bytes32 tit,bytes32 desc,bool isFreeToEnter,bytes32 dat,address cr)

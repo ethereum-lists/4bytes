@@ -1,0 +1,1 @@
+getSponsorshipAmount(address db,uint sponsorshipId)

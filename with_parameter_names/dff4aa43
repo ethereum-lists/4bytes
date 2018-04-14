@@ -1,0 +1,1 @@
+solUpDownVote(bool up,uint32 sol_id,address job_user)

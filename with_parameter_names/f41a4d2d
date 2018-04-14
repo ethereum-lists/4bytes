@@ -1,0 +1,1 @@
+contribute(uint _cid,address _addr);contribute(uint _lid,address _addr);contribute(uint _campaignID,address _beneficiary)

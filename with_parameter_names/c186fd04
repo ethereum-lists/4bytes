@@ -1,0 +1,1 @@
+userSponsorshipsPred(address db,uint[] args,uint sponsorshipId)

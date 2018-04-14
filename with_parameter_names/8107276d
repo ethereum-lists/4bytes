@@ -1,0 +1,1 @@
+createContract(bytes32 contractName,uint multiplier,uint waitingWeeks,uint maxLoan)

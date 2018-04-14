@@ -1,0 +1,1 @@
+register(string _name,string _version);register(string _name,address _address);register(string _moduleName,string _moduleVersion);register(string name,address accountAddress);register(string name,address addr)

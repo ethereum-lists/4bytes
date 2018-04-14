@@ -1,0 +1,1 @@
+buyEnergy(address coinContractAddress,address seller,uint energy)

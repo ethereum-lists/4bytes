@@ -1,0 +1,1 @@
+FamilyResourceControl(uint _contractStart,uint _renewalPeriod,uint _requiredMarbles,uint _requiredExtraMarbles,uint[] _allowedDays)

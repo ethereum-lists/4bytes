@@ -1,0 +1,1 @@
+checkPermission(address _account,address _cont,bytes4 _func)

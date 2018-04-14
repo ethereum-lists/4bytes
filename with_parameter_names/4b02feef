@@ -1,0 +1,1 @@
+setLOCdata(string _name,address _mint,address _controller,uint _issueLimit,string _publishedHash,uint _expDate)

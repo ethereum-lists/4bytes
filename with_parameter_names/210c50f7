@@ -1,0 +1,1 @@
+BancorBuyer(IBancorChanger _changer,IEtherToken _etherToken)

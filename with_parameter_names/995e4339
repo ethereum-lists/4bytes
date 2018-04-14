@@ -1,0 +1,1 @@
+getResult(uint selection);getResult(uint _computationId)

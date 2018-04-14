@@ -1,0 +1,1 @@
+setToken(address _token);setToken(address newToken);setToken(address _tokenAddress);setToken(address _icoToken);setToken(address token_);setToken(address _address)

@@ -1,0 +1,1 @@
+insert(intSet storage self,int other)

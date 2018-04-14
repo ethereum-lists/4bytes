@@ -1,0 +1,1 @@
+publish(address publisher,uint256 contentID,address token,uint256 parentID)

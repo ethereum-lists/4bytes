@@ -1,0 +1,1 @@
+balanceEqual(address a,uint b,string message);balanceEqual(address A,uint b,string message)

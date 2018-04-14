@@ -1,0 +1,1 @@
+transferGroupCommune(uint _groupID,address _newCommune)

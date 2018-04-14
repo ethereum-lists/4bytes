@@ -1,0 +1,1 @@
+Timed(uint256 _startTime,uint256 life,uint8 _avarageBlockTime)

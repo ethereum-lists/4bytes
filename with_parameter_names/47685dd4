@@ -1,0 +1,1 @@
+update(string key,string desc,bool active,string help,address payTo,uint secondsLength,uint256 price)

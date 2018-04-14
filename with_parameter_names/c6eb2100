@@ -1,0 +1,1 @@
+startMultipass(string _author,string _title,string _description,string _extUrl,string _avatar,uint _regGas,address _regAddress)

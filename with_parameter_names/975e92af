@@ -1,0 +1,1 @@
+createOrder(address,Order.Types,uint256,uint256,IMarket,uint256,bytes32,bytes32,bytes32);createOrder(address _creator,Order.Types _type,uint256 _attoshares,uint256 _displayPrice,IMarket _market,uint256 _outcome,bytes32 _betterOrderId,bytes32 _worseOrderId,bytes32 _tradeGroupId)

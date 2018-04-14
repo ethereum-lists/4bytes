@@ -1,0 +1,1 @@
+confirmTransaction(MultiSigWallet wallet,uint txid)

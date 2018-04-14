@@ -1,0 +1,1 @@
+setBlockResult(uint64 channel,uint64 blockId,bytes32 resultHash)

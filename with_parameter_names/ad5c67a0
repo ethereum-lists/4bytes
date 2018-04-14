@@ -1,0 +1,1 @@
+checkProof(bytes32 rootHash,bytes rlpStack,uint[] indexes,bytes valuePrefix,bytes rlpValue)

@@ -1,0 +1,1 @@
+isAllowed(bytes32 _hash,uint _timestamp)

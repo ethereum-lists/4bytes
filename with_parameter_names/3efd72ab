@@ -1,0 +1,1 @@
+createCommunity(string _communityName,string _narrative,string _currencyName,string _cImageLink,uint _exchangeRate,uint _creditRewardRate,uint _defaultCreditLine,uint _defaultTrust,bool _open,uint _quorum,uint _bankCreditLine,uint _bankTrust)

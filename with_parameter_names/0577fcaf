@@ -1,0 +1,1 @@
+getJobs(address db,uint categoryId);getJobs(address db,uint skillId)

@@ -1,0 +1,1 @@
+buyToken(address _seller,address _token,uint _amount)

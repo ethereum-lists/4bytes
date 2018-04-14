@@ -1,0 +1,1 @@
+newRecord(string ipfs_hash,string fname,string desc)

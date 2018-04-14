@@ -1,0 +1,1 @@
+addOrPromoteAddress(Avatar _avatar,address _record,uint _amount)

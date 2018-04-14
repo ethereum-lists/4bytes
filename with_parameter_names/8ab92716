@@ -1,0 +1,1 @@
+callMigrateIn(IReputationToken _reputationToken,address _reporter,uint256 _attotokens)

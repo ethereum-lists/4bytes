@@ -1,0 +1,1 @@
+addDSource(string dsname,byte proofType,uint multiplier)

@@ -1,0 +1,1 @@
+configure(announcementType aType,uint256 value);configure(announcementType a,uint256 b)

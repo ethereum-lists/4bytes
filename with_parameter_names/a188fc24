@@ -1,0 +1,1 @@
+getBalance(address token,address owner);getBalance(address _address,address _contract)

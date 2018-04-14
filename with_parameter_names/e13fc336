@@ -1,0 +1,1 @@
+createClaim(string productId,string serialNumber,address insurance,uint amount,string description)

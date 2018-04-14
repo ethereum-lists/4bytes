@@ -1,0 +1,1 @@
+getSrcQty(ERC20 source,ERC20 dest,uint dstQty,uint rate)

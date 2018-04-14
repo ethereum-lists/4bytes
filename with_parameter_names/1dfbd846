@@ -1,0 +1,1 @@
+canUpdateInvoicingAddress(string invoicingAddress,address sender)

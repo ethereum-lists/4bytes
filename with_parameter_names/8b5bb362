@@ -1,0 +1,1 @@
+createJob(bytes32 word,uint256 bl_duration)

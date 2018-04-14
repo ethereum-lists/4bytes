@@ -1,0 +1,1 @@
+createAccount(Account storage account,uint duration,uint amount)

@@ -1,0 +1,1 @@
+TokenSale(SimpleToken _tokenContract,Trustee _trusteeContract,address _wallet)

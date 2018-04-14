@@ -1,0 +1,1 @@
+setABI(bytes32 node,uint256 contentType,bytes data)

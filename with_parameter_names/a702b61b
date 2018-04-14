@@ -1,0 +1,1 @@
+createQuote(uint256 _macbookYear,bytes32 _serial_number,bytes32 _ipfsHash);createQuote(uint256 gpsLat,uint256 gpsLong,bytes32 _ipfsHash)

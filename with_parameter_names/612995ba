@@ -1,0 +1,1 @@
+withdraw(address _to,uint _value,ERC20Interface _contract);withdraw(address from,address to,uint amount);withdraw(address _to,uint _value,address _contract)

@@ -1,0 +1,1 @@
+updateRecordWalletAddress(string _recordId,address _newWalletAddress)

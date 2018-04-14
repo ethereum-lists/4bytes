@@ -1,0 +1,1 @@
+contractExists(Data storage self,address _addr)

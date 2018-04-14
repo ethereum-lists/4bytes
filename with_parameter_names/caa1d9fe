@@ -1,0 +1,1 @@
+initLottery(uint16 numTickets,uint ticketPrice,uint8 ownerCut,bytes32 serverHash)

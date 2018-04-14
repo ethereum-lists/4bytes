@@ -1,0 +1,1 @@
+claimSolve(uint[] winners,uint contestId,uint solutionId,bool last)

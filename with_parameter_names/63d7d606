@@ -1,0 +1,1 @@
+submitAudit(address _gold,bytes32 _doc,bool _passed)

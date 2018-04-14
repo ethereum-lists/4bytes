@@ -1,0 +1,1 @@
+getKeyByIndex(itMapUintBool storage self,uint idx)

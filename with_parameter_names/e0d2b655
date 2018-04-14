@@ -1,0 +1,1 @@
+createUserByEmail(bytes32 email,bytes32 password,uint category)

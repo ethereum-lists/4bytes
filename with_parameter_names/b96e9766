@@ -1,0 +1,1 @@
+createTrade(bytes32 referenceCode,uint issueDate,uint offerExpiry,address vendor,address counterparty)

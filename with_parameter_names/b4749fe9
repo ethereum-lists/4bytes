@@ -1,0 +1,1 @@
+AddPrivateKey(string _myPrivateKey,string _MySecretPhrase)

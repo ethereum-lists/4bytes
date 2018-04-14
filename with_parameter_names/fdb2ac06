@@ -1,0 +1,1 @@
+newAppProxyPinned(IKernel _kernel,bytes32 _appId,bytes _initializePayload)

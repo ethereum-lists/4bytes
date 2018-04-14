@@ -1,0 +1,1 @@
+removeFreelancer(address db,uint[] categories,address userId);removeFreelancer(address db,uint[] skills,address userId)

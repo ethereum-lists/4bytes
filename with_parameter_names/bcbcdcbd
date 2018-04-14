@@ -1,0 +1,1 @@
+partyOwnsAsset(address _party,address _contract,string _recordId)

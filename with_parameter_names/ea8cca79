@@ -1,0 +1,1 @@
+changePrice(address register,bytes32 market,uint newPrice)

@@ -1,0 +1,1 @@
+memcpy(uint dest,uint src,uint strLen);memcpy(uint _dest,uint _src,uint _len);memcpy(uint dest,uint src,uint len)

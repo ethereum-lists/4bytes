@@ -1,0 +1,1 @@
+fund(uint funding);fund(uint _value);fund(uint _funding);fund(uint256 _value);fund(uint amount)

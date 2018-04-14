@@ -1,0 +1,1 @@
+setInvestor(address _investor,uint256 _amount)

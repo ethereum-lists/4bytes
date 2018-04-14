@@ -1,0 +1,1 @@
+AddSharedAccount(bytes32 newApp,bytes32 newUsername,bytes32 newPassword,address SenderAddress)

@@ -1,0 +1,1 @@
+resolved(bytes32 id,bytes32 state,uint size);resolved(bytes32 id,bytes32 state,uint reg)

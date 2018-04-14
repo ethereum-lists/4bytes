@@ -1,0 +1,1 @@
+supportsInterface(bytes4 interfaceID);supportsInterface(bytes4 _interfaceID)

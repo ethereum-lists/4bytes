@@ -1,0 +1,1 @@
+endorseCredit(address _borrower,uint _credit,uint _daysAfter)

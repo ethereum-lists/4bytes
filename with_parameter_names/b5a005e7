@@ -1,0 +1,1 @@
+getFrozenShareValue(IMarket _market,uint256 _numOutcomes,uint256 _outcome)

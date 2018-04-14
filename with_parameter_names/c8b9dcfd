@@ -1,0 +1,1 @@
+setRoute(string key,address addr,bool cache)

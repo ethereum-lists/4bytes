@@ -1,0 +1,1 @@
+createBallot(uint ballotType,address _registry,string _name,string _hash)

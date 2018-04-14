@@ -1,0 +1,1 @@
+addJob(address db,uint skillId,uint jobId);addJob(address db,uint categoryId,uint jobId)

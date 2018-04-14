@@ -1,0 +1,1 @@
+penalizeInactiveArbitrators(address[] accounts,uint256[] disputeIDs)

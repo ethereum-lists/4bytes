@@ -1,0 +1,1 @@
+_setUserRole(address _user,uint8 _role,bool _enabled)

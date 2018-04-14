@@ -1,0 +1,1 @@
+setMockBytes32(bytes4 _func,bytes32 _value)

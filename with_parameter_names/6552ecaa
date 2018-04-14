@@ -1,0 +1,1 @@
+createSellingProposition(address _tokenContractAddress,uint _quantity,uint _pricePerToken,uint _validForMinutes)

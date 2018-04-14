@@ -1,0 +1,1 @@
+setOutcome(int _outcome,uint8 v,bytes32 r,bytes32 s)

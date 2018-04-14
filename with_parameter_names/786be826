@@ -1,0 +1,1 @@
+addContract(bytes32 name,address newContract);addContract(bytes32,address newContract);addContract(bytes32 name,address addr)

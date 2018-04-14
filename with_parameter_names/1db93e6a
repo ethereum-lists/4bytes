@@ -1,0 +1,1 @@
+emitCategorySet(uint _area,uint _category,bytes32 _hash)

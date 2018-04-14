@@ -1,0 +1,1 @@
+emitIssue(bytes32 _symbol,uint _value,address _by)

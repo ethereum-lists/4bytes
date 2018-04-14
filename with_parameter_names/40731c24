@@ -1,0 +1,1 @@
+getPost(uint i);getPost(uint256 index)

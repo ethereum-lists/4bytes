@@ -1,0 +1,1 @@
+setName(bytes32 newName);setName(bytes32 _name);setName(bytes32 name_);setName(bytes32 name)

@@ -1,0 +1,1 @@
+postOffer(Side side,uint price,uint32 shares)

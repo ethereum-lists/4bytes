@@ -1,0 +1,1 @@
+addReserve(IERC20Token _token,uint32 _ratio,bool _enableVirtualBalance)

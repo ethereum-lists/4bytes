@@ -1,0 +1,1 @@
+TrustReso(uint[3] _scParams,address trustAddress,address persona,address[] _resoDetails)

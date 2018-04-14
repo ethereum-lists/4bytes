@@ -1,0 +1,1 @@
+getMemberStatus(address _memberG);getMemberStatus(address _member)

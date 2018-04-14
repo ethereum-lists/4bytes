@@ -1,0 +1,1 @@
+__callback(bytes32 requestId,string result);__callback(bytes32 _oraclizeID,string _result);__callback(bytes32 myid,string result);__callback(bytes32 queryId,string result);__callback(bytes32 id,string result);__callback(bytes32 oid,string result)

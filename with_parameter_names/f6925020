@@ -1,0 +1,1 @@
+isContributor(uint _campaignID,address _contributor)

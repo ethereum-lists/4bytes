@@ -1,0 +1,1 @@
+TokenTimelock(ERC20Basic _token,address _beneficiary,uint64 _releaseTime);TokenTimelock(ERC20Basic _token,address _beneficiary,uint _releaseTime);TokenTimelock(ERC20Basic _token,address _beneficiary,uint256 _releaseTime)

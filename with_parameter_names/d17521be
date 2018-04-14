@@ -1,0 +1,1 @@
+setServerStatus(string contractName,uint serverStatusPar)

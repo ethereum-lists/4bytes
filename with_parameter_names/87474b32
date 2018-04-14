@@ -1,0 +1,1 @@
+getFreelancerContracts(address userId,uint[] contractStatuses,uint[] jobStatuses)

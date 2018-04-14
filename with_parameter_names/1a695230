@@ -1,0 +1,1 @@
+transfer(address to);transfer(address newOwner);transfer(address _addr);transfer(address _owner)

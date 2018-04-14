@@ -1,0 +1,1 @@
+getCurrentPrice(uint weiRaised);getCurrentPrice(uint256 _tokenId);getCurrentPrice(uint tokensSold)

@@ -1,0 +1,1 @@
+FutureTokenSaleLockBoxMock(ERC20Interface _simpleToken,TokenSaleInterface _tokenSale,uint256 _currentTime)

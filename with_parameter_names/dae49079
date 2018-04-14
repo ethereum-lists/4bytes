@@ -1,0 +1,1 @@
+getOrder(bytes32 _orderId,Trading.TradeTypes _type,Market _market,uint8 _outcome)

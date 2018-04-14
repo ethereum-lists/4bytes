@@ -1,0 +1,1 @@
+dispatchConversionEvent(IERC20Token _connectorToken,uint256 _amount,uint256 _returnAmount,bool isPurchase)

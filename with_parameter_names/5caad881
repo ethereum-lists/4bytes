@@ -1,0 +1,1 @@
+setFiscalVerify(uint mesaId,bytes32 fiscalEmail)

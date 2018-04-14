@@ -1,0 +1,1 @@
+equals(string _self,string _str);equals(string a,string b)

@@ -1,0 +1,1 @@
+withdraw(bytes locked_encoded,bytes merkle_proof,bytes32 secret)

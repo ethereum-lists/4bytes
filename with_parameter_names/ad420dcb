@@ -1,0 +1,1 @@
+pushlink(linkedlist storage list,int pos,uint linkID,bytes32 data)

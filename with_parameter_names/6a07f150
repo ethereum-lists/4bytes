@@ -1,0 +1,1 @@
+BlockTogether(address _coupon,uint _getTogetherDate,uint _maxCapacity,uint _stakeRequired)

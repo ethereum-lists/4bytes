@@ -1,0 +1,1 @@
+newJob(bytes32 _name,bytes32 _description)

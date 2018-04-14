@@ -1,0 +1,1 @@
+create(string _name,string _symbol,uint8 _decimals,address _operator_core,string _group,address _client);create(string _name,address _baseCoords,address _atc,address _market,address _credits,bool _video_streaming)

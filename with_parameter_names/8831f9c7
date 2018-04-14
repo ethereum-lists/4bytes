@@ -1,0 +1,1 @@
+setIPAddress(bytes32 name,bytes32 ipaddress)

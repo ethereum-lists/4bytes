@@ -1,0 +1,1 @@
+delegateCustodian(address _asset,address _cstdn);delegateCustodian(address _gold,address _cstdn)

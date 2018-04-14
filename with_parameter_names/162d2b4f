@@ -1,0 +1,1 @@
+setParameters(Reputation _reputationSystem,uint _precReq,bool _allowOwner)

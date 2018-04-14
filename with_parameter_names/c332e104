@@ -1,0 +1,1 @@
+setBytesValue(bytes32 recordFieldName,bytes value);setBytesValue(bytes32 record,bytes value)

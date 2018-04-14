@@ -1,0 +1,1 @@
+enforcePayment(address issuer,address owner,Currency currency,int amount)

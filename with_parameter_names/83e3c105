@@ -1,0 +1,1 @@
+_checkClientSign(address client_addr,bytes32 hash,bytes sig)

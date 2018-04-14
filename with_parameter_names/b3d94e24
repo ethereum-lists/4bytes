@@ -1,0 +1,1 @@
+setProviderRateHistory(uint256 providerUID,uint256 schellingRound,uint8 value,bool valid)

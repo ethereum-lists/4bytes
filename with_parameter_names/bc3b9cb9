@@ -1,0 +1,1 @@
+setBase(address _account,uint64 _permission,bool _set);setBase(address addr,uint64 permFlag,bool value)

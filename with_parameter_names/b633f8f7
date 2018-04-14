@@ -1,0 +1,1 @@
+allowCnsContracts(bytes32 _id,address _cns,bytes32 _contractName)

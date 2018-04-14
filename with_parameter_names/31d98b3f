@@ -1,0 +1,1 @@
+getPrice(bytes32 _orderId);getPrice(bytes32 dataSource);getPrice(bytes32 productId);getPrice(bytes32 symbol)

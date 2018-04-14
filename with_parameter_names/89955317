@@ -1,0 +1,1 @@
+setDelegadoDeEscuela(bytes32 delegadoDistrito,bytes32 delegadoEscuela,uint escuelaId);setDelegadoDeEscuela(bytes32 email,uint idDistrito,uint idEscuela)

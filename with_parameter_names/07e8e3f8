@@ -1,0 +1,1 @@
+newCampaign(string _name,address _beneficiary,uint _fundingGoal,uint _expiry,address _config)

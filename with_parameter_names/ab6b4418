@@ -1,0 +1,1 @@
+cryptobank(bytes32 _bankCode,bytes32 _currency)

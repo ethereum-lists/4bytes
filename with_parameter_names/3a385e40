@@ -1,0 +1,1 @@
+raiseCoinsSeeded(address to,uint32 amountCoins,uint balanceCoins,uint pricePerCoin)

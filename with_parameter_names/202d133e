@@ -1,0 +1,1 @@
+closeOrder(uint _price,address _trader)

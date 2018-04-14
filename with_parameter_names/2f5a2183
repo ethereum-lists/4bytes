@@ -1,0 +1,1 @@
+ElectedBoardController(address _proxy,address[] _members,uint256 _required,address _electorate)

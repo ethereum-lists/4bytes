@@ -1,0 +1,1 @@
+Property(string _latitude,string _longitude,uint _rent,uint _security)

@@ -1,0 +1,1 @@
+_mint(address owner,uint256 value);_mint(address _to,uint256 _tokenId);_mint(address _receiver,uint256 _amount)

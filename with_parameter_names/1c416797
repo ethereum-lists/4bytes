@@ -1,0 +1,1 @@
+jsonCat(string _self,string _key,string _val);jsonCat(string _self,string _key,uint _val);jsonCat(string _self,string _key,int _val);jsonCat(string _self,string _key,address _val)

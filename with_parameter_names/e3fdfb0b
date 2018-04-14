@@ -1,0 +1,1 @@
+Addmember(string nameNew,address eth_addressNew,uint256 amountNew,bool pay_systemNew,uint256 nb_paymentNew,bool approvalRNew)

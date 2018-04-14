@@ -1,0 +1,1 @@
+set(Struct storage self,address _address,uint _uint)

@@ -1,0 +1,1 @@
+take(uint n,uint[] array);take(uint n,bytes32[] array);take(uint n,address[] array)

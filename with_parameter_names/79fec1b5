@@ -1,0 +1,1 @@
+setGivenReadings(bytes32 id,bool value,bool client)

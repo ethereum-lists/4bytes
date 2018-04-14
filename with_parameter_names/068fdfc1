@@ -1,0 +1,1 @@
+addUser(bytes32 _firstName,bytes32 _lastName,uint _balance)

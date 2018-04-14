@@ -1,0 +1,1 @@
+isSponsorableJobApproved(address db,uint jobId,address[] allowedUsers)

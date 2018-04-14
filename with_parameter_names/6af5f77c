@@ -1,0 +1,1 @@
+addRecord(string _recordId,address _owner,string _name,address _walletAddress)

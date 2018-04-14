@@ -1,0 +1,1 @@
+setProviderDetails(uint256 providerUID,string name,string website,uint256 country,string info,uint8 rate,address admin)

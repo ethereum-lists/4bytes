@@ -1,0 +1,1 @@
+addInterval(uint treeID,uint begin,uint end,bytes32 data)

@@ -1,0 +1,1 @@
+UncappedCrowdsale(address _token,PricingStrategy _pricingStrategy,address _multisigWallet,uint _start,uint _end,uint _minimumFundingGoal)

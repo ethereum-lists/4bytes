@@ -1,0 +1,1 @@
+payNode(bytes32 nodeIdent,uint32 operations);payNode(bytes32 dappIdent,bytes32 nodeIdent)

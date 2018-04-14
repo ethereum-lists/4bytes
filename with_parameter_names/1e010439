@@ -1,0 +1,1 @@
+getBalance(uint bank);getBalance(uint account)

@@ -1,0 +1,1 @@
+add(string question,bytes32 answer);add(string _batch,int _abv);add(string d1,string d2)

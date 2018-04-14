@@ -1,0 +1,1 @@
+addGame(bytes32 gameName,address player1,address player2,uint fee)

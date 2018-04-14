@@ -1,0 +1,1 @@
+calculateProceeds(IMarket _market,uint256 _outcome,uint256 _numberOfShares)

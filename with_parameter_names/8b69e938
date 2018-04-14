@@ -1,0 +1,1 @@
+addEmployee(address wallet,bytes32 firstName,bytes32 lastName,uint startDate,uint balance)

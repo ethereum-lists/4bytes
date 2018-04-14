@@ -1,0 +1,1 @@
+is_owner(uint id,address to_check)

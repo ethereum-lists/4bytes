@@ -1,0 +1,1 @@
+buy(address _to,uint _count);buy(address buyer,address ambassadorContr);buy(address beneficiaryAddress,address affilateAddress)

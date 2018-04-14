@@ -1,0 +1,1 @@
+startNewBallot(bytes32 ballotName,bool blindParam,bytes32[] proposalNames)

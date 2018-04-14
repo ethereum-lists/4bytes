@@ -1,0 +1,1 @@
+setTolerance(bytes32 id,uint value)

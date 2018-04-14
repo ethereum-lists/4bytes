@@ -1,0 +1,1 @@
+_setSkills(address _user,uint _area,uint _category,uint _skills);_setSkills(address _user,uint _areas,uint[] _categories,uint[] _skills)

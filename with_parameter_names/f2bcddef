@@ -1,0 +1,1 @@
+newCampaign(bytes32 _name,bytes32 _website,bytes32 _video)

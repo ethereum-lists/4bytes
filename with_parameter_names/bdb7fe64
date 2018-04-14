@@ -1,0 +1,1 @@
+setRating(bytes32 _key,uint256 _value)

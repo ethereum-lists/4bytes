@@ -1,0 +1,1 @@
+addAction(bytes32 description,int lon,int lat,bytes32[] newProductsNames,bytes32[] newProductsAdditionalInformation,bool _consumed)

@@ -1,0 +1,1 @@
+Democracy(token _voterShareAddress,uint _minimumQuorum,uint _debatingPeriod)

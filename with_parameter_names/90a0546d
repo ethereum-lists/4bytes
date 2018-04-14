@@ -1,0 +1,1 @@
+validate(address sender,uint id,uint[101][] attributes)

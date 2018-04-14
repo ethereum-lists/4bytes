@@ -1,0 +1,1 @@
+remove(itMapUintBool storage self,uint key)

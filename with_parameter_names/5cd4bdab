@@ -1,0 +1,1 @@
+checkProof(bytes32 root,bytes32[] proof,uint loc)

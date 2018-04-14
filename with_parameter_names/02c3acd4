@@ -1,0 +1,1 @@
+addPlayer(bytes32 playerEmail,bytes32 playerName,bytes6 playerColour)

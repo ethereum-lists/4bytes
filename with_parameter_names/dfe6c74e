@@ -1,0 +1,1 @@
+updateRoleName(address _roleid,bytes32 _name)

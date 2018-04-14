@@ -1,0 +1,1 @@
+modifyMemberInfo(string _alias,string _whisperID,string _narrative,string _imageLink)

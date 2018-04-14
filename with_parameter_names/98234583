@@ -1,0 +1,1 @@
+addBid(string _name,string _email,uint _bidAmount,address _bidder)

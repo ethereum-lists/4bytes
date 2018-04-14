@@ -1,0 +1,1 @@
+subTotalSponsored(address db,address userId,uint amount)

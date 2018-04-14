@@ -1,0 +1,1 @@
+assertEq3(bytes3 a,bytes3 b,bytes32 err)

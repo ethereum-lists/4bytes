@@ -1,0 +1,1 @@
+getIntArrayValueByKey(string _self,string _key,uint[] storage _array)

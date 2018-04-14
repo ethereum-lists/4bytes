@@ -1,0 +1,1 @@
+updateRelease(uint32 major,uint32 minor,uint32 patch,bytes20 commit,bool release)

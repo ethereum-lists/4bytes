@@ -1,0 +1,1 @@
+setUIntValue(bytes32 recordFieldName,uint value);setUIntValue(bytes32 record,uint value);setUIntValue(bytes32 key,uint value)

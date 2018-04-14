@@ -1,0 +1,1 @@
+Avatar(bytes32 _orgName,DAOToken _nativeToken,Reputation _nativeReputation)

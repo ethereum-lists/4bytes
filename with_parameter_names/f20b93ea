@@ -1,0 +1,1 @@
+getInvoiceAmountPaid(bytes32 _id)

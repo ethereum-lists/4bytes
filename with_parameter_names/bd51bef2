@@ -1,0 +1,1 @@
+bookkeeping(Acc _from,Acc _to,uint amount);bookkeeping(Acc _from,Acc _to,uint256 _amount)

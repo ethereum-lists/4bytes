@@ -1,0 +1,1 @@
+setBalance(uint newValue,bool throwOnFailure)

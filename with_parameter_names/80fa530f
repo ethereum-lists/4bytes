@@ -1,0 +1,1 @@
+ProposeProposal(bytes32 title,bytes32 url,uint256 prophash,uint requestedfund,uint deadline)

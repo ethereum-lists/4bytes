@@ -1,0 +1,1 @@
+writeMemory(State memory state,uint index,uint[4] values,Proofs memory proofs)

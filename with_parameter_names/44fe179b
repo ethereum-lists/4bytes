@@ -1,0 +1,1 @@
+logDisputeCrowdsourcerCompleted(IUniverse _universe,address _market,address _disputeCrowdsourcer)

@@ -1,0 +1,1 @@
+query(uint _timestamp,string _datasource,string _arg)

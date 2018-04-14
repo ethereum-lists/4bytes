@@ -1,0 +1,1 @@
+init(UIntEnumMapping storage self,bytes32 _id)

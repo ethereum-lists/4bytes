@@ -1,0 +1,1 @@
+publishFunctionMessage(uint id,string message,string hash,string er)

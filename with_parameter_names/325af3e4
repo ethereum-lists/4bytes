@@ -1,0 +1,1 @@
+getSkillEvaluation(address _to,uint _area,uint _category,uint _skill,address _rater)

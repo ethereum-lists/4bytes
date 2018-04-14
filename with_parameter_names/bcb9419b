@@ -1,0 +1,1 @@
+addClaim(uint256 _claimType,address _issuer,uint256 _signatureType,)

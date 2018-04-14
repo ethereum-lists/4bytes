@@ -1,0 +1,1 @@
+validateEndowment(uint _endowment,uint _bounty,uint _fee,uint _callGas,uint _callValue,uint _gasPrice,uint _gasOverhead)

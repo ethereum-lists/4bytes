@@ -1,0 +1,1 @@
+vote(uint256 key);vote(uint decision);vote(uint id);vote(uint vote);vote(uint topicID);vote(uint proposalIndex);vote(uint selection);vote(uint proposal);vote(uint voteIndex);vote(uint proposalNumber)

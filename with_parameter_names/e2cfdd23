@@ -1,0 +1,1 @@
+unregister(uint _campaignID,bytes _hash)

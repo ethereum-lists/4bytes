@@ -1,0 +1,1 @@
+voterReward(Data storage _self,address _voter,uint _salt)

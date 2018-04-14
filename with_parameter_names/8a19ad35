@@ -1,0 +1,1 @@
+setTime(uint _startTime,uint life,uint8 _avarageBlockTime)

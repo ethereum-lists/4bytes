@@ -1,0 +1,1 @@
+insertSection(Index storage index,bytes32 section_id)

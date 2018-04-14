@@ -1,0 +1,1 @@
+add_creature(address brain,string species_name)

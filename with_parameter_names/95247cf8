@@ -1,0 +1,1 @@
+migrateFrom(address _from,uint _value);migrateFrom(address _from,uint256 _value)

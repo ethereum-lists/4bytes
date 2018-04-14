@@ -1,0 +1,1 @@
+electActiveTranscoder(uint256 _maxPricePerSegment,bytes32 _blockHash,uint256 _round)

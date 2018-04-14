@@ -1,0 +1,1 @@
+setTokenPrice(uint ethRate);setTokenPrice(uint256 price)

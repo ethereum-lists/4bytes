@@ -1,0 +1,1 @@
+deposit(address _from,address _to,uint256 _value);deposit(address _from,uint _value,address _contract);deposit(address _from,uint _value,ERC20Interface _contract);deposit(address _user,address _token,uint _amount)

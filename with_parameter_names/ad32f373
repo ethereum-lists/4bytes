@@ -1,0 +1,1 @@
+onBurn(address _target,uint256 _amount);onBurn(address,uint256)

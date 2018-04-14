@@ -1,0 +1,1 @@
+decreasePaymentsBalance(address insurance,uint amount)

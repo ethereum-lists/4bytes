@@ -1,0 +1,1 @@
+contribute(uint _campaignID,address _contributor,address _beneficiary,uint _amountContributed)

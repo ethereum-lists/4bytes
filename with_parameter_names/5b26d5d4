@@ -1,0 +1,1 @@
+initWF(WFAssetProxy _proxy,uint _icoUsd,uint _icoEth,uint _icoBtc,uint _icoLtc)

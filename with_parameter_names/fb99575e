@@ -1,0 +1,1 @@
+payout(uint campaignID,address admin);payout(uint _campaignID,uint _amountPaid)

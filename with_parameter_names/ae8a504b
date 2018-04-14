@@ -1,0 +1,1 @@
+logReputationTokenBurned(IUniverse _universe,address _target,uint256 _amount)

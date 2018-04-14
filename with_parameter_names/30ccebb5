@@ -1,0 +1,1 @@
+getStatus(address ofAsset);getStatus(address _requester);getStatus(address _node)

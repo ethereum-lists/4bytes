@@ -1,0 +1,1 @@
+setPayouts(uint _policyId,uint _calculatedPayout,uint _actualPayout)

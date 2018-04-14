@@ -1,0 +1,1 @@
+power(uint256 _baseN,uint256 _baseD,uint32 _expN,uint32 _expD)

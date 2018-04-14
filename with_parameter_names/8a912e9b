@@ -1,0 +1,1 @@
+Token(uint _accountsToAllocate,address _multisignature);Token(uint256 _totalSupply,address buyerAddress)

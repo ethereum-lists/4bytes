@@ -1,0 +1,1 @@
+completeSetsLog(address _sender,Market _market,Trading.TradeTypes _type,uint256 _fxpAmount,uint256 _numOutcomes,uint256 _marketCreatorFee,uint256 _reportingFee)

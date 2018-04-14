@@ -1,0 +1,1 @@
+delKeyValue(uint id,bytes32 hash)

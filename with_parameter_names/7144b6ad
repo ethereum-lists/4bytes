@@ -1,0 +1,1 @@
+balanceOfAtType(address _owner,uint256 _blockNumber,uint256 _recordType)

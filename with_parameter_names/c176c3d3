@@ -1,0 +1,1 @@
+setMockUint256(bytes4 _func,uint256 _value)

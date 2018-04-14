@@ -1,0 +1,1 @@
+addPA(string _plArgName,string _emplyrName,string _manuName,address _manuWalletAdress,address _manuAdress,uint32 _emplyeHWage,uint32 _emplyeHours,address _emplyeAdress,address _emplyeWalletAdress,uint32 _eAid,string _attachment)

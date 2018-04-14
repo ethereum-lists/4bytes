@@ -1,0 +1,1 @@
+addAdmin(address admin);addAdmin(address _admin);addAdmin(address _account);addAdmin(address newAdmin);addAdmin(address adminAddress);addAdmin(address);addAdmin(address _node)

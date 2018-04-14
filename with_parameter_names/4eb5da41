@@ -1,0 +1,1 @@
+init(AddressBytes4Bytes32Mapping storage self,bytes32 _id)

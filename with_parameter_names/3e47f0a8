@@ -1,0 +1,1 @@
+remove(address user,uint val);remove(address _sender,bytes32 _id);remove(address _value,address[] storage _array)

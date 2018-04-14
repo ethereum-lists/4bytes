@@ -1,0 +1,1 @@
+auditReport(address gaddr,bool ares,bytes32 ed,bytes32 doc)

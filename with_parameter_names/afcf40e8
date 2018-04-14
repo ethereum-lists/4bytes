@@ -1,0 +1,1 @@
+changeStakeRate(bytes32 id,uint newRate)

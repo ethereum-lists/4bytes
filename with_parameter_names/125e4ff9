@@ -1,0 +1,1 @@
+setCoinBalance(address mappedAddress,uint32 coinBalance)

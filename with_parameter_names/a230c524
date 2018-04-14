@@ -1,0 +1,1 @@
+isMember(address _member);isMember(address _addr);isMember(address user);isMember(address _address);isMember(address person);isMember(address pusher);isMember(address _memberAdress)

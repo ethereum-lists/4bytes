@@ -1,0 +1,1 @@
+ping(address link,uint256 delta_time,uint256 delta_power_in,uint256 delta_power_out)

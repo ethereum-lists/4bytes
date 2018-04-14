@@ -1,0 +1,1 @@
+pageByAccount(address _account,uint _tranferType,uint _pageNum,uint _pageSize)

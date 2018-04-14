@@ -1,0 +1,1 @@
+validate(uint seedBlockNumber,bytes32 seed,address sender,bytes32 crypted,bytes32 result)

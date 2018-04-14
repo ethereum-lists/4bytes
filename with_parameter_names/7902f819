@@ -1,0 +1,1 @@
+withdraw(string account,uint amount);withdraw(string _domain,uint _amount)

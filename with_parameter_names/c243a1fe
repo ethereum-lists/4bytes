@@ -1,0 +1,1 @@
+grantPermission(address _entity,address _app,bytes4 _action,address _parent)

@@ -1,0 +1,1 @@
+setMockBool(bytes4 _func,bool _value)

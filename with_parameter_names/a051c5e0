@@ -1,0 +1,1 @@
+hasMinRating(address db,address userId,uint8 minAvgRating)

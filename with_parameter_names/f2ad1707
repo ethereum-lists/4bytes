@@ -1,0 +1,1 @@
+isApprovedForAll(address _owner,address _operator)

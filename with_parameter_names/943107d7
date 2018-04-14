@@ -1,0 +1,1 @@
+init(address _token,address _distributor);init(address _rico,address _cm);init(address _cmcAddress,bytes32 _seniorContractName)

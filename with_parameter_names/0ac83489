@@ -1,0 +1,1 @@
+oraclize_randomDS_proofVerify__main(bytes proof,bytes32 queryId,bytes result,string context_name)

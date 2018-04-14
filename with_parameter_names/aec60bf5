@@ -1,0 +1,1 @@
+matches(bytes32 doubleHash,bytes32 singleHash)

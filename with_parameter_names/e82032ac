@@ -1,0 +1,1 @@
+ListingDB(uint64 _nextListingId,uint64 _nextBidId,address _registry)

@@ -1,0 +1,1 @@
+newCampaign(uint _campaignID,address _owner,uint _fundingGoal)

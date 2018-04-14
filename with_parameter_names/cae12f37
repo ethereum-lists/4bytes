@@ -1,0 +1,1 @@
+checkStateProof(bytes32 blockHash,bytes rlpStack,uint[] indexes,bytes statePrefix,bytes rlpState)

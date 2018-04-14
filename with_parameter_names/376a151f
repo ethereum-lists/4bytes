@@ -1,0 +1,1 @@
+equal(bytes32 A,bytes32 B,string message);equal(bytes32 a,bytes32 b,string message)

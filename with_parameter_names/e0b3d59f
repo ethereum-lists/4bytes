@@ -1,0 +1,1 @@
+addStrip(uint num,uint16 year,uint8 month,uint8 day,string title,string safeTitle,string img,string alt,string transcript,string news)

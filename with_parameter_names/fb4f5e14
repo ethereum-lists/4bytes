@@ -1,0 +1,1 @@
+calcDoHash(string job,bytes32 data)

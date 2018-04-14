@@ -1,0 +1,1 @@
+setDelegadoDeEscuelaVerify(bytes32 delegadoDistrito,bytes32 delegadoEscuela,uint escuelaId);setDelegadoDeEscuelaVerify(bytes32 email,uint idDistrito,uint idEscuela)

@@ -1,0 +1,1 @@
+getIdArray(address db,uint id,string key,string countKey);getIdArray(address db,address id,string key,string countKey)

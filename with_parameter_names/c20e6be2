@@ -1,0 +1,1 @@
+addMember(bytes32 _username,address _userAddr)

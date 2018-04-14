@@ -1,0 +1,1 @@
+ListingService(address registrar,address _registry,AbstractListingDB _listingDB)

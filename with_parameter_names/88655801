@@ -1,0 +1,1 @@
+assertEq(strings.slice a,strings.slice b);assertEq(strings.slice a,string b)

@@ -1,0 +1,1 @@
+setVicepresidenteDeMesa(bytes32 delegadoEscuela,uint escuelaId,uint mesaId,bytes32 presidenteDeMesaEmail);setVicepresidenteDeMesa(bytes32 email,uint idDistrito,uint idEscuela,uint idMesa)

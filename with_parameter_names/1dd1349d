@@ -1,0 +1,1 @@
+getNameHash(bytes32 id);getNameHash(bytes32 _id)

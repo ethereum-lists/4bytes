@@ -1,0 +1,1 @@
+buildVotingPrivateKey(uint aPrivateKey,uint[2] bPublicKey)

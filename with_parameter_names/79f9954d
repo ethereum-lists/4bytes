@@ -1,0 +1,1 @@
+setExchangeRateByOraclize(address from,bytes32 id,string result)

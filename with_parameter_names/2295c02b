@@ -1,0 +1,1 @@
+checkVote(uint x,uint[2] yG,uint[2] voteCrypted,uint totalVoter,uint totalCandidat)

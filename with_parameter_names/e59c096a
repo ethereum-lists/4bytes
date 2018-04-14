@@ -1,0 +1,1 @@
+logTradingProceedsClaimed(IMarket _market,address _shareToken,address _sender,uint256 _numShares,uint256 _numPayoutTokens)

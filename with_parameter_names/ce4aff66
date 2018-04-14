@@ -1,0 +1,1 @@
+cofounderApproveSwitchRequest(address _newFounderAddr,bytes32 _oneTimesharedPhrase)

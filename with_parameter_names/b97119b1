@@ -1,0 +1,1 @@
+checkForCheck(State storage self,uint256 kingIndex,int8 currentPlayerColor)

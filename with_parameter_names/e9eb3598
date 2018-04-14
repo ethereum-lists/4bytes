@@ -1,0 +1,1 @@
+setup(address _easyMineToken,address _sys,address _reservationAddress,uint256 _minStartDelay,uint256 _maxDuration);setup(address _beneficiary,uint _fundingGoal,uint _duration,uint _price,address _reward)

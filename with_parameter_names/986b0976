@@ -1,0 +1,1 @@
+add(bytes32 _hash,address _addr);add(bytes32 _key,bytes32 _value);add(bytes32 _key,address _value)

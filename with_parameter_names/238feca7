@@ -1,0 +1,1 @@
+Election(bytes32[] choicesNames,uint elId,uint start,uint end)

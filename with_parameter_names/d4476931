@@ -1,0 +1,1 @@
+checkPermission(uint8 _perm,address _addr)

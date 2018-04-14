@@ -1,0 +1,1 @@
+hasFreelancerMinRatingsCount(address db,address userId,uint minRatingsCount)

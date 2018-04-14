@@ -1,0 +1,1 @@
+get(string key);get(string _hint);get(string hash);get(string _name);get(string _hash)

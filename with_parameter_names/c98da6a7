@@ -1,0 +1,1 @@
+registrarApp(bytes32 aplicacion,address a,bytes32[] b)

@@ -1,0 +1,1 @@
+MyToken(uint256 initialSupply,string tokenName,uint8 decimalUnits,string tokenSymbol,address centralMinter);MyToken(uint256 initialSupply,string tokenName,uint8 decimalUnits,string tokenSymbol /*,address centralMinter*/)

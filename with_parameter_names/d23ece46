@@ -1,0 +1,1 @@
+create(IController _controller,address _creator,uint256 _outcome,Order.Types _type,uint256 _attoshares,uint256 _price,IMarket _market,bytes32 _betterOrderId,bytes32 _worseOrderId)

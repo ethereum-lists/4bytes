@@ -1,0 +1,1 @@
+canPerform(address _sender,bytes4 _sig)

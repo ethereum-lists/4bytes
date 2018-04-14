@@ -1,0 +1,1 @@
+CreateDMSContract(address beneficiary,bytes32 data,uint32 initial_expiration_time)

@@ -1,0 +1,1 @@
+TokenManager(address[] _owners,uint _required)

@@ -1,0 +1,1 @@
+init(Config storage self,Storage _store,bytes32 _crate)

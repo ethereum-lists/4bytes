@@ -1,0 +1,1 @@
+addInfoListItem(bool social,address d,address addr,uint index,string info)

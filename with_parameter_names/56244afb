@@ -1,0 +1,1 @@
+getValueByIndex(itMapAddressUint storage self,uint idx)

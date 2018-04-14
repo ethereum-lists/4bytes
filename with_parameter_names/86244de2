@@ -1,0 +1,1 @@
+GetDChainDOTHash(bytes32 chainhash,uint8 index)

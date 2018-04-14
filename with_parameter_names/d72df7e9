@@ -1,0 +1,1 @@
+getPermission(address to,string func)

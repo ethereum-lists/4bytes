@@ -1,0 +1,1 @@
+setPrices(uint256 newSellPrice,uint256 newBuyPrice);setPrices(uint _buyPrice,uint _sellPrice)

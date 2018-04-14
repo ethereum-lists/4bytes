@@ -1,0 +1,1 @@
+addEjariRule(Locality locality,uint incrementPercentage,uint maxRent)

@@ -1,0 +1,1 @@
+TransferDetails(string _origAccount,uint _origBank,string _destAccount,uint _destBank,uint _amount,address[] _approvers)

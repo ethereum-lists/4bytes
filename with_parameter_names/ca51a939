@@ -1,0 +1,1 @@
+updateTranscoderWithRewards(address _transcoder,uint256 _rewards,uint256 _round)

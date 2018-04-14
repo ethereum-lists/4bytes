@@ -1,0 +1,1 @@
+setBlacklist(address _adr,bool _value,string _password)

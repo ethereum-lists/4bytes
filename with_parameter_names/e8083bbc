@@ -1,0 +1,1 @@
+confirmTransaction(uint id,address from,uint amount)

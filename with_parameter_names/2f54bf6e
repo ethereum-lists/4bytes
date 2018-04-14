@@ -1,0 +1,1 @@
+isOwner(address possibleOwner);isOwner(address add);isOwner(address _addr);isOwner(address account);isOwner(address accountAddress);isOwner(address ownerAddress);isOwner(address owner);isOwner(address _address);isOwner(address addr)

@@ -1,0 +1,1 @@
+assertEq8(bytes8 a,bytes8 b,bytes32 err)

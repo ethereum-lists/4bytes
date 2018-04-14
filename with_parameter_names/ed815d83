@@ -1,0 +1,1 @@
+query(bytes _query);query(bytes query)

@@ -1,0 +1,1 @@
+SaleWallet(address _multisig,uint _finalBlock,address _tokenSale)

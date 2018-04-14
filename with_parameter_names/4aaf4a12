@@ -1,0 +1,1 @@
+getOwner(string key);getOwner(string namespace)

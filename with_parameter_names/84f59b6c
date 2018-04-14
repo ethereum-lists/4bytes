@@ -1,0 +1,1 @@
+bet(uint8 pick,bool isMirrored,uint8 die)

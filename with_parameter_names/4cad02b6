@@ -1,0 +1,1 @@
+addVehicle(uint256 _cubicFeet,uint pricePerCubicFootPerHour,bytes32 startingPosition,bytes32 endingPosition,uint beginDate,uint endDate)

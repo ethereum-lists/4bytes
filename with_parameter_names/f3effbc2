@@ -1,0 +1,1 @@
+setPenalizedStatus(uint _taskId,address _memberAddr,bool _status)

@@ -1,0 +1,1 @@
+manyInputsNoReturn(uint256 _one,uint256 _two,uint256 _three,uint256 _four)

@@ -1,0 +1,1 @@
+isManager(address _managerAddress);isManager(address target)

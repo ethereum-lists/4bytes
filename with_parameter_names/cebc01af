@@ -1,0 +1,1 @@
+newAmendment(string reason,uint clause,uint value)

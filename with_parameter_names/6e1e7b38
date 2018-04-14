@@ -1,0 +1,1 @@
+vote(bool approve,string justification);vote(bool isYes,address voteSender)

@@ -1,0 +1,1 @@
+rfindPtr(uint selflen,uint selfptr,uint needlelen,uint needleptr)

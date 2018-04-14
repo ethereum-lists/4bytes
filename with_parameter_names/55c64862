@@ -1,0 +1,1 @@
+getLockedBalanceForUser(address marketContractAddress,address userAddress)

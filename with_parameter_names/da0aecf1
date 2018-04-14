@@ -1,0 +1,1 @@
+_transferCoins(address contractAddress,address from,address to,uint amount)

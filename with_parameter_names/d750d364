@@ -1,0 +1,1 @@
+startStage(uint _startTokenPriceWei,uint _tokensForSale,uint _milliPercent)

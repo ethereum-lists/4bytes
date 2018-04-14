@@ -1,0 +1,1 @@
+verify(address transactor,address transactee);verify(address who,bytes32 factor);verify(address recipient,string data)

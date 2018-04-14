@@ -1,0 +1,1 @@
+offer(string _cathegory,string _narrative,string _goodImageLink,uint _unitPrice);offer(string _name,uint256 _price,uint256 reserve,address referrer)

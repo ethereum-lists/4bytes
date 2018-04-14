@@ -1,0 +1,1 @@
+StateChannel(address addressA,address addressB,uint timeout,bytes state)

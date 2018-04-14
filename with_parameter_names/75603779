@@ -1,0 +1,1 @@
+Adjudicator(CompareOp _compareOp,address _owner,uint _timeout)

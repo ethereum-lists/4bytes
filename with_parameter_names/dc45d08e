@@ -1,0 +1,1 @@
+getEtherBalance(address _owner);getEtherBalance(address account)

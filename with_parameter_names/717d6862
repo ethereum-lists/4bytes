@@ -1,0 +1,1 @@
+emitHashSet(address _from,bytes32 _itemName,bytes32 _itemHash)

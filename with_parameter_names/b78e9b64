@@ -1,0 +1,1 @@
+isSuperior(bytes32[] _new,bytes32[] _old)

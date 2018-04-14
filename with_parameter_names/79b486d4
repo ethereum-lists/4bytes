@@ -1,0 +1,1 @@
+openProvider(bool priv,string name,string website,uint256 country,string info,uint8 rate,bool isForRent,address admin)

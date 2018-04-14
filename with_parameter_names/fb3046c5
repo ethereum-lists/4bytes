@@ -1,0 +1,1 @@
+uploadFile(uint id,uint num,bytes32 file_id,bytes32[] name_proof,bytes32[] data_proof,uint file_num)

@@ -1,0 +1,1 @@
+newAnnouncement(announcementType Type,string Announcement,string Link,bool Oppositable,)

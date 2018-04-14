@@ -1,0 +1,1 @@
+setBool(bool _bool);setBool(bool x);setBool(bool _value);setBool(bool b)

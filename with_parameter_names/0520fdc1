@@ -1,0 +1,1 @@
+setTokenSwarmHash(address _token,bytes32 _swarmHash)

@@ -1,0 +1,1 @@
+insert(Data storage self,uint prev,uint curr,uint next)

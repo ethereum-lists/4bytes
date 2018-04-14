@@ -1,0 +1,1 @@
+transferOwnership(address _newAdmin);transferOwnership(address new_owner);transferOwnership(address);transferOwnership(address _target);transferOwnership(address _newOwner);transferOwnership(address newOwner)

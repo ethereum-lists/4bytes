@@ -1,0 +1,1 @@
+setAllowance(address account,address spender,uint256 amount);setAllowance(address _owner,address _spender,uint value)

@@ -1,0 +1,1 @@
+initSale(address _seller,address _buyer,uint _price,string cargoDescription)

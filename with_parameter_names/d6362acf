@@ -1,0 +1,1 @@
+swap(address sendEtherTo,address adddressOfToken,uint tokenPriceInFinney_1000FinneyIs_1Ether,uint durationInDays)

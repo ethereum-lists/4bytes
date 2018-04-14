@@ -1,0 +1,1 @@
+setClaimBlocks(uint _claimBeforeBlock,uint _claimAfterBlock)

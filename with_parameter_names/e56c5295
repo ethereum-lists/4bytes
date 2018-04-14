@@ -1,0 +1,1 @@
+init(WFPlatform _bmcPlatform,string _symbol,string _name)

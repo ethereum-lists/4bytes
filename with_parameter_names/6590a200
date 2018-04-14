@@ -1,0 +1,1 @@
+assertEq7(bytes7 a,bytes7 b,bytes32 err)

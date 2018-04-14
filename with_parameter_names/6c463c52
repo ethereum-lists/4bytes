@@ -1,0 +1,1 @@
+getSponsorships(address db,address userId);getSponsorships(address db,uint jobId)

@@ -1,0 +1,1 @@
+WillCoin(string tokenName,uint256 initialSupply,string tokenSymbol,uint8 decimalUnits)

@@ -1,0 +1,1 @@
+VestedTokenMock(address initialAccount,uint initialBalance);VestedTokenMock(address initialAccount,uint256 initialBalance)

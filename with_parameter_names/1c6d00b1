@@ -1,0 +1,1 @@
+sendToReceiver(address intermediary,address receiver,uint amount)

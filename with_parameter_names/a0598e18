@@ -1,0 +1,1 @@
+getFlag(State storage self,Flag flag)

@@ -1,0 +1,1 @@
+jsonArrayLength(string _json,string _keyPath)

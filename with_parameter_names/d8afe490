@@ -1,0 +1,1 @@
+validateTradeInput(ERC20 source,uint srcAmount)

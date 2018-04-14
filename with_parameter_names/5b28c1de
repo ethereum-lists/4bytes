@@ -1,0 +1,1 @@
+lockBalance(uint _amount,uint _lockForBlocks)

@@ -1,0 +1,1 @@
+transfer(bytes32 _hash,address newOwner);transfer(bytes32 hash,address newOwner);transfer(bytes32 labelHash,address newOwner);transfer(bytes32 _name,address _newOwner);transfer(bytes32 itemId,address recipient)

@@ -1,0 +1,1 @@
+register(uint _campaignID,address _account);register(uint id,address service);register(uint _campaignID,bytes _hash)

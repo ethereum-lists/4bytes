@@ -1,0 +1,1 @@
+distribute(address _to,uint256 _value);distribute(address _recipient,uint _amount)

@@ -1,0 +1,1 @@
+hasStatus(address db,address userId,uint8 status)

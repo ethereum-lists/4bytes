@@ -1,0 +1,1 @@
+emitError(bytes32 _message);emitError(bytes32 _msg)

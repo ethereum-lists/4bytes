@@ -1,0 +1,1 @@
+createPeerReviewContract(address initJournal,bytes initFileHash)

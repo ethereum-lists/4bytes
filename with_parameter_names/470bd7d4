@@ -1,0 +1,1 @@
+addFreelancerFeedback(address db,uint contractId,address receiverId,string description,uint8 rating)

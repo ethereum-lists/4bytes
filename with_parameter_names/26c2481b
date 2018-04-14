@@ -1,0 +1,1 @@
+getCoinBalance(bytes4 _coin,bytes32 _userid)

@@ -1,0 +1,1 @@
+fromJsonArray(uint[] storage _self,string _json)

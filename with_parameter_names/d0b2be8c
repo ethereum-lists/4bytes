@@ -1,0 +1,1 @@
+vote(string _token,string _vote,uint _candidateId)

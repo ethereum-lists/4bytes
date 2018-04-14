@@ -1,0 +1,1 @@
+add_user(bytes32 uid,bytes32 m_uid,int perm)

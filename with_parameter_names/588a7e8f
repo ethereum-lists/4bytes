@@ -1,0 +1,1 @@
+init(address _bmcPlatform,string _symbol,string _name)

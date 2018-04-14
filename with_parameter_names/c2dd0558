@@ -1,0 +1,1 @@
+setKycRequirement(address _participant,bool _required)

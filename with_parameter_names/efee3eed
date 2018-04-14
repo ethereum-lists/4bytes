@@ -1,0 +1,1 @@
+insert(bytes32 indexName,bytes32 id,int value)

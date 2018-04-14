@@ -1,0 +1,1 @@
+push(CLL storage self,uint n,bool d);push(CLL storage self,int n,bool d)

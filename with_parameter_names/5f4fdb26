@@ -1,0 +1,1 @@
+pageBuyRecordByAccount(address _account,uint _pageNum,uint _pageSize)

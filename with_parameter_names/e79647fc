@@ -1,0 +1,1 @@
+setHiringDone(address db,uint jobId,address senderId)

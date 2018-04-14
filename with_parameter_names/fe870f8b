@@ -1,0 +1,1 @@
+getPermissionParamsLength(address _entity,address _app,bytes32 _role)

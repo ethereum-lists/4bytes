@@ -1,0 +1,1 @@
+get(Config storage self,AddressUIntUIntUIntUIntStructAddressUInt8Mapping storage item,address _key,uint _key2,uint _key3,uint _key4,uint _key5);get(Config storage self,AddressUIntUIntUIntAddressUInt8Mapping storage item,address _key,uint _key2,uint _key3,uint _key4,address _key5)

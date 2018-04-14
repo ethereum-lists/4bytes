@@ -1,0 +1,1 @@
+addManager(address _newManagerAddress);addManager(address newManager);addManager(address _acc)

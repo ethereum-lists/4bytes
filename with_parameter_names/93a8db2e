@@ -1,0 +1,1 @@
+changeStakeRate(address register,bytes32 market,uint newRate)

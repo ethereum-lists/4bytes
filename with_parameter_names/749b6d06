@@ -1,0 +1,1 @@
+registerNode(string _id,string _ip,uint _port,NodeType _category,string _desc,string _CAhash,string _agencyinfo,uint _idx)

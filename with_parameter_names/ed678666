@@ -1,0 +1,1 @@
+newProposal(uint _proposalCommunity,string _title,string _narrative,uint _days,uint _quorum);newProposal(uint _proposalGroup,string _title,string _description,uint _days,uint _quorum)

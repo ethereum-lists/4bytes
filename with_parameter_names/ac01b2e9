@@ -1,0 +1,1 @@
+verifyIdentity(address who,bytes32 factor,uint256 hash)

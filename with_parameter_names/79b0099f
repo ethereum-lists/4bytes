@@ -1,0 +1,1 @@
+getVote(address voter,address sol_user,uint32 sol_id)

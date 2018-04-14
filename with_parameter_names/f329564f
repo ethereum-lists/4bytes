@@ -1,0 +1,1 @@
+vote(string community,string key,uint amount,bool support)

@@ -1,0 +1,1 @@
+update(uint amount);update(uint256 marketCap);update(uint256 _signatureHash);update(uint newBalance);update(uint256 newCurrent);update(uint _price);update(uint _newCurrent);update(uint delay);update(uint newPrice)

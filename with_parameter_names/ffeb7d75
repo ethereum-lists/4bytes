@@ -1,0 +1,1 @@
+setUpgradeMaster(address master);setUpgradeMaster(address _master)

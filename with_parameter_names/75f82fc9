@@ -1,0 +1,1 @@
+isCategory(bytes32 participant,ParticipantCategory category)

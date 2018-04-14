@@ -1,0 +1,1 @@
+ChildContract(uint8 id,address own,bytes32 nm)

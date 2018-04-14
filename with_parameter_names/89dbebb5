@@ -1,0 +1,1 @@
+fillOrder(bytes32 _orderId,Trading.TradeTypes _orderType,Market _market,uint8 _orderOutcome,uint256 _sharesFilled,uint256 _tokensFilled)

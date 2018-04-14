@@ -1,0 +1,1 @@
+addCollaborate(uint _campaign,address _collaborator,bytes32 _description,uint _amount)

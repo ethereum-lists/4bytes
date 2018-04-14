@@ -1,0 +1,1 @@
+buy(uint _amount);buy(uint256 _minReturn);buy(uint ref);buy(uint256 _attotokens)

@@ -1,0 +1,1 @@
+connectTokens(address tokenContractAddr,address premiumContractAddr)

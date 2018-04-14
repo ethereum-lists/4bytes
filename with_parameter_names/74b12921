@@ -1,0 +1,1 @@
+sanityCheck(uint256 fromIndex,uint256 toIndex,int8 fromFigure,int8 toFigure,int8 currentPlayerColor)

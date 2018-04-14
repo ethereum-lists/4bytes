@@ -1,0 +1,1 @@
+receiveSpendingDeposit(address depositSender,uint256 amount)

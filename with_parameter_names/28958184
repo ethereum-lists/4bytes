@@ -1,0 +1,1 @@
+copy(bytes _d,uint256 _src,uint256 _pos,uint256 _length)

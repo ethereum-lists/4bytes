@@ -1,0 +1,1 @@
+calculateFee(uint amount,address seller);calculateFee(uint _value,address _contract)

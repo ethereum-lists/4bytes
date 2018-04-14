@@ -1,0 +1,1 @@
+getCurrentTranche(uint weiRaised);getCurrentTranche(uint tokensSold)

@@ -1,0 +1,1 @@
+dealBuyContract(uint con_id,uint sheet_id_,string  buy_or_sell,uint price,);dealBuyContract(uint con_id,uint receipt_id,string  buy_or_sell,uint price,)

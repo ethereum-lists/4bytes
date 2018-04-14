@@ -1,0 +1,1 @@
+FileObjectLogic_v2(ContractNameService _cns,FileObjectField_v1 _field_v1,FileObjectField_v2 _field_v2,FileObjectEvent_v1 _event_v1,DataObject_v2 _dataObject_v2,AddressGroup_v1 _addressGroup_v1)

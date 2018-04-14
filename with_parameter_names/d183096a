@@ -1,0 +1,1 @@
+insert(AddressBoolMap storage self,address key)

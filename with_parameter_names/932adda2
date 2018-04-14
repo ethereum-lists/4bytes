@@ -1,0 +1,1 @@
+newNode(bytes32 node_id,bytes32 left_id,bytes32 right_id,bytes32 parent_id,bytes32 data)

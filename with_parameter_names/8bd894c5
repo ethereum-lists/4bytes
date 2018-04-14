@@ -1,0 +1,1 @@
+externalTokenTransferFrom(StandardToken _externalToken,address _from,address _to,uint _value,address _avatar)

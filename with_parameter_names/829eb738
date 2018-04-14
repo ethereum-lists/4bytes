@@ -1,0 +1,1 @@
+quickConvert(IERC20Token[] _path,uint256 _amount,uint256 _minReturn)

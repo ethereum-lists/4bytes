@@ -1,0 +1,1 @@
+logEvent(string _ipfsHash,bool isValid)

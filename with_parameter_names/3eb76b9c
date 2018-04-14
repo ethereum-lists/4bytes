@@ -1,0 +1,1 @@
+castVote(uint _voteFor);castVote(uint id)

@@ -1,0 +1,1 @@
+getTracksByArtist(address id,uint offset,uint count)

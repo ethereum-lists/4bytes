@@ -1,0 +1,1 @@
+getVotes(uint _electionId,address _voter)

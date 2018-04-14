@@ -1,0 +1,1 @@
+setMember(address _sender,bytes32 _id,address _member,bool _isAdded)

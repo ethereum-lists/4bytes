@@ -1,0 +1,1 @@
+setCompactData(bytes14[] buy,bytes14[] sell,uint blockNumber,uint[] indices)

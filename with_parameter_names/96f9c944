@@ -1,0 +1,1 @@
+ADChainGrants(bytes32 chainhash,bytes8 adps,bytes32 mvk,bytes urisuffix)

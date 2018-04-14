@@ -1,0 +1,1 @@
+FundsRegistryTestHelper(address[] _owners,uint _signaturesRequired,address _controller)

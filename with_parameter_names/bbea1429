@@ -1,0 +1,1 @@
+freezeContract(bool freeze,uint nonce,uint8[] sigV,bytes32[] sigR,bytes32[] sigS)

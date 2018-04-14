@@ -1,0 +1,1 @@
+voterReward(address _voter,uint _challengeID,uint _salt)

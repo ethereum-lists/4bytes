@@ -1,0 +1,1 @@
+modifyCommunityInfo(uint _communityID,string _communityName,string _narrative,string _currencyName,string _cImageLink)

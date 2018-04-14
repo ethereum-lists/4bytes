@@ -1,0 +1,1 @@
+getSenderStatus(address sender,uint256 providerUID)

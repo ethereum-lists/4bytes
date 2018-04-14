@@ -1,0 +1,1 @@
+StandardMarketWithPriceLogger(address _creator,Event _eventContract,MarketMaker _marketMaker,uint24 _fee,uint _startDate)

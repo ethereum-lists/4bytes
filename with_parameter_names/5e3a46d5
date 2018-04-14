@@ -1,0 +1,1 @@
+MintableMultiownedTokenTestHelper(address[] _owners,uint _signatures,address _minter)

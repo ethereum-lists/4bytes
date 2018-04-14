@@ -1,0 +1,1 @@
+register(address ofModule,string name,uint moduleClass,string url,string ipfsHash,string accountSlashRepo,bytes20 commitHash)

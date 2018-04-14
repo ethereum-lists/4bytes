@@ -1,0 +1,1 @@
+testDecodeTransfer(bytes signed_transfer);testDecodeTransfer(bytes locked_encoded)

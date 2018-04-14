@@ -1,0 +1,1 @@
+setTotalSupply(uint256 _totalSupply);setTotalSupply(uint256 aTotalSupply)

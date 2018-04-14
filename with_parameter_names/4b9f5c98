@@ -1,0 +1,1 @@
+vote(bool _vote);vote(bool _inSupport);vote(bool favorable)

@@ -1,0 +1,1 @@
+verifyCode(bytes32 factor,uint256 key)

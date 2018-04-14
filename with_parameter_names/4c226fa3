@@ -1,0 +1,1 @@
+OraclizeVerifier(address _controller,string _verificationCodeHash,uint256 _gasPrice,uint256 _gasLimit)

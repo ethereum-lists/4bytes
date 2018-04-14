@@ -1,0 +1,1 @@
+migrateTo(address beneficiary,uint256 amount);migrateTo(address to,uint256 amount)

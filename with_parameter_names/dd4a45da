@@ -1,0 +1,1 @@
+insertNodeBatch(bytes32 index_id,bytes32[2][5] data)

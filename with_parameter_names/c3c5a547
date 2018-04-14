@@ -1,0 +1,1 @@
+isRegistered(address _account);isRegistered(address key);isRegistered(address _addr);isRegistered(address _user);isRegistered(address sender);isRegistered(address _address);isRegistered(address _gold);isRegistered(address citizen)

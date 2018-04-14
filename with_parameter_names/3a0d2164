@@ -1,0 +1,1 @@
+getVisaPrice(address _user,uint _country,uint _arrayPosition)

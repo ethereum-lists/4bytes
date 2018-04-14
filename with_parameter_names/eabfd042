@@ -1,0 +1,1 @@
+addFeedback(address db,uint contractId,address senderId,string feedback,uint8 rating)

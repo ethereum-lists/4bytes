@@ -1,0 +1,1 @@
+addProposal(uint marketEvaluationTime,uint preConditionEvaluationTime,PreCondition preCondition,uint metricStartEvaluationTime,uint metricEndEvaluationTime,Metric metric,uint actionEvaluationTime,Action action,uint sendQuantity,address recipientAddress)

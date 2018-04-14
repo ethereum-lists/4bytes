@@ -1,0 +1,1 @@
+addService(string name,string endpoint,uint model,uint price,uint cancellation)

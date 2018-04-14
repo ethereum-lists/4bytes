@@ -1,0 +1,1 @@
+Ballot(string name,bytes32[] proposalNames)

@@ -1,0 +1,1 @@
+sendFunds(address destination,uint amount,bytes data);sendFunds(address _recipient,Acc _from,uint _amount)

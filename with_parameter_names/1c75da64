@@ -1,0 +1,1 @@
+RedditRegistry(bytes32 _root,uint8 _modDayRate,uint16 _endowDuration)

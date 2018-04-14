@@ -1,0 +1,1 @@
+checkTransferAllowed(address _sender,address _to)

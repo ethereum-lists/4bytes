@@ -1,0 +1,1 @@
+addProperty(bytes32 NationalID,bytes32 PropertyID,bytes32 PropertyType,bytes32 Address,bytes32 City,uint ZipCode,bytes32 Country,bytes32 ImageLink,uint SaleValue)

@@ -1,0 +1,1 @@
+Shares(string _name,string _symbol,uint _decimal,uint _creationTime)

@@ -1,0 +1,1 @@
+migrateBalanceFromLegacyRep(address _holder,ERC20 _legacyRepToken)

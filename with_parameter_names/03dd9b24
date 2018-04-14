@@ -1,0 +1,1 @@
+revoke(address transactor,address transactee);revoke(address recipient,bytes32 badgeHash);revoke(address _for,uint outcomeTokenCount)

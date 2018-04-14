@@ -1,0 +1,1 @@
+register(bytes32 dnsName,bytes32 entry,address owner)

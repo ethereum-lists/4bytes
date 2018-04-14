@@ -1,0 +1,1 @@
+SetPoolEntryFee(string _PoolName,uint256 _Price)

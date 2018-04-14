@@ -1,0 +1,1 @@
+newAPM(bytes32 tld,bytes32 label,address _root);newAPM(bytes32 _tld,bytes32 _label,address _root)

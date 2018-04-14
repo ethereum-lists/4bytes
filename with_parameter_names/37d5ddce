@@ -1,0 +1,1 @@
+revealVote(uint _pollID,uint _voteOption,uint _salt)

@@ -1,0 +1,1 @@
+indexOf(string _self,string _str);indexOf(string _a,string _b);indexOf(string _haystack,string _needle)

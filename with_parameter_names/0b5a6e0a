@@ -1,0 +1,1 @@
+setBlockDotBlockHash(uint forBlockNumber,bytes32 _blockHash)

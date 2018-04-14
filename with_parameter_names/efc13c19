@@ -1,0 +1,1 @@
+increaseClaimsBalance(address retailer,address insurance,uint amount)

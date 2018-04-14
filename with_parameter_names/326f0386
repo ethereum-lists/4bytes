@@ -1,0 +1,1 @@
+deleteSharedAccount(bytes32 delApp,bytes32 delUsername,uint timeLimited);deleteSharedAccount(bytes32 Identity,bytes32 targetApp,bytes32 targetUsername)

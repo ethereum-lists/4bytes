@@ -1,0 +1,1 @@
+setGlobal(uint64 _permission,bool _set);setGlobal(uint64 permFlag,bool value)

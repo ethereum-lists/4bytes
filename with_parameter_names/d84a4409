@@ -1,0 +1,1 @@
+vote(uint issue,bool approve,uint amount);vote(uint256 _proposalID,uint256 _position,uint256 _weight)

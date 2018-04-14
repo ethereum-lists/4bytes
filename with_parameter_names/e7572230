@@ -1,0 +1,1 @@
+getPrice(uint _blockNumber);getPrice(uint dateTime)

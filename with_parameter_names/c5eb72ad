@@ -1,0 +1,1 @@
+setprices(uint256 newsellprice,uint256 newbuyprice)

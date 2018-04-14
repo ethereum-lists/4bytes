@@ -1,0 +1,1 @@
+init(AddressBytes4BoolMapping storage self,bytes32 _id)

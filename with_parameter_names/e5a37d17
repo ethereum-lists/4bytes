@@ -1,0 +1,1 @@
+createPaper(string _title,uint _paperUID,uint _price)

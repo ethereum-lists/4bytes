@@ -1,0 +1,1 @@
+Party(string _name,address _administrator,string _contactDetails)

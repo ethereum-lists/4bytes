@@ -1,0 +1,1 @@
+insert(uint256 table_id,bytes32 data1,bytes32 data2)

@@ -1,0 +1,1 @@
+queryPermissions(address _account);queryPermissions(address _role)

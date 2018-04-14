@@ -1,0 +1,1 @@
+verifyZKPNullVote(uint[2] xG,uint[2] yG,uint[2] voteNull,uint r,uint[3] vG,uint[3] vH)

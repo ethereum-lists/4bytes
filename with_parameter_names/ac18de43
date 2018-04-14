@@ -1,0 +1,1 @@
+removeManager(address manager);removeManager(address _manager);removeManager(address oldManager);removeManager(address _managerAddress)

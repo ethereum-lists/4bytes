@@ -1,0 +1,1 @@
+inArrayNoCase(string _self,string[] storage _array)

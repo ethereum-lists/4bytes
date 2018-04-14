@@ -1,0 +1,1 @@
+getUserStatus(uint _boardId,address _user)

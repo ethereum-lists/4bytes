@@ -1,0 +1,1 @@
+makeConcept(address[] parentList,uint[] _propagationRates,uint _lifetime,bytes _data,address _owner)

@@ -1,0 +1,1 @@
+addToWhiteList(string contractName,address addr)

@@ -1,0 +1,1 @@
+limitAccount(address _acc,uint _limit)

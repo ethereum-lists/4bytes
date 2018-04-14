@@ -1,0 +1,1 @@
+createDisputeCrowdsourcer(IController _controller,IMarket _market,uint256 _size,bytes32 _payoutDistributionHash,uint256[] _payoutNumerators,bool _invalid)

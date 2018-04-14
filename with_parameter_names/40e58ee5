@@ -1,0 +1,1 @@
+cancel(uint id);cancel(uint256 commit);cancel(uint _price)

@@ -1,0 +1,1 @@
+getSaleReturn(IERC20Token _reserveToken,uint256 _sellAmount);getSaleReturn(IERC20Token _connectorToken,uint256 _sellAmount)

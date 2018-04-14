@@ -1,0 +1,1 @@
+proposeGlobalConstraint(Avatar _avatar,address _gc,bytes32 _params,bytes32 _voteToRemoveParams)

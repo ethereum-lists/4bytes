@@ -1,0 +1,1 @@
+balance(address who);balance(address addr);balance(address usr)

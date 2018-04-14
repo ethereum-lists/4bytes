@@ -1,0 +1,1 @@
+MultisigWalletMock(address[] _owners,uint _required,uint _daylimit)

@@ -1,0 +1,1 @@
+setIdArray(address db,uint id,string key,string countKey,address[] array);setIdArray(address db,uint id,string key,string countKey,uint[] array);setIdArray(address db,address id,string key,string countKey,uint[] array)

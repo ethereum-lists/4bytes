@@ -1,0 +1,1 @@
+newProposal(address _recipient,uint _amount,bytes32 _data,bytes32 _descriptionHash);newProposal(address _recipient,uint _amount,bytes32 _data,string _description)

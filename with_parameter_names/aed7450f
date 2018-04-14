@@ -1,0 +1,1 @@
+addLog(string log,string logContent);addLog(string logTag,string logContent)

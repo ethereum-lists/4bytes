@@ -1,0 +1,1 @@
+shaBid(bytes32 hash,address owner,uint value,bytes32 salt)

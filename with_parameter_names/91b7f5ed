@@ -1,0 +1,1 @@
+setPrice(uint256 value);setPrice(uint _price);setPrice(uint newPrice);setPrice(uint _priceInTokens);setPrice(uint p);setPrice(uint price)

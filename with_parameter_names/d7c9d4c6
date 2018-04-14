@@ -1,0 +1,1 @@
+canCall(address _src,address _code,bytes4 _sig);canCall(address caller,address callee,bytes4 sig);canCall(address _user,address _code,bytes4 _sig);canCall(address caller_address,address code_address,bytes4 sig);canCall(address src,address dst,bytes4 sig)

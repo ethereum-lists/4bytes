@@ -1,0 +1,1 @@
+addRole(address addr,bytes32 role);addRole(address addr,string roleName);addRole(address,bytes32);addRole(address _account,bytes32 _role)

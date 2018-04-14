@@ -1,0 +1,1 @@
+insertNodeBatch(Section storage sector,bytes32 left,bytes32 right,bytes32 node_id,bytes32 data)

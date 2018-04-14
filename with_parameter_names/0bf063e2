@@ -1,0 +1,1 @@
+onTransfer(address _from,address _to,uint _amount);onTransfer(address _from,address _to,uint256 _value);onTransfer(address _from,address,uint256);onTransfer(address,address,uint256)

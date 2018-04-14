@@ -1,0 +1,1 @@
+feePoolShare(EarningsPool.Data storage earningsPool,uint256 _stake,bool _isTranscoder)

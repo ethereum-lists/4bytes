@@ -1,0 +1,1 @@
+getNewCoinsIssued(uint _lockedBalance,uint _blockDifference,uint _percentReward)

@@ -1,0 +1,1 @@
+multiAddDSource(bytes32[] dsHash,uint256[] multiplier)

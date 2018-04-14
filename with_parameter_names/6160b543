@@ -1,0 +1,1 @@
+penalizeInactiveJuries(address[] accounts,uint256[] disputeIDs)

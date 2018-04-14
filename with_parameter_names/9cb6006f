@@ -1,0 +1,1 @@
+addEjariRule(string latitude,string longitude,uint incrementPercentage,uint maxRent)

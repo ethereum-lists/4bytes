@@ -1,0 +1,1 @@
+registerContract(address _addr,bytes32 _id,bool _isControlled)

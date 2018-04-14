@@ -1,0 +1,1 @@
+reset(uint _value_goal,uint _value_crowdsale,uint _value_game,uint _value_duration,string _password)

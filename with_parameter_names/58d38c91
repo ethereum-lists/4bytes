@@ -1,0 +1,1 @@
+newCampaign(address beneficiary,uint goal,uint deadline);newCampaign(address beneficiary,uint fundingGoal,uint endDate)

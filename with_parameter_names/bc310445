@@ -1,0 +1,1 @@
+publicTrade(Order.TradeDirections _direction,IMarket _market,uint256 _outcome,uint256 _fxpAmount,uint256 _price,bytes32 _betterOrderId,bytes32 _worseOrderId,bytes32 _tradeGroupId);publicTrade(Order.TradeDirections _direction,IMarket _market,uint256 _outcome,uint256 _fxpAmount,uint256 _price,bytes32 _betterOrderId,bytes32 _worseOrderId,uint256 _tradeGroupID)

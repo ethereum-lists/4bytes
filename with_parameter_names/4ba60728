@@ -1,0 +1,1 @@
+createTopic(string name,string content,uint forum)

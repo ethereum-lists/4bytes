@@ -1,0 +1,1 @@
+getEmployer(address db,uint contractId);getEmployer(address db,uint jobId)

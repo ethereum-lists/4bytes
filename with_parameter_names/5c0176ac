@@ -1,0 +1,1 @@
+Whitelist(address[] _whitelists,uint256 _maxAddresses)

@@ -1,0 +1,1 @@
+createProduct(bytes32 _name,bytes32 _additionalInformation,address[] _parentProducts,int _lon,int _lat,address DATABASE_CONTRACT)

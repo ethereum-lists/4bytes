@@ -1,0 +1,1 @@
+merge(address[] otherProducts,bytes32 newProductName,bytes32 newProductAdditionalInformation,int lon,int lat)

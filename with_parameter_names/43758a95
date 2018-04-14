@@ -1,0 +1,1 @@
+initialize(uint x,uint y,uint8 _eth_deposits,uint _eth_amount,uint _starting_eth,CreatureBuilder _creature_builder);initialize(uint256 _hsp,uint256 _hrp,uint256 _bdur,uint256 _dbt,uint256 _mim,uint256 _vssm)

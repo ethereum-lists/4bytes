@@ -1,0 +1,1 @@
+assertEqDecimal(uint a,uint b,uint decimals)

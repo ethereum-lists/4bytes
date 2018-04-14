@@ -1,0 +1,1 @@
+changeName(bytes _beneficiaryName,bytes _newName)

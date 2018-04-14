@@ -1,0 +1,1 @@
+isApproved(address _proxy);isApproved(address addr)

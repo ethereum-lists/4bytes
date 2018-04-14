@@ -1,0 +1,1 @@
+getInvoicesByStatus(address db,uint contractId,uint8 invoiceStatus)

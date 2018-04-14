@@ -1,0 +1,1 @@
+getSkill(uint _area,uint _category,uint _skill)

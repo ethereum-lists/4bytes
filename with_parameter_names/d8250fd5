@@ -1,0 +1,1 @@
+FileObjectLogic_v1(ContractNameService _cns,FileObjectField_v1 _field,FileObjectEvent_v1 _event,DataObject_v1 _dataObject,AddressGroup_v1 _addressGroup)

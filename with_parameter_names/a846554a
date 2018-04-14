@@ -1,0 +1,1 @@
+setAdOwner(uint _idx,address _newOwner)

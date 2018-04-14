@@ -1,0 +1,1 @@
+setCreditBitContract(address _newCreditBitAddress);setCreditBitContract(address _creditBitAddress)

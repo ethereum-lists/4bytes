@@ -1,0 +1,1 @@
+OwnableWithRecovery(address[] _recoveryAddresses,uint8 _minVoteCount)

@@ -1,0 +1,1 @@
+setFiscalVerify(bytes32 apoderadoDePartido,bytes32 candidato,bytes32 fiscalEmail,uint distritoId,uint escuelaId,uint mesaId)

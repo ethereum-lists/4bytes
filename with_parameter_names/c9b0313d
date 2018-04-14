@@ -1,0 +1,1 @@
+validateProof(uint32 rand,bytes32 lotteryHash,WinnerProof proof)

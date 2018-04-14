@@ -1,0 +1,1 @@
+createIdea(address ideaOwner,address[] partiesEntry,string descriptionEntry)

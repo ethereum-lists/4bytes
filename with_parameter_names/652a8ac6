@@ -1,0 +1,1 @@
+addSolution(bytes32 my_desc,address job_user,uint32 job_id)

@@ -1,0 +1,1 @@
+calcProfit(Market market,uint8 outcomeTokenIndex,uint outcomeTokenCount)

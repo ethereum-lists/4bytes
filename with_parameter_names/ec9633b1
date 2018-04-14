@@ -1,0 +1,1 @@
+createShareToken(Controller _controller,Market _market,uint8 _outcome)

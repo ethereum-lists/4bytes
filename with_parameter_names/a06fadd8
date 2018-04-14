@@ -1,0 +1,1 @@
+getMaxLossAfterTrade(address user,uint optionChainID,uint optionID,int positionChange,int cashChange)

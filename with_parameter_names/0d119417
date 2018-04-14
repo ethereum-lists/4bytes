@@ -1,0 +1,1 @@
+getAwarding(address recipient,bytes32 badgeHash)

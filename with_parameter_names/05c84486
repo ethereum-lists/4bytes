@@ -1,0 +1,1 @@
+setInvoiceCancelled(address db,address senderId,uint invoiceId)

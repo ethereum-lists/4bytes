@@ -1,0 +1,1 @@
+set(Config storage self,AddressUIntUIntAddressUInt8Mapping storage item,address _key,uint _key2,uint _key3,address _key4,uint8 _value);set(Config storage self,AddressUIntUIntStructAddressUInt8Mapping storage item,address _key,uint _key2,uint _key3,address _value,uint8 _value2)

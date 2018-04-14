@@ -1,0 +1,1 @@
+migrate(address beneficiary,uint256 amount)

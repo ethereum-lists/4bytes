@@ -1,0 +1,1 @@
+offerBtc(address trader,uint btcOffered,bytes32 userVdcIban)

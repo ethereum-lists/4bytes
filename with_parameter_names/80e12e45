@@ -1,0 +1,1 @@
+setPrice(Market _market,uint8 _outcome,int256 _fxpPrice)

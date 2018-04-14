@@ -1,0 +1,1 @@
+BiathlonNode(address _nodelist,string _name,string _location,string _url)

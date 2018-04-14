@@ -1,0 +1,1 @@
+verifyZKP(uint[2] xG,uint r,uint[3] vG)

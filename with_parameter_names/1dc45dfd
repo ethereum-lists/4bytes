@@ -1,0 +1,1 @@
+buyToken(address _from,uint _value,uint _minReturn,bool transfered)

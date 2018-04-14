@@ -1,0 +1,1 @@
+executeDecayFunction(uint256 _amount,int256 _rangeLength,int256 _distanceInRange,uint256 _startPercent,uint256 _endPercent)

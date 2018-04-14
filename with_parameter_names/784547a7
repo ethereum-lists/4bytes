@@ -1,0 +1,1 @@
+isConfirmed(uint transactionId);isConfirmed(uint _transactionId)

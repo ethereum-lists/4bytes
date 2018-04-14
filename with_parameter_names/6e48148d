@@ -1,0 +1,1 @@
+NewPoll(string _options,string _title,uint _votelimit,uint _deadline)

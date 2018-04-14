@@ -1,0 +1,1 @@
+mintToken(address target,uint256 mintedAmount);mintToken(address _target,uint256 _mintedAmount)

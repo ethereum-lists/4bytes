@@ -1,0 +1,1 @@
+setPixelBlock(uint[] x,uint[] y,uint[] color,uint[] price)

@@ -1,0 +1,1 @@
+isMultipleOf(uint256 a,uint256 b);isMultipleOf(uint256 _a,uint256 _b)

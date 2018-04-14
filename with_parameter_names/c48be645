@@ -1,0 +1,1 @@
+multiowned(uint _required,address[] _owners)

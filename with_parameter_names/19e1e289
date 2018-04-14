@@ -1,0 +1,1 @@
+mint(bytes32 blockHash,bytes rlpTxStack,uint[] txIndex,bytes prefix,bytes rlpTransaction)

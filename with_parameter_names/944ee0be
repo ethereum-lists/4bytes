@@ -1,0 +1,1 @@
+insert(itMapUintUint storage self,uint key,uint value)

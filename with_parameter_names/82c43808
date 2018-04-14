@@ -1,0 +1,1 @@
+doPayment(uint numShares,uint difficulty,address paymentAddress)

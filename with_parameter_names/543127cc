@@ -1,0 +1,1 @@
+createMarriage(bytes32 partner1Entry,bytes32 partner2Entry,uint256 marriageDateEntry,bytes32 status,bytes description);createMarriage(bytes32 partner1Entry,bytes32 partner2Entry,uint256 marriageDateEntry,bytes32 statusEntry,bytes32 descriptionEntry)

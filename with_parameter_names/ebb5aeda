@@ -1,0 +1,1 @@
+addElectedMember(address targetMember,string memberName)

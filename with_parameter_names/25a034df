@@ -1,0 +1,1 @@
+max(uint val1,uint val2);max(uint x,uint y);max(uint a,uint b);max(uint256 x,uint256 y);max(uint256 a,uint256 b);max(uint256 _a,uint256 _b)

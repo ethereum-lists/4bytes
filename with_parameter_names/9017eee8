@@ -1,0 +1,1 @@
+getBestOrderWorstOrderHash(Market _market,uint8 _outcome,Trading.TradeTypes _type)

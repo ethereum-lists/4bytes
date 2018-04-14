@@ -1,0 +1,1 @@
+LindaCrowdsale(uint256 _startTime,uint256 _endTime,uint256 _rate,uint256 _goal,uint256 _cap,address _wallet,address _teamWallet,address _tokenAddress,address _tokenOwner,uint64 _teamLockTime,uint64 _unsoldLockTime)

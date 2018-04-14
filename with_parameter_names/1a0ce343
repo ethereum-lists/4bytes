@@ -1,0 +1,1 @@
+sendCoin(uint _val,address _to);sendCoin(uint _value,address _to)

@@ -1,0 +1,1 @@
+setConstraint(bytes32 method,bool pre,bool post)

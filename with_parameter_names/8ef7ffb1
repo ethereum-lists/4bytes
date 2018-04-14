@@ -1,0 +1,1 @@
+buyTokens(address beneficiary,uint256 weiAmount);buyTokens(address _vaddr,uint _vamounts)

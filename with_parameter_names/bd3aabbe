@@ -1,0 +1,1 @@
+storeInvestment(address investor,uint payment);storeInvestment(address /*investor*/,uint payment)

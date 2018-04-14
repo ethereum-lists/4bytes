@@ -1,0 +1,1 @@
+redeem(bytes32 _proposalId,address _avatar,bool[4] _whatToRedeem)

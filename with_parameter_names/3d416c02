@@ -1,0 +1,1 @@
+SimpleConsent(string _id,address _customer,address _data_owner)

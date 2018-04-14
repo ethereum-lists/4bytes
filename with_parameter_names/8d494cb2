@@ -1,0 +1,1 @@
+init(bytes32 state,uint state_size,uint,uint,address solver,address verifier)

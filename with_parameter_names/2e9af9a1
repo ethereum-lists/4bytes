@@ -1,0 +1,1 @@
+createMember(address _address,bool _payed,bool _vote)

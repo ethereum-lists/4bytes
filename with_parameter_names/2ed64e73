@@ -1,0 +1,1 @@
+logReportSubmitted(IUniverse _universe,address _reporter,address _market,address _reportingParticipant,uint256 _amountStaked,uint256[] _payoutNumerators)

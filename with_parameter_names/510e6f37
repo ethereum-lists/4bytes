@@ -1,0 +1,1 @@
+setResults(address name,uint result,uint[2] value)

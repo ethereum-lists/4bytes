@@ -1,0 +1,1 @@
+submitArticle(string abstract,string contents,bool doubleBlind)

@@ -1,0 +1,1 @@
+registerAccount(address accountToRegister,uint[2] adminPublicKey,uint[2] xG,uint[3] vG,uint r)

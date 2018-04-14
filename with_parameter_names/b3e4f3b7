@@ -1,0 +1,1 @@
+addConfigEntryAddr(bytes32 _key,address _val)

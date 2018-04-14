@@ -1,0 +1,1 @@
+calculatePrice(uint value,uint weiRaised,uint tokensSold,address msgSender,uint decimals)

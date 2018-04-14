@@ -1,0 +1,1 @@
+initializeToken(string _voucherTokenLogoBzz,uint _days_start,uint _days_end)

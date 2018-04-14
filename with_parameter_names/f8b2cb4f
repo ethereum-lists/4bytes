@@ -1,0 +1,1 @@
+getBalance(address usr);getBalance(address account);getBalance(address token);getBalance(address _address);getBalance(address user);getBalance(address toCheck);getBalance(address addr);getBalance(address _user);getBalance(address u);getBalance(address _donorAddress);getBalance(address lawyer);getBalance(address donor);getBalance(address _owner)

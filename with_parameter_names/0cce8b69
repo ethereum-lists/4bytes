@@ -1,0 +1,1 @@
+approveAndCall(address _spender,uint256 _value,bytes _data);approveAndCall(address _aSpender,uint256 _value,bytes _extraData);approveAndCall(address _spender,uint256 _amount,bytes _extraData);approveAndCall(address _spender,uint256 _value,bytes _extraData);approveAndCall(address,uint256,bytes);approveAndCall(address spender,uint256 value,bytes extraData)

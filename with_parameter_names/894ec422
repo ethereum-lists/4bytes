@@ -1,0 +1,1 @@
+getObjectData(bytes32[] recordFieldNames,uint8[] recordFieldTypes)

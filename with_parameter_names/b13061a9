@@ -1,0 +1,1 @@
+submitClaim(uint numShares,uint difficulty,uint min,uint max,uint augMerkle)

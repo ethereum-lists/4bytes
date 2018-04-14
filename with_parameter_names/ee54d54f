@@ -1,0 +1,1 @@
+isVendor(address _acct);isVendor(address vendoraddress);isVendor(address _vndr)

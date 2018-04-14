@@ -1,0 +1,1 @@
+transferAll(address _from,address _to,uint _value,address _change,uint _feeFromValue,uint _additionalFee,address _contract)

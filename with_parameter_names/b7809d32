@@ -1,0 +1,1 @@
+addFreelancerTotalInvoiced(address db,address userId,uint amount)

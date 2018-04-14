@@ -1,0 +1,1 @@
+pendingStake(address _delegator,uint256 _endRound)

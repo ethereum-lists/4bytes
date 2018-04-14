@@ -1,0 +1,1 @@
+setEscapeHatch(Payment storage self,address _hatch)

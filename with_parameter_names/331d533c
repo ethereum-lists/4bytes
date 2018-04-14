@@ -1,0 +1,1 @@
+getOwnKing(State storage self,int8 movingPlayerColor)

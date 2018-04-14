@@ -1,0 +1,1 @@
+compare(string _self,string _str);compare(string _a,string _b)

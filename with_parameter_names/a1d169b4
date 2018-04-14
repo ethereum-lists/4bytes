@@ -1,0 +1,1 @@
+getCategoryEvaluation(address _to,uint _area,uint _category,address _rater)

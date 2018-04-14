@@ -1,0 +1,1 @@
+init(TokenStorage storage self,uint _initial_supply)

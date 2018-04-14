@@ -1,0 +1,1 @@
+emitJobOfferPosted(uint _jobId,address _worker,uint _rate,uint _estimate,uint _ontop)

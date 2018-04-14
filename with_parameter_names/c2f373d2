@@ -1,0 +1,1 @@
+allowance(address _mychild,uint _amount,uint _payoutperiod);allowance(address _from,address _spender,bytes32 _symbol)

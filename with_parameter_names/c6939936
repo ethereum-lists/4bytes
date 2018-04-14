@@ -1,0 +1,1 @@
+Banknote(address _centralBank,uint256 _faceValue)

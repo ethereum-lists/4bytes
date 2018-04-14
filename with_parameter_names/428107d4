@@ -1,0 +1,1 @@
+EthTraderDAO(address _parent,bytes32 _root,address _token,address _registry,address _store)

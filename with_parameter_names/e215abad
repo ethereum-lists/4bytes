@@ -1,0 +1,1 @@
+registrarUsuario(bytes32 rol1,bytes32 nickname,bytes32 aplicacion,bytes32 token)

@@ -1,0 +1,1 @@
+deleteChannel(Data storage self,address partner)

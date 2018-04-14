@@ -1,0 +1,1 @@
+Ballot(string _title,string _description,string _candidates,uint _candidatesCount,address[] _voters,uint[] _publicKeyN,uint[] _publicKeyG)

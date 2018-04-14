@@ -1,0 +1,1 @@
+negotiate(Person person,uint rent,uint security,uint start,uint end)

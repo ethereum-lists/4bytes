@@ -1,0 +1,1 @@
+addToWhitelist(address _beneficiary);addToWhitelist(address _whitelistaddr);addToWhitelist(address _addr);addToWhitelist(address _target);addToWhitelist(address _address)

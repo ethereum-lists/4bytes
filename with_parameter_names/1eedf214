@@ -1,0 +1,1 @@
+CustomerInsert(string _BIK,address _hash,string _intID)

@@ -1,0 +1,1 @@
+increasePaymentsBalance(address retailer,address insurance,uint amount)

@@ -1,0 +1,1 @@
+notEqual(uint A,uint B,string message);notEqual(uint a,uint b,string message)

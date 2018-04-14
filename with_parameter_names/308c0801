@@ -1,0 +1,1 @@
+getPrev(Data storage self,uint curr);getPrev(Data storage self,address _id)

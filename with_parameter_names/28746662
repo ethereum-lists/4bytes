@@ -1,0 +1,1 @@
+setPremiumFactors(bytes32 _riskId,uint _cumulatedWeightedPremium,uint _premiumMultiplier)

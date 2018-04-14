@@ -1,0 +1,1 @@
+register(bytes32 _code,bytes32 _abi);register(bytes32 subnode,address owner);register(bytes32 id,address artist);register(bytes32 dnsName,bytes32 entry);register(bytes32 name,address contractAddress)

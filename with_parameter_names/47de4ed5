@@ -1,0 +1,1 @@
+generate_random(uint maxNum,string salt)

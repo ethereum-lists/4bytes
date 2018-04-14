@@ -1,0 +1,1 @@
+recordInvestment(address investor,uint payment,uint timeBonus)

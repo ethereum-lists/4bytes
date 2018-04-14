@@ -1,0 +1,1 @@
+next(bytes2 ct_second,bytes2 ct_minute,bytes2 ct_hour,bytes2 ct_day,bytes2 ct_month,bytes2 ct_weekday,bytes2 ct_year)

@@ -1,0 +1,1 @@
+PowerDeliveryProposal(address _ersteller,uint256 _arbeitspreis,uint256 _jahrespreis,string _plz,uint256 _ablauf,string _ipfs)

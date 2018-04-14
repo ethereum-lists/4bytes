@@ -1,0 +1,1 @@
+getByteFromByte8(bytes8 _b8,uint8 byteindex)

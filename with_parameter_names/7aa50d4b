@@ -1,0 +1,1 @@
+insert(Data storage self,address _id,uint256 _key,address _prevId,address _nextId)

@@ -1,0 +1,1 @@
+token(bool forReplace,address moduleHandler,address dbAddr,address icoContractAddr,address exchangeContractAddress,address[] genesisAddr,uint256[] genesisValue)

@@ -1,0 +1,1 @@
+createShareToken(IController _controller,IMarket _market,uint256 _outcome)

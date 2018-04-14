@@ -1,0 +1,1 @@
+Saflok(bytes32 _id,bytes32 _expiryDate,bytes32 _expiryTime,bytes32 _room)

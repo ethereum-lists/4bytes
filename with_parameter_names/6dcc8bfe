@@ -1,0 +1,1 @@
+contribute(CrowdFunding cf,uint campaignId,uint _amount)

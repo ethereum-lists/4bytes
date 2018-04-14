@@ -1,0 +1,1 @@
+assertEq16(bytes16 a,bytes16 b,bytes32 err)

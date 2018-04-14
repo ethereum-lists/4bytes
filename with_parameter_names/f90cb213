@@ -1,0 +1,1 @@
+sendMsg(address _recipient,string _message);sendMsg(address aim,string from_text)

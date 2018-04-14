@@ -1,0 +1,1 @@
+setERC20Library(ERC20LibraryInterface _erc20Library)

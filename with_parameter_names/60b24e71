@@ -1,0 +1,1 @@
+sendCoin(bytes4 _coin,bytes32 _from,bytes32 _to,uint _amount)

@@ -1,0 +1,1 @@
+adminEditBallotOption(uint32 _ballotId,uint32 _optionId,string _option)

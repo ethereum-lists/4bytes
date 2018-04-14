@@ -1,0 +1,1 @@
+getOrderId(Trading.TradeTypes _type,Market _market,uint256 _fxpAmount,int256 _fxpPrice,address _sender,uint256 _blockNumber,uint8 _outcome,uint256 _fxpMoneyEscrowed,uint256 _fxpSharesEscrowed)

@@ -1,0 +1,1 @@
+sub(uint a,uint b);sub(uint256 x,uint256 y);sub(uint256 a,uint256 b);sub(uint x,uint y);sub(uint256 _a,uint256 _b)

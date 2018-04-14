@@ -1,0 +1,1 @@
+iterateGet(iterableAddressBalanceMap storage self,uint keyIndex)

@@ -1,0 +1,1 @@
+submitWork(address clipaddress,uint quality,string ipfshash)

@@ -1,0 +1,1 @@
+rand(uint _min,uint _max);rand(uint min,uint max)

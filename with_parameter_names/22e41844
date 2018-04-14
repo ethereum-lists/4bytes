@@ -1,0 +1,1 @@
+isBreakingCap(uint weiAmount,uint tokenAmount,uint weiRaisedTotal,uint tokensSoldTotal)

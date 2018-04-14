@@ -1,0 +1,1 @@
+addMessage(User _sender,string _content,uint _timestamp)

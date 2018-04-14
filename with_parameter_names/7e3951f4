@@ -1,0 +1,1 @@
+addEmbassyOfCountry(address _embassy,uint _country)

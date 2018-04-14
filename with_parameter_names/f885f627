@@ -1,0 +1,1 @@
+AlterContactName(bytes32 Identity,address targetAddress,bytes32 altCName)

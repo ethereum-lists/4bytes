@@ -1,0 +1,1 @@
+getCode(uint _id);getCode(uint loc)

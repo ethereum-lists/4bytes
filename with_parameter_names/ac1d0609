@@ -1,0 +1,1 @@
+updateWhiteList(address _address,bool _status)

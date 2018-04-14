@@ -1,0 +1,1 @@
+findNextDay(uint timestamp,bytes2 ct_day)

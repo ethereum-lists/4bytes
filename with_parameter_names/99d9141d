@@ -1,0 +1,1 @@
+addIPFSFile(string name,uint size,string hash,bytes32 root,uint nonce)

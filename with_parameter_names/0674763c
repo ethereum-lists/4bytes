@@ -1,0 +1,1 @@
+assert(bool assertion);assert(bool ok);assert(bool cond);assert(bool condition)

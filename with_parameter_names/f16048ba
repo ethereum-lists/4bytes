@@ -1,0 +1,1 @@
+replacePublisherRegistry(PublisherRegistry _publisherRegistry);replacePublisherRegistry(PublisherRegistry newRegistry)

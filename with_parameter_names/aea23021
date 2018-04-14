@@ -1,0 +1,1 @@
+oraclize_newRandomDSQuery(uint _delay,uint _nbytes,uint _customGasLimit)

@@ -1,0 +1,1 @@
+calculateSaleReturn(uint256 _supply,uint256 _connectorBalance,uint32 _connectorWeight,uint256 _sellAmount);calculateSaleReturn(uint256 _supply,uint256 _reserveBalance,uint32 _reserveRatio,uint256 _sellAmount)

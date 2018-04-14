@@ -1,0 +1,1 @@
+register(address key,SSPType sspType,uint16 publisherFee,address recordOwner);register(address addr,string name,uint8 role,string photoUrl);register(address key,DSPType dspType,bytes32[5] url,address recordOwner)

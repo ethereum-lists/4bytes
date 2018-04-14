@@ -1,0 +1,1 @@
+burnFrom(address _from,uint256 _value);burnFrom(address _from,uint _value)

@@ -1,0 +1,1 @@
+claimEvent(history storage hist,address actor,bytes32 secret,bytes32 newSecretHash)

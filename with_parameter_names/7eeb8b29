@@ -1,0 +1,1 @@
+setUnpaidPercentage(bytes32 _info,uint8 _percentage)

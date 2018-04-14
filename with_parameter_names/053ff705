@@ -1,0 +1,1 @@
+createHumanStandardToken(uint256 _initialAmount,string _name,uint8 _decimals,string _symbol)

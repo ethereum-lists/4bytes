@@ -1,0 +1,1 @@
+serviceSetPrice(uint _servID,uint _newPrice)

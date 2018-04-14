@@ -1,0 +1,1 @@
+changePrice(bytes32 id,uint newPrice)

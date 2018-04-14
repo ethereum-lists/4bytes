@@ -1,0 +1,1 @@
+Ownable(address owner);Ownable(address _owner);Ownable(address initialOwner)

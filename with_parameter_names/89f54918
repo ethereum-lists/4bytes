@@ -1,0 +1,1 @@
+BurnableCrowdsaleToken(string _name,string _symbol,uint _initialSupply,uint _decimals,bool _mintable)

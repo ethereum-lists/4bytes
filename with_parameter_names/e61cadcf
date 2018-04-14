@@ -1,0 +1,1 @@
+setBidStatus(uint64 bidId,BidStatus status);setBidStatus(uint64 _bidId,BidStatus _status)

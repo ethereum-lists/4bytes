@@ -1,0 +1,1 @@
+addclip(address _clip,string _title,string _description,string _tags)

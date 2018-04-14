@@ -1,0 +1,1 @@
+Fundraiser(address _admin,address _treasury,uint _beginBlock,uint _endBlock,uint _weiPerAtom)

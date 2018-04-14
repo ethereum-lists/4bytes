@@ -1,0 +1,1 @@
+calculateReportingFee(Market _market,uint256 _amount)

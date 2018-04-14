@@ -1,0 +1,1 @@
+WeiCoin(address _weifundAddress,uint _initAmount,uint _blockReward,uint _weiRatio);WeiCoin(address _weilendAddress,uint _initAmount,uint _blockReward,uint _weiRatio)

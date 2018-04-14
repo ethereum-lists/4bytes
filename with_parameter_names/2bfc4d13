@@ -1,0 +1,1 @@
+startsWith(slice self,slice needle)

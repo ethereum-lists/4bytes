@@ -1,0 +1,1 @@
+locationOf(bytes data,uint256 location);locationOf(bytes _data,uint256 _location)

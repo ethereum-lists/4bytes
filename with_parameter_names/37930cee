@@ -1,0 +1,1 @@
+setup(address _easyMineToken,address _withdrawalAddress);setup(address safecontractsTREXCrowdfundingAddress,address safecontractsTREXTokenAddress);setup(address safecontractsTREXFundAddress,address safecontractsTREXTokenAddress)

@@ -1,0 +1,1 @@
+getPrice(ERC20 token,uint currentBlockNumber,bool buy,uint qty)

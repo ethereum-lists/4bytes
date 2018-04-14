@@ -1,0 +1,1 @@
+createTradeOffer(bytes32 have,bytes32 want)

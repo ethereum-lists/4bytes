@@ -1,0 +1,1 @@
+removeAddressFromWhitelist(address _whitelist);removeAddressFromWhitelist(address addr)

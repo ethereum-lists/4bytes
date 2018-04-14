@@ -1,0 +1,1 @@
+getPaymentType(address db,uint jobId)

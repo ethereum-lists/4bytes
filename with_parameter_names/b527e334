@@ -1,0 +1,1 @@
+newUpdate(string _updateAddress,bool _critical)

@@ -1,0 +1,1 @@
+modifyCommunityRates(uint _communityID,uint _exchangeRate,uint _creditRewardRate,uint _defaultCreditLine,uint _defaultTrust,bool _open,uint _quorum,uint _bankCreditLine,uint _bankTrust)

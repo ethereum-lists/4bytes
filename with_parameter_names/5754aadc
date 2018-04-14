@@ -1,0 +1,1 @@
+getEntryByName(bytes32 dnsName);getEntryByName(bytes32 name)

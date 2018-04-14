@@ -1,0 +1,1 @@
+LivepeerVerifier(address _controller,address[] _solvers,string _verificationCodeHash)

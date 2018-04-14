@@ -1,0 +1,1 @@
+setContracts(address _kyberNetwork,Pricing _pricing,SanityPricingInterface _sanityPricing)

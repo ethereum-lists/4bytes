@@ -1,0 +1,1 @@
+cancelOrder(uint exchangeNumber,uint id);cancelOrder(uint exchangeId,uint id);cancelOrder(uint odds,uint quantity)

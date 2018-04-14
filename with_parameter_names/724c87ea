@@ -1,0 +1,1 @@
+ExampleTwoPartyArbitrable(Court _court,address _partyB,uint256 _timeToReac)

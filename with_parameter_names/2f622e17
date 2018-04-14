@@ -1,0 +1,1 @@
+vote(address _projectOwner,bool _inSupport);vote(address ofModule,uint rating)

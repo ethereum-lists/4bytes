@@ -1,0 +1,1 @@
+createMarket(Controller _controller,ReportingWindow _reportingWindow,uint256 _endTime,uint8 _numOutcomes,uint256 _payoutDenominator,uint256 _feePerEthInWei,Cash _denominationToken,address _creator,int256 _minDisplayPrice,int256 _maxDisplayPrice,address _automatedReporterAddress,bytes32 _topic)

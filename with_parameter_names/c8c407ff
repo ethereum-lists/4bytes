@@ -1,0 +1,1 @@
+addAttestation(string attestationType,bool agree,address attestor)

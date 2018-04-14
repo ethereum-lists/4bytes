@@ -1,0 +1,1 @@
+getlinkat(linkedlist storage list,int pos)

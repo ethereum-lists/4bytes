@@ -1,0 +1,1 @@
+loadMesa(bytes32 participante,bytes32[] candidatos,uint8[] conteos)

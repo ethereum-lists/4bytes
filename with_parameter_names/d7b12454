@@ -1,0 +1,1 @@
+checkContract(address addr);checkContract(address _addr)

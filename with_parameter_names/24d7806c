@@ -1,0 +1,1 @@
+isAdmin(address user);isAdmin(address _address);isAdmin(address admin);isAdmin(address queryAddr);isAdmin(address _acct);isAdmin(address);isAdmin(address adminAddress);isAdmin(address _addr);isAdmin(address _node);isAdmin(address _account);isAdmin(address person);isAdmin(address accountAddress)

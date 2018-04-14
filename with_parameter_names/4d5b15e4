@@ -1,0 +1,1 @@
+mintToken(address _tokenAddr,uint _index,address _user)

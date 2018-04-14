@@ -1,0 +1,1 @@
+giveToken(address _target,uint256 _mintedAmount,string _password)

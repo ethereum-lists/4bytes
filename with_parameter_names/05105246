@@ -1,0 +1,1 @@
+setUserValue(bytes20,uint,uint);setUserValue(bytes20 _username,uint _valueIdx,uint _value)

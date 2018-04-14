@@ -1,0 +1,1 @@
+isOwner(uint _campaignID,address _owner)

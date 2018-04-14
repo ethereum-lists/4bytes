@@ -1,0 +1,1 @@
+AddClaim(uint32 sw_ix,string claim,bytes32 claim_hash,bytes32 claim_hash_type,address claim_ref_adog,uint32 claim_ref_ix)

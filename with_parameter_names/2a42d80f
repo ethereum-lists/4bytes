@@ -1,0 +1,1 @@
+setWeight(uint _policyId,uint _weight,bytes _proof)

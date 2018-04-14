@@ -1,0 +1,1 @@
+get(Config storage self,Address storage item);get(Config storage self,Bool storage item);get(Config storage self,UInt8 storage item);get(Config storage self,Set storage item);get(Config storage self,UInt storage item);get(Config storage self,Int storage item);get(Config storage self,Bytes32 storage item);get(Config storage self,AddressesSet storage item)

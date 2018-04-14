@@ -1,0 +1,1 @@
+doInvestment(uint investmentInSatoshi,address beneficiary,string investorId,uint investmentId,bool transfer)

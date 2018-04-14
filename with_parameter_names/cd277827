@@ -1,0 +1,1 @@
+safeMul(uint256 _x,uint256 _y);safeMul(uint a,uint b);safeMul(uint256 a,uint256 b);safeMul(uint256 x,uint256 y)

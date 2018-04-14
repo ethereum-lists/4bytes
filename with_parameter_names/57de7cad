@@ -1,0 +1,1 @@
+changeSettings(string set_name,string set_symbol,uint set_decimals,uint set_max_creation_rate_per_second,address set_minter_address,address set_cccoin_address,uint set_start_time)

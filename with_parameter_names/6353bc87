@@ -1,0 +1,1 @@
+grantAccess(uint documentId,uint requestId,string encryptedKey)

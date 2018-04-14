@@ -1,0 +1,1 @@
+loadVotesForParticipant(bytes32 participant,bytes32 candidate,uint8 votos)

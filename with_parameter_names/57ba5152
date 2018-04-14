@@ -1,0 +1,1 @@
+getOtherContractParticipant(address db,uint contractId,address user)

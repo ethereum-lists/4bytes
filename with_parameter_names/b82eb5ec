@@ -1,0 +1,1 @@
+newPokemon(uint pokemonNumber,uint cp,uint hp)

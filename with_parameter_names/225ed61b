@@ -1,0 +1,1 @@
+User(address id_addr,address quo_addr,address user_list_addr);User(address id_addr,address market_addr,address user_list_addr)

@@ -1,0 +1,1 @@
+getClaim(string productId,string serialNumber,address insurance,uint idx)

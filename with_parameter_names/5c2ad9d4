@@ -1,0 +1,1 @@
+canWithdrawCollateralToken(Ledger storage ledger,address caller)

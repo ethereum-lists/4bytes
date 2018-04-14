@@ -1,0 +1,1 @@
+getFunds(address user,bool onlyAvailable)

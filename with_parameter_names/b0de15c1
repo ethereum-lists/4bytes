@@ -1,0 +1,1 @@
+arbitrate(address _seller,address _buyer,bytes32 _hash,bool _bobResult)

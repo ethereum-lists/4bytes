@@ -1,0 +1,1 @@
+addProposal(string _name,string _hash,string _url,address _member)

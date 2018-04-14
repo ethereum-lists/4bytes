@@ -1,0 +1,1 @@
+getSubscriptionClosedAt(bytes32 subscriptionID);getSubscriptionClosedAt(bytes32 subscriptionId)

@@ -1,0 +1,1 @@
+recieveNegReq(uint sheet_id_,uint price,uint quantity,);recieveNegReq(uint receipt_id,uint price,uint quantity,)

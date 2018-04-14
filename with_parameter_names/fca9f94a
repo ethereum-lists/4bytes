@@ -1,0 +1,1 @@
+transcoder(uint256 _rewardCut,uint256 _feeShare,uint256 _pricePerSegment)

@@ -1,0 +1,1 @@
+upgrade(address _newController);upgrade(address _newAddress);upgrade(address new_address);upgrade(address newAddress);upgrade(address _upgradedContract)

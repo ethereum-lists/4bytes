@@ -1,0 +1,1 @@
+isContract(address _addr);isContract(address client);isContract(address _sender);isContract(address _address);isContract(address addr);isContract(address _target)

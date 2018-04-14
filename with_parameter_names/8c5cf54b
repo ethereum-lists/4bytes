@@ -1,0 +1,1 @@
+valueOfCoinBalance(iterableAddressBalanceMap storage self,address mappedAddress)

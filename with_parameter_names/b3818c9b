@@ -1,0 +1,1 @@
+setFiscalVerify(bytes32 email,uint idDistrito,uint idEscuela,uint idMesa)

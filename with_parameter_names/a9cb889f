@@ -1,0 +1,1 @@
+EthApplicationRegistrar(ExpiringMembership _membershipContract,Application _applications,uint _price,uint _duration)

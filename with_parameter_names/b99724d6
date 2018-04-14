@@ -1,0 +1,1 @@
+CreateRecipt(string user_id,uint receipt_id,string class_id,string make_date,);CreateRecipt(string user_id,uint sheet_id_,string class_id,string make_date,)

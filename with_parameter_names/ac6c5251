@@ -1,0 +1,1 @@
+getWeight(address _member);getWeight(address _voter)

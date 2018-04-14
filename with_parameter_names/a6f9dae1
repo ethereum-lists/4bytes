@@ -1,0 +1,1 @@
+changeOwner(address newowner);changeOwner(address _candidate);changeOwner(address c);changeOwner(address _newOwner);changeOwner(address ofNewOwner);changeOwner(address newOwner);changeOwner(address _owner)

@@ -1,0 +1,1 @@
+registerNewMember(address _member,uint duration)

@@ -1,0 +1,1 @@
+setCompanyData(string vatId,ContentType contentType,string data)

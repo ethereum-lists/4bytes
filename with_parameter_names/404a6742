@@ -1,0 +1,1 @@
+concat(string _self,string _str);concat(string _s1,string _s2)

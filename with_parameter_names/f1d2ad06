@@ -1,0 +1,1 @@
+SendResult(uint64 id,bytes18 index,bytes32 name,bytes11 phone)

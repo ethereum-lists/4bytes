@@ -1,0 +1,1 @@
+FutarchyController(address _proxy,address[] _members,FutarchyOracleFactory _factory)

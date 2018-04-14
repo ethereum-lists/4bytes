@@ -1,0 +1,1 @@
+encodeIfElse(uint256 condition,uint256 successParam,uint256 failureParam)

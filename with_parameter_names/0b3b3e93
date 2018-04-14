@@ -1,0 +1,1 @@
+setFreelancerCategories(address db,address userId,uint[] categories)

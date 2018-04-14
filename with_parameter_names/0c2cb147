@@ -1,0 +1,1 @@
+createUser(address userAddress,string name,bool adminPerm,bool createPerm,bool tradePerm)

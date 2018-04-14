@@ -1,0 +1,1 @@
+consume(bytes32 /* file_id */,bytes32[] arr);consume(bytes32 id,bytes32[] dta)

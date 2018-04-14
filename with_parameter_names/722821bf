@@ -1,0 +1,1 @@
+airdrop(address[] receivers,uint256[] amounts)

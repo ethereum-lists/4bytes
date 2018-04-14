@@ -1,0 +1,1 @@
+getBallotIndex(address chainperson,bytes32 ballotName)

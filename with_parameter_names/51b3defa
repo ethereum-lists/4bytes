@@ -1,0 +1,1 @@
+isValid(string latitude,string longitude,uint oldRent,uint newRent)

@@ -1,0 +1,1 @@
+newProduct(beerType _beerType,string _name,int _ml,bytes _sku)

@@ -1,0 +1,1 @@
+addLink(address linkNode,address linkNodeOwner,bytes linkNodeIPFS,bytes nodeIPFS,NodeTypes linkType)

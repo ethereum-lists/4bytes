@@ -1,0 +1,1 @@
+addEA(string _eAName,string _agencyName,string _emplyeName,uint32 _emplyeHWage,address _emplyeAdress,address _emplyeWalletAdress,string _attachment)

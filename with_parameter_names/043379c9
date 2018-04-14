@@ -1,0 +1,1 @@
+logInitialReportSubmitted(IUniverse _universe,address _reporter,address _market,uint256 _amountStaked,bool _isDesignatedReporter,uint256[] _payoutNumerators,bool _invalid)

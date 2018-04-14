@@ -1,0 +1,1 @@
+setSymbol(bytes32 symbol_);setSymbol(bytes32 _symbol)

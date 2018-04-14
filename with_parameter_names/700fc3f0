@@ -1,0 +1,1 @@
+equal(uint A,uint B,string message);equal(uint a,uint b,string message)

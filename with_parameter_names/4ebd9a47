@@ -1,0 +1,1 @@
+insureClient(address _oracle,address _client,uint64 _oracleQuoteId)

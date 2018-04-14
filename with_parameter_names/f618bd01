@@ -1,0 +1,1 @@
+getSponsorshipProportionalAmount(address db,uint sponsorshipId,uint ratioSpent)

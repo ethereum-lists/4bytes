@@ -1,0 +1,1 @@
+setMigrationAgent(address agent);setMigrationAgent(address _agent)

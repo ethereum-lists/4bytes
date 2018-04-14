@@ -1,0 +1,1 @@
+edit(address _owner,bytes32 _name,bytes32 _email,bytes32 _imageurl,bytes10 _birth,bytes32 _location,bytes32 _url1,bytes32 _url2)

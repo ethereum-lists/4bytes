@@ -1,0 +1,1 @@
+getDAOById(bytes32 _daoId)

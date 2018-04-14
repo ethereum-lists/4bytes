@@ -1,0 +1,1 @@
+giveEther(address adr,uint amt)

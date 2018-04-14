@@ -1,0 +1,1 @@
+slashTranscoder(address _transcoder,address _finder,uint256 _slashAmount,uint256 _finderFee)

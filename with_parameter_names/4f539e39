@@ -1,0 +1,1 @@
+init(UIntUIntUIntBytes32Mapping storage self,bytes32 _id)

@@ -1,0 +1,1 @@
+createProvider(bool priv,string name,string website,string country,string info,uint8 rate,bool isForRent,address admin)

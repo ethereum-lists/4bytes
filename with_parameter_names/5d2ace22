@@ -1,0 +1,1 @@
+setAddress(string name,address value);setAddress(string _name,address _a);setAddress(string key,address value)

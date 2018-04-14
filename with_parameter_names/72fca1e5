@@ -1,0 +1,1 @@
+buy(uint price,address who,uint val,bool send);buy(uint _x,uint _y,uint _width,uint _height)

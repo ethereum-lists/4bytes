@@ -1,0 +1,1 @@
+stampDocument(bytes32 docHash,uint256 amount)

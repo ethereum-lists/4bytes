@@ -1,0 +1,1 @@
+fireOnOfferingChanged(uint version,bytes32 eventType,uint[] extraData)

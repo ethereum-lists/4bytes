@@ -1,0 +1,1 @@
+logTradingProceedsClaimed(IUniverse _universe,address _shareToken,address _sender,address _market,uint256 _numShares,uint256 _numPayoutTokens,uint256 _finalTokenBalance)

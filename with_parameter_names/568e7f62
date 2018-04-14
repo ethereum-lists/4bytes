@@ -1,0 +1,1 @@
+hasFeeRecipient(PaymentData storage self)

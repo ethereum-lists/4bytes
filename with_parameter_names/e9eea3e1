@@ -1,0 +1,1 @@
+addDollarAmount(address mappedAddress,int160 dollarAmount)

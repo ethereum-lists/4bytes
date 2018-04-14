@@ -1,0 +1,1 @@
+addInvoice(address db,uint contractId,uint invoiceId,uint amount)

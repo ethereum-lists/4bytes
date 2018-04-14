@@ -1,0 +1,1 @@
+increaseSupply(uint256 value);increaseSupply(uint256 _value)

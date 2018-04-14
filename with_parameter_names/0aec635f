@@ -1,0 +1,1 @@
+addOrder(string uid,address buyer,uint _amount,uint price,string currency,address advertiser)

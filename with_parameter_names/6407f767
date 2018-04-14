@@ -1,0 +1,1 @@
+createGroup(string _groupName,string _description,string _currencyName,uint _rate,uint _debitLimit,uint _creditLimit,uint _intertradeDebitLimit,uint _intertradeCreditLimit,bool _open)

@@ -1,0 +1,1 @@
+isContainerForShareToken(IShareToken _shadyShareToken);isContainerForShareToken(IShareToken _shadyTarget)

@@ -1,0 +1,1 @@
+setGreeting(string greeting);setGreeting(string _greeting);setGreeting(string s);setGreeting(string _newgreeting)

@@ -1,0 +1,1 @@
+addVoteOption(uint _electionId,string _option)

@@ -1,0 +1,1 @@
+shapeshiftTransfer(uint value,string coin,string recipient)

@@ -1,0 +1,1 @@
+ExampleToken(uint initialBalance);ExampleToken(uint256 _totalTokens)

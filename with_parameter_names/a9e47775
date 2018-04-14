@@ -1,0 +1,1 @@
+getVoteOption(uint _electionId,uint _optionId)

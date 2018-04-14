@@ -1,0 +1,1 @@
+addMany(address _user,uint _areas,uint[] _categories,uint[] _skills)

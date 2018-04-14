@@ -1,0 +1,1 @@
+inserirOuvidoriaNoCadastro(address conta,bytes32 nome,uint8 tipoEnte,bytes32 nomeEnte,bytes32 endpoint)

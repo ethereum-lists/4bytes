@@ -1,0 +1,1 @@
+HeritableWallet(address walletBeneficiary,address walletOwner,uint periodInDays)

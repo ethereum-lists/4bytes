@@ -1,0 +1,1 @@
+findNextSecond(uint timestamp,bytes2 ct_second)

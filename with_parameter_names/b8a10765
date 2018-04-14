@@ -1,0 +1,1 @@
+changeName(uint _zombieId,string _newName)

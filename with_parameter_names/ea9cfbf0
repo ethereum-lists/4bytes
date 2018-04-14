@@ -1,0 +1,1 @@
+calculateTokens(address /*investor*/,uint payment,uint extraBonuses);calculateTokens(address investor,uint payment,uint extraBonuses)

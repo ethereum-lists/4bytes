@@ -1,0 +1,1 @@
+getNodeId(Index storage index,bytes32 id)

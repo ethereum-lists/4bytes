@@ -1,0 +1,1 @@
+setWallet(address _wallet);setWallet(address addr)

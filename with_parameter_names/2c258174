@@ -1,0 +1,1 @@
+setUserCap(address _beneficiary,uint256 _cap)

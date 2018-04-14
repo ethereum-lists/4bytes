@@ -1,0 +1,1 @@
+majorEventFunc(uint256 eventTimeStamp,bytes32 name,bytes32 description)

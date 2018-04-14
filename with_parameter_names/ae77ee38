@@ -1,0 +1,1 @@
+attachAttribute(Data storage self,bytes32 UUID,string attrName,uint attrVal)

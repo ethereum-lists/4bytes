@@ -1,0 +1,1 @@
+setDelegadoDeDistritoVerify(bytes32 autoridadElectoral,bytes32 delegadoDistrito,uint8 idDistrito)

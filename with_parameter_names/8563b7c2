@@ -1,0 +1,1 @@
+oracleItQuery(uint timestamp,string dataSource,string arg1,uint gasLimit,uint gasPrice)

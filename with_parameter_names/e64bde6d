@@ -1,0 +1,1 @@
+transferWithFee(address _from,address _to,uint _value,uint _feeFromValue,uint _additionalFee,address _contract)

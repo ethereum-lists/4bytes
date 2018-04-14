@@ -1,0 +1,1 @@
+hasRelation(bytes32 _from,bytes32 _role,address _to)

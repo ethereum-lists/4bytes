@@ -1,0 +1,1 @@
+exchange(address _CORAddress,address _exchangeRateManager,uint256 _exchangeRate,uint256 _exchangeRateShift)

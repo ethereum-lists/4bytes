@@ -1,0 +1,1 @@
+changeVotingRules(address sharesTokenAddress,uint minimumSharesToPassAVote,uint minutesForDebate)

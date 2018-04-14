@@ -1,0 +1,1 @@
+decreaseClaimsBalance(address insurance,uint amount)

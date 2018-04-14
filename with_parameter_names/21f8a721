@@ -1,0 +1,1 @@
+getAddress(bytes32 Identity);getAddress(bytes32 _name);getAddress(bytes32 _n)

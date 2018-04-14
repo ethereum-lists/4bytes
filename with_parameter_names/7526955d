@@ -1,0 +1,1 @@
+balanceOfAt(address,uint);balanceOfAt(address _owner,uint _blockNumber);balanceOfAt(address _owner,uint256 _blockNumber)

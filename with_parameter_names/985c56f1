@@ -1,0 +1,1 @@
+logFeeWindowRedeemed(IUniverse _universe,address _reporter,uint256 _amountRedeemed,uint256 _reportingFeesReceived)

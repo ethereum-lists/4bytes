@@ -1,0 +1,1 @@
+showMessage(bytes32 message,uint256 number,string text);showMessage(bytes32 _message,uint256 _number,string _text)

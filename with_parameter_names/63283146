@@ -1,0 +1,1 @@
+addIssueBounty(string issueUrl,uint queriesDelay)

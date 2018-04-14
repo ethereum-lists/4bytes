@@ -1,0 +1,1 @@
+makeMerkle(bytes arr,uint idx,uint level)

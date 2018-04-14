@@ -1,0 +1,1 @@
+revokeConfirmation(uint _transactionId);revokeConfirmation(uint transactionId)

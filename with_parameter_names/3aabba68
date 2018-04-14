@@ -1,0 +1,1 @@
+TicketMultiTear(string _ticketName,string[] _tearName,uint[] _startingTickets)

@@ -1,0 +1,1 @@
+updatePermissionName(address _permission,bytes32 _name)

@@ -1,0 +1,1 @@
+logDisputeCrowdsourcerContribution(IUniverse _universe,address _reporter,address _market,address _disputeCrowdsourcer,uint256 _amountStaked)

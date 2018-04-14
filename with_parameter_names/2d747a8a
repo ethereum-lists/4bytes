@@ -1,0 +1,1 @@
+AuthorityController(address _proxy,address[] _members,uint256 _minimumQuorum,uint256 _required,address _authority)

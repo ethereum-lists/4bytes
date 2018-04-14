@@ -1,0 +1,1 @@
+blockAccess(address _actor,bytes32 _role)

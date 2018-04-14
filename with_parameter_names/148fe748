@@ -1,0 +1,1 @@
+calculateProceeds(Market _market,ReportingToken _winningReportingToken,uint8 _outcome,uint256 _numberOfShares)

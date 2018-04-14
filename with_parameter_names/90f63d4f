@@ -1,0 +1,1 @@
+ChangePoolName(string _poolName,string _newName)

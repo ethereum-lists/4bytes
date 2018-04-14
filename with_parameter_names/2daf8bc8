@@ -1,0 +1,1 @@
+hasJobRecommendations(address db,address userId,uint jobRecommendations)

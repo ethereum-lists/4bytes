@@ -1,0 +1,1 @@
+hasLanguage(address db,address userId,uint languageId);hasLanguage(address db,uint jobId,uint languageId)

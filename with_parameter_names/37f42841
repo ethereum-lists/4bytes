@@ -1,0 +1,1 @@
+queryBalance(address addr);queryBalance(address _account)

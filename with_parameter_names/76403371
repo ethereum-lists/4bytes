@@ -1,0 +1,1 @@
+emitTransfer(address _from,address _to,bytes32 _symbol,uint _value,string _reference)

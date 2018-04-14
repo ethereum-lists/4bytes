@@ -1,0 +1,1 @@
+setMfgValues(string orderno,string name,string material,string delivery,string value,string quantity)

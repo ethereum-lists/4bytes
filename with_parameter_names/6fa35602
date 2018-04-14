@@ -1,0 +1,1 @@
+internalVote(bytes32 _proposalId,address _voter,uint _vote,uint _rep)

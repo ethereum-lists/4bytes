@@ -1,0 +1,1 @@
+Cube(address _destination,uint _unlockedAfter,Cubic _cubicContract)

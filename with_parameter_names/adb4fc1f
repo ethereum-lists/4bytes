@@ -1,0 +1,1 @@
+register(uint name,AbstractModel model,EternalDB db)

@@ -1,0 +1,1 @@
+calcFee(Vault _vault,uint _newBalance,address _token)

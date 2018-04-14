@@ -1,0 +1,1 @@
+subFromBalance(address _address,uint256 _amount)

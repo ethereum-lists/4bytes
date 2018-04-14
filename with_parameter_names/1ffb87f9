@@ -1,0 +1,1 @@
+compareIntValue(bytes32 tag,int value,byte operator)

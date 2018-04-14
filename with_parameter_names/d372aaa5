@@ -1,0 +1,1 @@
+getNode(CLL storage self,int n);getNode(CLL storage self,uint n)

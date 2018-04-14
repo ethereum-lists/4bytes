@@ -1,0 +1,1 @@
+update(bytes32 _infoHash);update(bytes32 newCurrent);update(bytes32 _newCurrent);update(bytes32 name)

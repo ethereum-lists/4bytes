@@ -1,0 +1,1 @@
+setPermission(address addr,uint8 perm);setPermission(address addr,uint8 permLvl)

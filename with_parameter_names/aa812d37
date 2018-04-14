@@ -1,0 +1,1 @@
+search(uint256 table_id,bytes32 value);search(uint256 _DB_id,bytes32 _value)

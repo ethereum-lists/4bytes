@@ -1,0 +1,1 @@
+public addFood(uint number,uint amount,string food)

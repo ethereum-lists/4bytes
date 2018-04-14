@@ -1,0 +1,1 @@
+isWorsePrice(Trading.TradeTypes _type,Market,uint8,int256 _fxpPrice,bytes32 _orderId)

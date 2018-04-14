@@ -1,0 +1,1 @@
+transfer(string coin,string recipient,bool acceptReturn)

@@ -1,0 +1,1 @@
+setDelegadoDeDistrito(bytes32 delegadoDeDistrito,uint distritoId);setDelegadoDeDistrito(bytes32 email,uint idDistrito)

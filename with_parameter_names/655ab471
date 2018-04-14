@@ -1,0 +1,1 @@
+getTokenBalance(address _owner,address _token);getTokenBalance(address _address,bytes32 _value)

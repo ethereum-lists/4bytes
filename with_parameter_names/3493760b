@@ -1,0 +1,1 @@
+delListReq(string user_id,uint quo_id,uint deal_qty)

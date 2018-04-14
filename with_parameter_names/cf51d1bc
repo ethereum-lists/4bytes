@@ -1,0 +1,1 @@
+getMinimumEndowment(uint basePayment,uint baseDonation,uint callValue,uint requiredGas)

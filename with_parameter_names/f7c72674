@@ -1,0 +1,1 @@
+Trust(address[] _trusteeTable,uint _quorumPercent,address _defaultVEContract,bytes idData)

@@ -1,0 +1,1 @@
+makeSimpleBundle(uint num,address code,bytes32 code_init,bytes32 file_id)

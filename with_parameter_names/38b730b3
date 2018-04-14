@@ -1,0 +1,1 @@
+safeTransfer(ERC20Basic token,address to,uint256 value)

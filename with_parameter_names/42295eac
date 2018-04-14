@@ -1,0 +1,1 @@
+createVotacion(bytes32 nombre,bytes32[] aspirantes,uint256[] puntuaciones)

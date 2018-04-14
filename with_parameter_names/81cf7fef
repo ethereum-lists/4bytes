@@ -1,0 +1,1 @@
+registerSmartID(string name,string id,string location,bool entity,bool isEntity)

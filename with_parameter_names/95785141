@@ -1,0 +1,1 @@
+attestToContract(uint id,bool attestation,string attestationType)

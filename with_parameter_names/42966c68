@@ -1,0 +1,1 @@
+burn(uint256 _value);burn(uint256 amount);burn(uint burnAmount);burn(uint wad);burn(uint256 value);burn(uint _amount);burn(uint256 _tokenId);burn(uint256 _amount);burn(uint num);burn(uint _value);burn(uint qty)

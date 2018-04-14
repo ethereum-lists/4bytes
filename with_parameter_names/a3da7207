@@ -1,0 +1,1 @@
+proposeLOC(string _name,address _controller,uint _issueLimit,string _publishedHash,uint _expDate)

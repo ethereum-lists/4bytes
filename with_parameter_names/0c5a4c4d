@@ -1,0 +1,1 @@
+sendBattleTokens(address _player,uint _value)

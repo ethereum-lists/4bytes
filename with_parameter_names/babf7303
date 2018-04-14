@@ -1,0 +1,1 @@
+emitJobBinded(uint _boardId,uint _jobId,bool _status)

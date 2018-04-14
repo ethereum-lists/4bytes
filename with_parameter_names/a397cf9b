@@ -1,0 +1,1 @@
+provider(bool forReplace,address moduleHandlerAddr,address dbAddr,address rewardLibAddr)

@@ -1,0 +1,1 @@
+verify(address tradeContract);verify(address icoTokenAddr);verify(address user);verify(address addr)

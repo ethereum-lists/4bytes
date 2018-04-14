@@ -1,0 +1,1 @@
+getAvailableAmount(uint receipt_id);getAvailableAmount(uint sheet_id_)

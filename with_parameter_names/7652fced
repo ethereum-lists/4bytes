@@ -1,0 +1,1 @@
+initiateCertificate(bool bLong,string uName,uint iStrike,uint cPremium,uint iValue,uint pAmount)

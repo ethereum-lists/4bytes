@@ -1,0 +1,1 @@
+ChargeEnergy(uint256 amount);ChargeEnergy(uint amount)

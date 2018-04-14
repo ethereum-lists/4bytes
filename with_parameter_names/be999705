@@ -1,0 +1,1 @@
+addFunds(uint value);addFunds(uint256 amount)

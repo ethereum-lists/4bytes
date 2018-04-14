@@ -1,0 +1,1 @@
+PrivatePDcontract(GWALink _link,address _mpid,address _from,address _to,uint256 _wh_microcent,uint256 _min_tx_microcent,bool _endure,PDclearingStub _clearing)

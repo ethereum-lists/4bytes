@@ -1,0 +1,1 @@
+createSalesOffer(bytes32 key,address buyer,uint price,bool _canSell)

@@ -1,0 +1,1 @@
+isOwner(address _owner,bytes32 _symbol)

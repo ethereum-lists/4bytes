@@ -1,0 +1,1 @@
+addSubscription(address provider,bytes32 name,uint monthlyCharge)

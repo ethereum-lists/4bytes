@@ -1,0 +1,1 @@
+addConnector(IERC20Token _token,uint32 _weight,bool _enableVirtualBalance)

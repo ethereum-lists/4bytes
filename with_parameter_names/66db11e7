@@ -1,0 +1,1 @@
+nodeExists(bytes32 index_id,bytes32 node_id)

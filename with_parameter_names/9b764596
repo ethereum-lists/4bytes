@@ -1,0 +1,1 @@
+onNewCampaign(uint _cid,address _addr);onNewCampaign(uint cid,address addr)

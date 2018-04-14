@@ -1,0 +1,1 @@
+transferGroupIntertrade(uint _groupID,address _newIntertrade)

@@ -1,0 +1,1 @@
+delegateVote(address _board,address _delegate,uint _proposalID)

@@ -1,0 +1,1 @@
+ico(address foundation,address priceSet,uint256 exchangeRate,uint256 startBlockNum,address[] genesisAddr,uint256[] genesisValue)

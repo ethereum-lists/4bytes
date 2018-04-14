@@ -1,0 +1,1 @@
+getCorrespondingIntegerValue(bytes32 recordFieldName,uint8 uintType)

@@ -1,0 +1,1 @@
+transferWithoutReward(address _to,uint256 _amount);transferWithoutReward(address _to,uint256 _value)

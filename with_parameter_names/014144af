@@ -1,0 +1,1 @@
+addToEmployerAvgRating(address db,address userId,uint8 rating)

@@ -1,0 +1,1 @@
+addFeedOut(address account,address meter_point,uint256 _cost_per_energy,uint256 _cost_per_day)

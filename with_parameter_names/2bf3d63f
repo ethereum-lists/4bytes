@@ -1,0 +1,1 @@
+transition(uint disputeId,DisputeState state)

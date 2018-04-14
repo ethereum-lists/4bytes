@@ -1,0 +1,1 @@
+createProducer(bytes32 desc,uint phone,bytes32 name)

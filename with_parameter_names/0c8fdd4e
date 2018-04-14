@@ -1,0 +1,1 @@
+getExpectedRate(ERC20 source,ERC20 dest,uint srcQty);getExpectedRate(ERC20 source,ERC20 dest,uint srcQuantity)

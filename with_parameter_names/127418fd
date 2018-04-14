@@ -1,0 +1,1 @@
+JSONpath_int(string _json,string _path,uint _decimals)

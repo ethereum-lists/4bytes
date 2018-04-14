@@ -1,0 +1,1 @@
+setBytes32(bytes32 _bytes32);setBytes32(bytes32 _value)

@@ -1,0 +1,1 @@
+nizk_verifyproof(string pais,string balapubcipher,string traapubcipher,string trabpubcipher,string apukkey,string bpukkey,string nizkpp)

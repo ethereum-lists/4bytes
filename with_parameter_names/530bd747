@@ -1,0 +1,1 @@
+SetSaltPassword(bytes32 user,bytes32 hashSaltPassword)

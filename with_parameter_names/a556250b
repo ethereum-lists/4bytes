@@ -1,0 +1,1 @@
+createKycData(address _account,string _name,string _email,uint _phoneNo,uint _aadharNo,string _panNo,string _aadhar_file,)

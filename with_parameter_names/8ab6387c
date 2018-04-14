@@ -1,0 +1,1 @@
+add(address user,uint val);add(address _addr,uint256 _amount)

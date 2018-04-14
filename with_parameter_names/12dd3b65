@@ -1,0 +1,1 @@
+register(address _board,uint _proposalId,uint _type);register(address key,uint256 amount,address depositOwner);register(address key,bytes32[5] url,address recordOwner)

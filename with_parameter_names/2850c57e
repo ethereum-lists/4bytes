@@ -1,0 +1,1 @@
+depositCoin(bytes32 _userid,uint _amount)

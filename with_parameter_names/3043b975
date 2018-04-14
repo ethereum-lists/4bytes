@@ -1,0 +1,1 @@
+addResources(address _permission,address[] _conts,bytes4[] _funcs)

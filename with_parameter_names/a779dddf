@@ -1,0 +1,1 @@
+xfer(address fromAddress,address toAddress,uint amount);xfer(address sendingTokenHolder,address receivingTokenHolder,uint amount)

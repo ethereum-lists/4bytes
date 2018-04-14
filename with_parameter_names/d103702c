@@ -1,0 +1,1 @@
+emitSkillRatingGiven(address _rater,address _to,uint8 _rating,uint _area,uint _category,uint _skill,uint _jobId)

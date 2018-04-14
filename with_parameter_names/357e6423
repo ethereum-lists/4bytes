@@ -1,0 +1,1 @@
+newContest(uint32 entryPeriod,uint minPrice,uint maxItems,uint32 solvePeriod,uint solverBond,uint32 reward)

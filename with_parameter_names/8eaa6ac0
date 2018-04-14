@@ -1,0 +1,1 @@
+get(bytes32 k);get(bytes32 _key);get(bytes32 hash);get(bytes32 id)

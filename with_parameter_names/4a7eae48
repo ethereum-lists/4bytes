@@ -1,0 +1,1 @@
+_createPermission(bytes32 _name,address[] _conts,bytes4[] _funcs)

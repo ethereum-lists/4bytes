@@ -1,0 +1,1 @@
+setInsuranceState(address insuranceAddress,InsuranceStatus status)

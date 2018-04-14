@@ -1,0 +1,1 @@
+setSkillName(address db,uint skillId,bytes32 name)

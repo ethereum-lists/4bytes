@@ -1,0 +1,1 @@
+changeOwnership(bytes32 _symbol,address _newOwner)

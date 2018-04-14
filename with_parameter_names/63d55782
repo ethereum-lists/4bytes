@@ -1,0 +1,1 @@
+setRegister(string32 _name,address _registrar)

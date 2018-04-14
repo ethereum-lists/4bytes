@@ -1,0 +1,1 @@
+getIdArrayItemsCount(address db,address id,string countKey);getIdArrayItemsCount(address db,uint id,string countKey)

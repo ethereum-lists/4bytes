@@ -1,0 +1,1 @@
+setData(bytes32 candidate,uint distritoId,uint escuelaId,uint mesaId,uint8[] result)

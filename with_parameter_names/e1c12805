@@ -1,0 +1,1 @@
+registerSystem(string _alias,string _whisperID,string _description,string _imageLink);registerSystem(string _alias,string _whisperID,string _narrative,string _imageLink)

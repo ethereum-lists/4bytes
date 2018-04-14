@@ -1,0 +1,1 @@
+userContractsPred(address db,uint[] contractStatuses,uint[] jobStatuses,uint contractId)

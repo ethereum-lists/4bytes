@@ -1,0 +1,1 @@
+checkMAC(bytes32 key,bytes32[] cipher,bytes32 expected)

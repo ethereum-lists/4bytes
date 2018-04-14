@@ -1,0 +1,1 @@
+update(uint testimonyID,bytes32 hash);update(uint delay,string _confirmation_number);update(uint id,uint[101][] attributes)

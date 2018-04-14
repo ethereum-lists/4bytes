@@ -1,0 +1,1 @@
+createBounty(string issueUrl,address[] voters,uint256  expiresIn)

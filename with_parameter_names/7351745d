@@ -1,0 +1,1 @@
+amendArticleItem(uint _articleNum,uint _item,bytes _textChange)

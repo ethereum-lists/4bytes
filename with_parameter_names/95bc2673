@@ -1,0 +1,1 @@
+remove(bytes32 _key);remove(bytes32 data);remove(bytes32 _id);remove(bytes32 _hash)

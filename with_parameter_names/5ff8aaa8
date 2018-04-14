@@ -1,0 +1,1 @@
+getEmployerJobs(address db,address userId);getEmployerJobs(address userId,uint8 jobStatus)

@@ -1,0 +1,1 @@
+SplitAmount(address _account1,address _account2,uint256 _amount)

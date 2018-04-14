@@ -1,0 +1,1 @@
+computeMerkleRoot(bytes lock,bytes merkle_proof)

@@ -1,0 +1,1 @@
+reveal(Commitment storage _c,uint _value,uint _nonce)

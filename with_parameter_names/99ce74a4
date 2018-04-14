@@ -1,0 +1,1 @@
+hashState(address _channel,uint256 _nonce,uint256 _receiverPayment,uint256 _auditorPayment)

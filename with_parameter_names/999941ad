@@ -1,0 +1,1 @@
+setFreelancerJobIndex(address db,uint contractId,address freelancerId,uint jobId)

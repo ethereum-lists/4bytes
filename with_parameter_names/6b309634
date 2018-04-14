@@ -1,0 +1,1 @@
+getPartialAmount(uint numerator,uint denominator,uint target)

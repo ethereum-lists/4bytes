@@ -1,0 +1,1 @@
+takeOrderLog(Market _market,uint8 _orderOutcome,Trading.TradeTypes _orderType,bytes32 _orderId,address _taker,uint256 _makerSharesFilled,int256 _makerTokensFilled,uint256 _takerSharesFilled,int256 _takerTokensFilled,uint256 _tradeGroupId)

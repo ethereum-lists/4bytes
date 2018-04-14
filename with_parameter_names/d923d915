@@ -1,0 +1,1 @@
+addMessage(address db,uint contractId,uint messageId)

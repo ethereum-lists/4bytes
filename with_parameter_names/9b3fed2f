@@ -1,0 +1,1 @@
+setState(State storage self,int8[128] newState,int8 nextPlayerColor)

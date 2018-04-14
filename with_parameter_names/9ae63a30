@@ -1,0 +1,1 @@
+isContractSignedBySigner(string _documentDigest,address _signer)

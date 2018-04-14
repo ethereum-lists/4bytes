@@ -1,0 +1,1 @@
+checkReceiptProof(bytes32 blockHash,bytes rlpStack,uint[] indexes,bytes receiptPrefix,bytes rlpReceipt)

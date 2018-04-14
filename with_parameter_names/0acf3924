@@ -1,0 +1,1 @@
+CarrierToken(uint _id,address _major,address _carrier,bytes32 _data,uint _supply,)

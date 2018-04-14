@@ -1,0 +1,1 @@
+listRequire(string user_id,uint sheet_id_,uint price,uint quo_qty);listRequire(string user_id,uint receipt_id,uint price,uint quo_qty)

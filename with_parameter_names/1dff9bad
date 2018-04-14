@@ -1,0 +1,1 @@
+withdraw(address addr,uint amount);withdraw(address to,uint256 value);withdraw(address _to,uint256 _value);withdraw(address output,uint amount);withdraw(address userAddr,uint amount);withdraw(address _to,uint _value);withdraw(address accountHolder,uint256 amount);withdraw(address _beneficiary,uint _percentageWHG)

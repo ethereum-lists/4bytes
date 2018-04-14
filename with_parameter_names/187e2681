@@ -1,0 +1,1 @@
+_transferDirect(uint _fromId,uint _toId,uint _value,bytes32 _symbol)

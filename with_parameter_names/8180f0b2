@@ -1,0 +1,1 @@
+getOrderIds(Trading.TradeTypes _type,Market _market,uint8 _outcome,bytes32 _startingOrderId,uint256 _numOrdersToLoad)

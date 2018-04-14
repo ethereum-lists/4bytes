@@ -1,0 +1,1 @@
+Association(address sharesTokenAddress,uint minimumSharesToPassAVote,uint minutesForDebate)

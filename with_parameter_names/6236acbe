@@ -1,0 +1,1 @@
+setContract(bytes32 _name,uint _version,address _main,address _logic)

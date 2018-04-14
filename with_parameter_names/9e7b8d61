@@ -1,0 +1,1 @@
+giveRightToVote(address toVoter);giveRightToVote(address voter)

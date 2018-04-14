@@ -1,0 +1,1 @@
+breedWithAuto(uint256 _matronId,uint256 _sireId)

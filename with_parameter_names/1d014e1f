@@ -1,0 +1,1 @@
+delete_entry(uint id,uint key,uint index)

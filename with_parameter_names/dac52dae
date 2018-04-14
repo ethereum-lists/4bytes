@@ -1,0 +1,1 @@
+getHash(bytes state,uint nonce)

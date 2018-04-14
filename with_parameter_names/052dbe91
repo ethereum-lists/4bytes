@@ -1,0 +1,1 @@
+pregenTokens(address beneficiary,uint256 weiAmount,uint256 tokenAmount)

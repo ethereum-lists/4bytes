@@ -1,0 +1,1 @@
+destroy(address parent);destroy(address _to);destroy(address _banknote)

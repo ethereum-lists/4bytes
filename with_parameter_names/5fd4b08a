@@ -1,0 +1,1 @@
+getName(address ofAsset);getName(address account);getName(address _owner);getName(address _a)

@@ -1,0 +1,1 @@
+generateMemoryProof(uint[] fullMem,uint index)

@@ -1,0 +1,1 @@
+addFreelancer(address db,uint[] skills,address userId);addFreelancer(address db,uint[] categories,address userId)

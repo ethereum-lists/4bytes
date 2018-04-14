@@ -1,0 +1,1 @@
+receiveTransfer(address _from,uint256 _value,address _tokenContract,bytes _data)

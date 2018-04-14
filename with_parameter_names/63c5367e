@@ -1,0 +1,1 @@
+shutdownMarket(address register,bytes32 market)

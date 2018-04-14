@@ -1,0 +1,1 @@
+priceForStage(uint8 _stage);priceForStage(uint8 stage)

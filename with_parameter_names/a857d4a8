@@ -1,0 +1,1 @@
+transfer(string _name,address _newOwner);transfer(string coin,string recipient)

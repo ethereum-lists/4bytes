@@ -1,0 +1,1 @@
+setProviderDetails(address addr,string website,string country,string info,uint8 rate,address admin)

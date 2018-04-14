@@ -1,0 +1,1 @@
+setContracts(address _storageAddr,address _nutzAddr,address _powerAddr,address _pullAddr)

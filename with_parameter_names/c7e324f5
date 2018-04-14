@@ -1,0 +1,1 @@
+register(string signature,address destination,uint outsize)

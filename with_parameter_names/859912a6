@@ -1,0 +1,1 @@
+uint32At(bytes data,uint256 location);uint32At(bytes _data,uint256 _location)

@@ -1,0 +1,1 @@
+killMeshPoint(address _address,string _name,address _creator)

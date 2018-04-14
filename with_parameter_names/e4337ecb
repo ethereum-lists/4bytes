@@ -1,0 +1,1 @@
+canVote(address _sender,uint256 _proposalID);canVote(address _sender,uint _proposalID)

@@ -1,0 +1,1 @@
+changePrice(uint _price);changePrice(uint _newPrice)

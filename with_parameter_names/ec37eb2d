@@ -1,0 +1,1 @@
+decline(uint _policyId,bytes32 _reason,bytes _proof)

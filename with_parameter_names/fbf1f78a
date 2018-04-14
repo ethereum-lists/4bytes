@@ -1,0 +1,1 @@
+unapprove(address _addr);unapprove(address _spender)

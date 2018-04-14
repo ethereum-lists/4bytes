@@ -1,0 +1,1 @@
+makeUser(address memberaddr,string whisperid,string nickname)

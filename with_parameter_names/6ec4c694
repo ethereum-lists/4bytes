@@ -1,0 +1,1 @@
+init(EarningsPool.Data storage earningsPool,uint256 _stake,uint256 _rewardCut,uint256 _feeShare)

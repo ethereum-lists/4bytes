@@ -1,0 +1,1 @@
+setFiscal(uint distritoId,uint escuelaId,uint mesaId,bytes32 fiscalEmail)

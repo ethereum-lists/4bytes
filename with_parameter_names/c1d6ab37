@@ -1,0 +1,1 @@
+setIsContainerForShareToken(bool _isContForShareToken);setIsContainerForShareToken(bool _setIsContainerForShareTokenValue)

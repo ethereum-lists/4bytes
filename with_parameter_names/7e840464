@@ -1,0 +1,1 @@
+createCopyright(string Name,address Expression,uint Publication,uint Expiration,string Reservations,string Contact,string Trademark,uint Edition,uint Printings)

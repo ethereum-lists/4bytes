@@ -1,0 +1,1 @@
+Token(uint initial_balance);Token(uint _initialSupply)

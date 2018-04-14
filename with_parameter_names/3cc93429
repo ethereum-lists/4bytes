@@ -1,0 +1,1 @@
+setEarlyParicipantsWhitelist(address[] addrs,bool[] statuses,uint[] minCaps,uint[] maxCaps)

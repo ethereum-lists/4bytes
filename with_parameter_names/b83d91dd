@@ -1,0 +1,1 @@
+removeIdArrayItem(address db,uint[] ids,string key,uint val);removeIdArrayItem(address db,uint[] ids,string key,address val)

@@ -1,0 +1,1 @@
+setHash(bytes32 node,bytes32 hash);setHash(bytes32 _itemName,bytes32 _itemHash)

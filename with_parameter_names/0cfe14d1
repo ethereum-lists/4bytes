@@ -1,0 +1,1 @@
+assertOnlySpecifiedCaller(address _caller,bytes32 _allowedCaller)

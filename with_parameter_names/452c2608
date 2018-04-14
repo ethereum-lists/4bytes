@@ -1,0 +1,1 @@
+getBalance(ERC20 token,address user)

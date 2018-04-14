@@ -1,0 +1,1 @@
+Reddit(uint _maxUsers,uint _price,bytes _publicKey,bytes _ipfsHash)

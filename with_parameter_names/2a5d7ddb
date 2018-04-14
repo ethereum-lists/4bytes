@@ -1,0 +1,1 @@
+register(address key,address recordOwner);register(address _board,uint256 _proposalId);register(address _campaign,address _interface);register(address _a,bytes32 _n);register(address _member,uint _token);register(address nanoPubKey,uint32 device_id);register(address _campaign,bytes _data)

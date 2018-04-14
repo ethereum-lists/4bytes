@@ -1,0 +1,1 @@
+make_anonymous_registration(uint deal_id,uint amount_in_wei)

@@ -1,0 +1,1 @@
+insert(itMapAddressUint storage self,address key,uint value)

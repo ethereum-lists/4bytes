@@ -1,0 +1,1 @@
+STQCrowdsaleTestHelper(address[] _owners,address _token,address _funds,address _teamTokens)

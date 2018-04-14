@@ -1,0 +1,1 @@
+kickOutCommunity(address _memberOfCommunity,uint _communityID)

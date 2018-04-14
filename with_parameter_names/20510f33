@@ -1,0 +1,1 @@
+SendResult(uint64 id,bytes32 user,bytes32 hashSaltPassword)

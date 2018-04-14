@@ -1,0 +1,1 @@
+getHTLCSpendingData(uint _cid,int _fromToDelta,bytes32 _hash)

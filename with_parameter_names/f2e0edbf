@@ -1,0 +1,1 @@
+Kiwi(address _company,uint256 _token_eth,string _name,string _symbol,uint8 _decimals,uint8 _percentToHold)

@@ -1,0 +1,1 @@
+isPermitted(address addr,bytes32 permission)

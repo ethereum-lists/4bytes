@@ -1,0 +1,1 @@
+canWithdrawLoanToken(Ledger storage ledger,address caller)

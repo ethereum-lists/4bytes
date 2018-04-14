@@ -1,0 +1,1 @@
+createPasswordChallenge(bytes20 response,bytes32 salt)

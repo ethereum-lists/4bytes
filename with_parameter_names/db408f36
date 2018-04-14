@@ -1,0 +1,1 @@
+issueAsset(bytes32 _symbol,uint _value,string _name,string _description,uint8 _baseUnit,bool _isReissuable)

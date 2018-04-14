@@ -1,0 +1,1 @@
+generateTokens(address _to,uint256 _value);generateTokens(address _owner,uint _amount);generateTokens(address,uint)

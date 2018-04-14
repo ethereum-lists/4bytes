@@ -1,0 +1,1 @@
+fxpMul(uint256 a,uint256 b,uint256 base);fxpMul(uint256 _a,uint256 _b,uint256 _base)

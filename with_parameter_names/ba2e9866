@@ -1,0 +1,1 @@
+set(string key,string value);set(string key,bytes32 value);set(string _name,uint _value)

@@ -1,0 +1,1 @@
+get(bytes32 registrationIdentifier,address issuer,address subject);get(bytes32 domain,bytes32 name,uint index)

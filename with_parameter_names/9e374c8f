@@ -1,0 +1,1 @@
+contributeFiat(address _contributor,uint256 _amount)

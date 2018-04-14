@@ -1,0 +1,1 @@
+assertEq26(bytes26 a,bytes26 b,bytes32 err)

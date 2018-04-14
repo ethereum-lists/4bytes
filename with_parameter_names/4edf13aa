@@ -1,0 +1,1 @@
+hasRole(address addr,bytes32 domain,bytes32 role)

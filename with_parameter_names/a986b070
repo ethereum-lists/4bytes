@@ -1,0 +1,1 @@
+GetEntityDelegatedRevoker(bytes32 vk,uint8 index)

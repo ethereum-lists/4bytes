@@ -1,0 +1,1 @@
+setFlagPair(uint index,bool flagA,bool flagB)

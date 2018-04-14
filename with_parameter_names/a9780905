@@ -1,0 +1,1 @@
+computeSecret(uint _secretNum,address _address)

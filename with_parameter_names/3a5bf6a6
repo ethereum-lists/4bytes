@@ -1,0 +1,1 @@
+CentrallyIssuedToken(address _owner,string _name,string _symbol,uint _totalSupply,uint _decimals)

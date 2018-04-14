@@ -1,0 +1,1 @@
+addThing(bytes32 description,bytes32 url,bytes32 filehash,bytes32 filename);addThing(bytes32 description,string url,string filehash,string filename);addThing(bytes32 description,string url,bytes32 filehash,string filename);addThing(bytes32 description,string url,string filehash,bytes32 filename);addThing(bytes32 description,bytes32 url,string filehash,string filename)

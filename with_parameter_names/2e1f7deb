@@ -1,0 +1,1 @@
+canReadInDataObject(address _account,bytes32[] _ids)

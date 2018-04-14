@@ -1,0 +1,1 @@
+setPermission(address addr,bytes32 permission,bool allowed);setPermission(address to,string func,bool perrmission)

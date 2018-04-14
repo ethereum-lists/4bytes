@@ -1,0 +1,1 @@
+decrypt(bytes32 key,bytes32[] memory cipher,bytes32 mac)

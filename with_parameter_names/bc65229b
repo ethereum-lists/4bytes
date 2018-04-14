@@ -1,0 +1,1 @@
+withdrawFromAccount(Account storage account,uint amount)

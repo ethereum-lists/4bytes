@@ -1,0 +1,1 @@
+set(Config storage self,UInt8 storage item,uint8 _value);set(Config storage self,Int storage item,int _value);set(Config storage self,Address storage item,address _value);set(Config storage self,Bool storage item,bool _value);set(Config storage self,UInt storage item,uint _value);set(Config storage self,Bytes32 storage item,bytes32 _value)

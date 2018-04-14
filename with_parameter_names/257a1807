@@ -1,0 +1,1 @@
+newTransfer(bool _disableDeveloperTip,address _owner,address _contract,uint _amount,uint _fee_amount,uint expires)

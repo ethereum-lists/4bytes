@@ -1,0 +1,1 @@
+logDisputeCrowdsourcerRedeemed(IUniverse _universe,address _reporter,address _market,uint256 _amountRedeemed,uint256 _repReceived,uint256 _reportingFeesReceived,uint256[] _payoutNumerators)

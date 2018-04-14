@@ -1,0 +1,1 @@
+retrieveWarriors(address _player,address _faction,uint8 _deadPercentage)

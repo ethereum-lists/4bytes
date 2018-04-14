@@ -1,0 +1,1 @@
+createNameAndPoint(bytes32 _label,address _target)

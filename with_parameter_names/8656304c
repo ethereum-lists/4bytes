@@ -1,0 +1,1 @@
+preBuy(address who,uint val,bool send)

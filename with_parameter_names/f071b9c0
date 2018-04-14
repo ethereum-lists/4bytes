@@ -1,0 +1,1 @@
+RtbSettlementContract(address _token,address _channelManager,address _payer,uint256 _feeRate)

@@ -1,0 +1,1 @@
+exchange(address token,uint amount,uint rate);exchange(address _from,address _to,uint _amount)

@@ -1,0 +1,1 @@
+getTransferRawAddress(bytes signed_transfer);getTransferRawAddress(bytes memory signed_transfer)

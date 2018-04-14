@@ -1,0 +1,1 @@
+setPermissionManager(address _newManager,address _app,bytes32 _role)

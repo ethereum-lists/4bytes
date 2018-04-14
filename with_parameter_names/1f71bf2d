@@ -1,0 +1,1 @@
+setVote(address subject,string name,uint value,address voter,bool affirm)

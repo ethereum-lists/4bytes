@@ -1,0 +1,1 @@
+Machine(ERC20Basic _token,string _model,string _make,bytes32 _id)

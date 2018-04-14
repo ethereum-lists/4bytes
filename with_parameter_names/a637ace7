@@ -1,0 +1,1 @@
+transfer_ether(address _receiver,uint _amount)

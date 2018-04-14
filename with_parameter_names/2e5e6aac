@@ -1,0 +1,1 @@
+submitReview(uint articleId,bool inSupportOfPublishing)

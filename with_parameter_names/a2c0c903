@@ -1,0 +1,1 @@
+setTokenUrl(address _token,string _url)

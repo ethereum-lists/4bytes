@@ -1,0 +1,1 @@
+ConsentTemplate(string _company,string _purpouse,uint _version,string _title,string _text,string _languageCountry)

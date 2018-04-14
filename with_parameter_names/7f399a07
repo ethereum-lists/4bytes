@@ -1,0 +1,1 @@
+SetCustomerInfo(uint64 requestId,bytes18 index,bytes32 name,bytes11 phone)

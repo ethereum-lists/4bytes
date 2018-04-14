@@ -1,0 +1,1 @@
+Post(address _owner,address _author,address _board,bytes32 _title,bytes32 _image,bytes32 c1,bytes32 c2,bytes32 c3,bytes32 c4,bytes32 c5,bytes32 c6,bytes32 c7,bytes32 c8)

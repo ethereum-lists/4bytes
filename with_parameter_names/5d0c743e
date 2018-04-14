@@ -1,0 +1,1 @@
+remove(CLL storage self,uint n);remove(CLL storage self,int n)

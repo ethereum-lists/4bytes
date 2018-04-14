@@ -1,0 +1,1 @@
+substr(string _self,uint _start,uint _len)

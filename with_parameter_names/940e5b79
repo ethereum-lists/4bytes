@@ -1,0 +1,1 @@
+FathomToken(address _conceptRegistry,address _initialUser,uint _initialBalance,address _minter)

@@ -1,0 +1,1 @@
+changeMemberGroup(uint _id,string _newGroupName)

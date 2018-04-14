@@ -1,0 +1,1 @@
+setBadgeLevel(bytes32 badgeHash,uint level,string title,string description,bytes image)

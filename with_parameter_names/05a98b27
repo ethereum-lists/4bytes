@@ -1,0 +1,1 @@
+quickChange(uint256 _amount,address[] _path,uint256 _minReturn)

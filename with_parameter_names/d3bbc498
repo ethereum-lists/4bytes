@@ -1,0 +1,1 @@
+vote(address userAddress,uint proposalId,uint value,string comment)

@@ -1,0 +1,1 @@
+_setApp(bytes32 _namespace,bytes32 _name,address _app)

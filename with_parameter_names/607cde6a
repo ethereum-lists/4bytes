@@ -1,0 +1,1 @@
+updateBloomFilter(bytes filter,address loggersAddress,bytes32[] topics)

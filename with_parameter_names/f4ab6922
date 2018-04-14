@@ -1,0 +1,1 @@
+premium(bool forReplace,address moduleHandler,address dbAddress,address icoContractAddr,address[] genesisAddr,uint256[] genesisValue)

@@ -1,0 +1,1 @@
+TicTacToeRules(address _addressX,address _addressO,uint _timeout)

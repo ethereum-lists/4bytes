@@ -1,0 +1,1 @@
+reportTemperature(int8[] _temperatures,uint32[] _timestamps)

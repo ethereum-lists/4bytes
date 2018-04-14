@@ -1,0 +1,1 @@
+submitTally(uint256 _proposalID,uint256 _yesVotes,uint256 _totalVotes)

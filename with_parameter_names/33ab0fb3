@@ -1,0 +1,1 @@
+registerOperation(uint _operation,string _query)

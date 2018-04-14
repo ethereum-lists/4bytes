@@ -1,0 +1,1 @@
+onNewLoan(uint _lid,address _addr);onNewLoan(uint lid,address addr)

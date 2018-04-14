@@ -1,0 +1,1 @@
+arbitratedBuy(uint256 _price,uint32 _daysToOppose,Court _court,uint256 _timeToReac)

@@ -1,0 +1,1 @@
+getPage(uint[] array,uint offset,uint limit,bool cycle)

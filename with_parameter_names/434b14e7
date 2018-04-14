@@ -1,0 +1,1 @@
+randomGen(uint seed);randomGen(uint range)

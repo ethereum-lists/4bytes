@@ -1,0 +1,1 @@
+changeFreezeTime(uint _newTime,bool _isReward)

@@ -1,0 +1,1 @@
+setTradersContract(address _traders);setTradersContract(address tradersAddress)

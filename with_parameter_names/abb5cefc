@@ -1,0 +1,1 @@
+create(bytes32 _id,address _owner,bytes32[3] _hashes,bytes32 _readerId,bytes32 _writerId);create(bytes32 _id,address _owner,bytes32 _hash,address _cns,bytes32 _contractName);create(bytes32 _id,address _owner,address[] _members,address _cns,bytes32 _contractName)

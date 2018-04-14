@@ -1,0 +1,1 @@
+addInitialMember(address _memberAddress,uint _memberWeight);addInitialMember(address _user,uint _weight)

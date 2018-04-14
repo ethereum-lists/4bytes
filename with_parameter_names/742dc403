@@ -1,0 +1,1 @@
+initialize(Market _market,uint8 _outcome);initialize(Market _market,uint256[] _payoutNumerators)

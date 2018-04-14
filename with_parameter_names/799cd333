@@ -1,0 +1,1 @@
+sign(bytes32 hash);sign(bytes32 data_hash)

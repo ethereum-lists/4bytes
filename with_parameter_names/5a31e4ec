@@ -1,0 +1,1 @@
+canPerform(address _entity,address _app,bytes4 _action);canPerform(address _sender,bytes32 _role,uint256[] params)

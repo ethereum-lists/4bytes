@@ -1,0 +1,1 @@
+register(address _someMember);register(address _userAddress);register(address _campaign);register(address _attendee);register(address account);register(address _user);register(address _service);register(address paymentAddress);register(address instantiation);register(address _owner);register(address _acct);register(address addr)

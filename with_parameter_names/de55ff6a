@@ -1,0 +1,1 @@
+updateProjectDescription(string _projectDescription,bytes32 _hashOfTheDocument)

@@ -1,0 +1,1 @@
+sellAllAmount(ERC20 pay_gem,uint pay_amt,ERC20 buy_gem,uint min_fill_amount)

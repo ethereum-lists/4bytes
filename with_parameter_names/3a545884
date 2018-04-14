@@ -1,0 +1,1 @@
+setContractValue(address subject,string name,uint value)

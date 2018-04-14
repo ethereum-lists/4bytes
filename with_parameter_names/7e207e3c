@@ -1,0 +1,1 @@
+setInt(bytes32 _crate,bytes32 _key,int _value)

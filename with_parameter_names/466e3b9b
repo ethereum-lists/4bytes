@@ -1,0 +1,1 @@
+vote(bytes32 proposalHash,bool pro);vote(bytes32 _proposalId,uint _vote);vote(bytes32 candidate,uint numTokens);vote(bytes32 firstPreference,bytes32 secondPreference)

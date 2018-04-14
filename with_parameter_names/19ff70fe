@@ -1,0 +1,1 @@
+GitBounty(string issueUrl,address[] voters,uint256  expiresIn,GitBountyCreator parentAddress)

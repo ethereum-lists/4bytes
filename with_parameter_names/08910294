@@ -1,0 +1,1 @@
+registerContract(bytes32 _key,address _address,bytes20 _commitHash,bytes32 _bytecodeHash)

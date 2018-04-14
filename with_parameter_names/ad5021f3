@@ -1,0 +1,1 @@
+TransToken(uint _id,address _major,address _carrier,bytes32 data,uint _supply,)

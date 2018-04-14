@@ -1,0 +1,1 @@
+newOption(address addr,uint amount,bool long)

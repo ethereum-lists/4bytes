@@ -1,0 +1,1 @@
+vote(address target,bool support,string justification);vote(address owner,address action,Vote vote);vote(address chainperson,uint256 ballot,uint256 proposalNum);vote(address _board,uint _proposalID,uint _position)

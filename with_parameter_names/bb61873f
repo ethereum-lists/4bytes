@@ -1,0 +1,1 @@
+addNewAccount(string _legacyCreditAddress,address _etherAddress,uint _numberOfCoins,uint _totalSupplyVote,uint _coreDevTeamReward)

@@ -1,0 +1,1 @@
+withdrawCoin(bytes32 _user,uint _amount)

@@ -1,0 +1,1 @@
+localsAvatar(bytes32 subjecthash,address subject,bytes32 validatorhash)

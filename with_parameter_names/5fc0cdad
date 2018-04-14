@@ -1,0 +1,1 @@
+statusPred(address db,uint[] args,uint contractId);statusPred(address db,uint[] args,uint jobId)

@@ -1,0 +1,1 @@
+addMember(address member,bytes32 name);addMember(address _assessee,uint _weight);addMember(address targetMember,string memberName);addMember(address _nominee,bool _setSpecial)

@@ -1,0 +1,1 @@
+stitch(CLL storage self,int a,int b,bool d);stitch(CLL storage self,uint a,uint b,bool d)

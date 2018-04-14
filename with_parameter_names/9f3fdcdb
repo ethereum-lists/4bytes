@@ -1,0 +1,1 @@
+init(bytes32 state,uint /* state_size */,uint /* r3 */,address solver,address /* verifier */)

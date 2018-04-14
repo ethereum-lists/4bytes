@@ -1,0 +1,1 @@
+MockEnsRegistrar(AbstractENS _ens,bytes32 _rootNode)

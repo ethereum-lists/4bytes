@@ -1,0 +1,1 @@
+enableSuperUser(address target,bool enable)

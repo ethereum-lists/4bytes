@@ -1,0 +1,1 @@
+deleteIntValue(bytes32 record);deleteIntValue(bytes32 recordFieldName)

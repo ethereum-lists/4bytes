@@ -1,0 +1,1 @@
+getAddress(Struct storage self,uint _index)

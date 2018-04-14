@@ -1,0 +1,1 @@
+Adjudicator(address[] _addresses,uint _consenters,uint _timeout)

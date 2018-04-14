@@ -1,0 +1,1 @@
+freezeAccount(address target,bool freeze);freezeAccount(address account,bool freeze);freezeAccount(address target,bool canSell)

@@ -1,0 +1,1 @@
+adminAmendBallot(uint32 _ballotId,string _proposal,uint256 _start,uint256 _end)

@@ -1,0 +1,1 @@
+getClaim(address issuer,address subject,bytes32 key)

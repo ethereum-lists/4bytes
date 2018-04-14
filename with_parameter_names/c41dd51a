@@ -1,0 +1,1 @@
+logUniverseCreated(IUniverse _childUniverse,uint256[] _payoutNumerators,bool _invalid)

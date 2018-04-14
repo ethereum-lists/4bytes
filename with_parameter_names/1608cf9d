@@ -1,0 +1,1 @@
+claimEgg(uint eggid,bytes32 secret,bytes32 newSecretHash)

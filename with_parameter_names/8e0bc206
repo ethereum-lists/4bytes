@@ -1,0 +1,1 @@
+majorEvent(bytes32 name,bytes description,uint256 eventTimeStamp)

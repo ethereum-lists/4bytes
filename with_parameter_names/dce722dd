@@ -1,0 +1,1 @@
+getJobSkills(uint _jobId);getJobSkills(uint id)

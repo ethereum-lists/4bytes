@@ -1,0 +1,1 @@
+Paper(string _title,address _editor,uint _paperUID,uint _price,address[] allAuthors,address _ethjournal)

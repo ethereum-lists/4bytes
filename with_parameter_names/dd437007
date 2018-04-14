@@ -1,0 +1,1 @@
+getBytes32Slice(bytes _proof,uint _index)

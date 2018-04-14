@@ -1,0 +1,1 @@
+add(bytes32 init,CodeType ct,Storage cs,string stor);add(bytes32 init,/* CodeType */ uint8 ct,/* Storage */ uint8 cs,string stor)
