@@ -3,6 +3,7 @@ package org.ethereum.lists.methodsignatures
 import org.kethereum.keccakshortcut.keccak
 import org.kethereum.methodsignatures.FileBackedMethodSignatureStore
 import org.walleth.khex.toNoPrefixHexString
+import java.io.File
 
 fun main(args: Array<String>) {
     var totalProcessed = 0
@@ -13,12 +14,18 @@ fun main(args: Array<String>) {
     val store = FileBackedMethodSignatureStore(signatureDirectory)
     val methodSet = HashSet<String>()
     val paramSet = HashSet<String>()
+    var jsonElements= arrayOf<String>()
 
     store.all().forEach { signatureHash ->
         val get = store.get(signatureHash)
         get.map { it.signature }.forEach { signatureText ->
             val methodName = signatureText.substringBefore("(")
-            val params = signatureText.substringAfter("(").substringBefore(")").split(",").toHashSet()
+            val params = signatureText
+                    .substringAfter("(")
+                    .substringBefore(")")
+                    .split(",")
+                    .filter { !it.isBlank() }
+                    .toHashSet()
             methodSet.add(methodName)
             if (methodName.contains("_")) {
                 withUnderscore++
@@ -38,6 +45,8 @@ fun main(args: Array<String>) {
             val newParams = params.map { it.substringBefore("[") }.filter { it.isNotEmpty() }
             paramSet.addAll(newParams)
             totalProcessed++
+            val jsonParams = params.map { "\"$it\"" }.joinToString()
+            jsonElements+="{\"id\":\"$signatureHash\",\"name\":\"$methodName\",\"argumentType\":[$jsonParams]}"
         }
     }
 
@@ -54,5 +63,11 @@ fun main(args: Array<String>) {
     println("max param count: $maxParams")
     println("param types used: $size")
     println("param types: ${paramSet.joinToString()}")
+
+    val outDir = File("output")
+    outDir.mkdir()
+    val outFile = File(outDir, "methods.json")
+    outFile.createNewFile()
+    outFile.writeText("[\n${jsonElements.joinToString (",\n")}\n]")
 
 }
