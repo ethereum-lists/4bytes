@@ -23,7 +23,7 @@ repositories {
 }
 
 task importFrom4ByteDirectory(type: JavaExec) {
-    main = "org.ethereum.lists.methodsignatures.ImportKt"
+    main = "org.ethereum.lists.methodsignatures.ImportOnline4ByteDirectoryKt"
     classpath = sourceSets.main.runtimeClasspath
 }
 
