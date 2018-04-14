@@ -13,7 +13,7 @@ transfer(address,uint256)
 
 If there are 2 methods matching this hex-signature they will be separated by semicolon(";").
 
-You can also get signatures with parameter names. Note that collisions might be higher here as people might use different parameter names. In the example before:
+You can also get signatures with parameter names. Note that collisions will be higher here as people can use different parameter names and the parameter names do not change the signature. In the example before:
 
 ```
 > curl https://raw.githubusercontent.com/ethereum-lists/4bytes/master/with_parameter_names/a9059cbb
