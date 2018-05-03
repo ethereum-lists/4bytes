@@ -14,11 +14,20 @@ fun main(args: Array<String>) {
     val store = FileBackedMethodSignatureStore(signatureDirectory)
     val methodSet = HashSet<String>()
     val paramSet = HashSet<String>()
+    var collisions = 0
+    var collisionImpacted = 0
     var jsonElements= arrayOf<String>()
 
     store.all().forEach { signatureHash ->
-        val get = store.get(signatureHash)
-        get.map { it.signature }.forEach { signatureText ->
+
+        val textSignatureSet = store.get(signatureHash)
+
+        if (textSignatureSet.size > 1) {
+            collisions++
+            collisionImpacted += textSignatureSet.size
+        }
+
+        textSignatureSet.map { it.signature }.forEach { signatureText ->
             val methodName = signatureText.substringBefore("(")
             val params = signatureText
                     .substringAfter("(")
@@ -51,10 +60,13 @@ fun main(args: Array<String>) {
     }
 
     println("totalProcessed: $totalProcessed")
+    println("signatures with collision: $collisions")
+    println("methods in collision: $collisionImpacted")
     println("unique method names: ${methodSet.size}")
     println("names with underscore: $withUnderscore")
     println("names with CamelCase: $withCamelCase")
     println("names starting with upper case char: $startsWiUpperCase")
+
     val max = methodSet.maxBy { it.length }?.length
     val min = methodSet.minBy { it.length }?.length
     println("min method name length: $min")
