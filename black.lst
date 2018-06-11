@@ -1,0 +1,8 @@
+pizza_mandate_apology(uint256)
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+collate_propagate_storage(bytes16)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+coral_cable_news(uint256)

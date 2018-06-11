@@ -6,11 +6,16 @@ import com.beust.klaxon.Parser
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import org.kethereum.methodsignatures.FileBackedMethodSignatureStore
+import java.io.File
+import java.util.concurrent.TimeUnit
 
 const val PAGE_SIZE = 2000
 const val url = "https://www.4byte.directory/api/v1/signatures/?page_size=$PAGE_SIZE&ordering=created_at"
 
-val client = OkHttpClient()
+val client = OkHttpClient.Builder().apply {
+    readTimeout(42, TimeUnit.SECONDS)
+}.build()
+
 val outDir = signatureDirectory.apply { mkdirs() }
 
 var total = 0
@@ -20,6 +25,8 @@ fun main(args: Array<String>) {
 }
 
 private fun import(url: String) {
+    val blackList = File("black.lst").readLines().toSet()
+
     val store = FileBackedMethodSignatureStore(outDir)
     val request = Request.Builder().url(url).build()
 
@@ -35,9 +42,11 @@ private fun import(url: String) {
             array.map { it as JsonObject }.forEach {
                 val hexSignature = it["hex_signature"] as String
                 val textSignature = it["text_signature"] as String
-                if (store.upsert(hexSignature.replace("0x", ""), textSignature)) {
-                    new++
-                    total++
+                if (!blackList.contains(textSignature)) {
+                    if (store.upsert(hexSignature.replace("0x", ""), textSignature)) {
+                        new++
+                        total++
+                    }
                 }
             }
             println("processed: ${array.size} - imported: $new - total: $total")
