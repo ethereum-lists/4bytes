@@ -27,6 +27,10 @@ task importFrom4ByteDirectory(type: JavaExec) {
     classpath = sourceSets.main.runtimeClasspath
 }
 
+task coverage(type: JavaExec) {
+    main = "org.ethereum.lists.methodsignatures.CoverageKt"
+    classpath = sourceSets.main.runtimeClasspath
+}
 
 task importFromSolidityDirectory(type: JavaExec) {
     main = "org.ethereum.lists.methodsignatures.ImportSolidityDirectoryKt"
