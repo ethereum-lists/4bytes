@@ -43,8 +43,8 @@ task importFromSolidityDirectory(type: JavaExec) {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
-    compile "com.github.walleth.kethereum:keccak_shortcut:0.47"
-    compile "com.github.walleth.kethereum:method_signatures:0.47"
+    compile "com.github.walleth.kethereum:keccak_shortcut:0.53"
+    compile "com.github.walleth.kethereum:method_signatures:0.53"
     compile 'com.beust:klaxon:0.30'
     compile 'com.squareup.okhttp3:okhttp:3.10.0'
 }

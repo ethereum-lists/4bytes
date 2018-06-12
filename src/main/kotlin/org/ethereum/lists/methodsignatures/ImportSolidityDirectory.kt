@@ -21,19 +21,28 @@ fun main(args: Array<String>) {
         error("importPath ($importPath) is not a directory")
     }
 
-    val store=FileBackedMethodSignatureStore(textSignatureDirectoryWithParameterNames)
+    val textStore = FileBackedMethodSignatureStore(textSignatureDirectoryWithParameterNames)
+    val store = FileBackedMethodSignatureStore(signatureDirectory)
 
     importPath.listFiles().forEach { solidity_file ->
         solidity_file.reader().readText().lines().forEach { code ->
-            val cleanCode = code.replace(" ","").replace("\t","") // ^^-)
+            val cleanCode = code.replace(" ", "").replace("\t", "") // ^^-)
             if (cleanCode.startsWith("function")) {
+
                 val codeAfterFunction = code.substringAfter("function")
                 val functionName = codeAfterFunction.substringBefore("(").trim()
                 val functionParameters = code.substringAfter("(").substringBefore(")").trim()
-                val functionParametersClean = functionParameters.split(",").joinToString(",") { it.trim() }
-                val functionParametersSignature = functionParameters.split(",").joinToString(",") { it.split(" ").first().trim() }
-                val hexSignature= TextMethodSignature("$functionName($functionParametersSignature)").toHexSignature()
-                store.upsert(hexSignature.hex,"$functionName($functionParametersClean)")
+                val paramsSplit = functionParameters.split(",").map { it.trim() }
+                val functionParametersClean = paramsSplit.joinToString(",")
+                val functionParametersSignature = paramsSplit.joinToString(",") { it.split(" ").first().trim() }
+                val textMethodSignature = TextMethodSignature("$functionName($functionParametersSignature)")
+                val hexSignature = textMethodSignature.toHexSignature()
+
+                if (!textMethodSignature.functionName.isBlank()) { // constructor
+                    textStore.upsert(hexSignature.hex, "$functionName($functionParametersClean)")
+
+                    store.upsert(hexSignature.hex, textMethodSignature.normalizedSignature)
+                }
             }
         }
     }
