@@ -1,0 +1,1 @@
+addGlobalConstraint(address,int256,bytes32,address)
