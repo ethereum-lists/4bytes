@@ -1,0 +1,1 @@
+deployBallot(bytes32,bytes32,bytes32,uint64[2],bool[2])

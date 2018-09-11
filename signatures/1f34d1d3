@@ -1,0 +1,1 @@
+registerAppVersion(bytes32,bytes32,address,bytes4[],address[])

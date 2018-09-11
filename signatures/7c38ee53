@@ -1,0 +1,1 @@
+addContactRecord(string,string,string,address,string,string,int256,string,int256,address,string,int256)

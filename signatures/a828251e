@@ -1,0 +1,1 @@
+voteProposal(bytes32,address,address,uint256,bytes32,string,bytes)

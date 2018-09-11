@@ -1,0 +1,1 @@
+registerTransaction(string,address,uint256)

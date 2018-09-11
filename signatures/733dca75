@@ -1,0 +1,1 @@
+registerCoin(bytes4,string,string,address)

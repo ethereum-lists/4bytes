@@ -1,0 +1,1 @@
+updateAsset(address,bytes32,bytes8,uint256,string,string,address[2],uint256[],bytes4[])

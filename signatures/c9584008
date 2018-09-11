@@ -1,0 +1,1 @@
+registerTicker(address,string,string,bytes32)

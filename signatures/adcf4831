@@ -1,0 +1,1 @@
+registerAuditOutcome(address,bytes32,bool)

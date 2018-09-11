@@ -1,0 +1,1 @@
+registerPoA(string,bytes32,uint64[],uint64[],address,address,string,bytes2)

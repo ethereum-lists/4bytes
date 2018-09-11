@@ -1,0 +1,1 @@
+createERC20(address,uint256,string,uint8,string)

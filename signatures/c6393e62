@@ -1,0 +1,1 @@
+migrationSetBoard(bytes32,bytes32,string,uint8,address)

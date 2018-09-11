@@ -1,0 +1,1 @@
+registerArtwork(address,bytes32,uint256,string,string,uint256,address,bool,bool)

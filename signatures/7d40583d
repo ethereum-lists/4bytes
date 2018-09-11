@@ -1,0 +1,1 @@
+setRoleCapability(uint8,address,bytes4,bool)

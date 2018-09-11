@@ -1,0 +1,1 @@
+doesContractImplementInterface(address,bytes4)

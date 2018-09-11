@@ -1,0 +1,1 @@
+addNetworkMember(address,bool,bool,bool,bytes32)

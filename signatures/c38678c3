@@ -1,0 +1,1 @@
+addBuildingToServer(uint256,uint8[10],uint8[10],uint8[10],bytes32[10],uint8)

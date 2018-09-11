@@ -1,0 +1,1 @@
+cancelAllOrdersByTradingPair(address,address,uint256)

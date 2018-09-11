@@ -1,0 +1,1 @@
+constructUserIdentity(address,string,uint32,string,string,bytes32,bytes32,uint8)
