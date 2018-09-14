@@ -1,1 +1,1 @@
-setNewAddress(address _v2Address)
+setNewAddress(address _address);setNewAddress(address _v2Address)

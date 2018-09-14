@@ -1,0 +1,1 @@
+createAccount(bytes16 _name,string _ipfsHash)

@@ -1,1 +1,1 @@
-post(string message);post(string text)
+post(string _ipfsHash);post(string message);post(string text)
