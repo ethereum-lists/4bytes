@@ -1,0 +1,1 @@
+tip(address _author,string _messageID,uint256 _ownerTip,string _ipfsHash)
