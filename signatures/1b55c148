@@ -1,0 +1,1 @@
+BidPlaced(bytes32,uint8,address,uint256,bool,int32)

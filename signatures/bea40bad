@@ -1,0 +1,1 @@
+composeJingle(address,uint32[5],uint32[5],string,string,uint8[20])

@@ -1,0 +1,1 @@
+createNewSecret(string,bytes32,bool)

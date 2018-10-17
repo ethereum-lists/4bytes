@@ -1,0 +1,1 @@
+supportsERC165Interface(address,bytes4)
