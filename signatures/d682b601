@@ -1,0 +1,1 @@
+auditContract(address,bytes32,bytes,bool)

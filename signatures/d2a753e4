@@ -1,0 +1,1 @@
+cancelBid(address,bytes32,int32,bool)
