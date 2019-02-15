@@ -1,0 +1,1 @@
+isValidWalletSignature(bytes32,address,bytes)

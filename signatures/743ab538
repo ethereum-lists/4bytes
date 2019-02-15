@@ -1,0 +1,1 @@
+validateNameSignature(string,uint256,address,string,uint8,bytes32,bytes32)

@@ -1,0 +1,1 @@
+setCurve(address,bytes32,int256,int256[])

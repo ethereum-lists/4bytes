@@ -1,0 +1,1 @@
+closeContract(bytes32,bytes8,uint256,uint32,string,uint32,uint32,uint64,uint64,bytes32)
