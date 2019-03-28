@@ -10,7 +10,7 @@ import java.math.BigInteger
 import java.math.BigInteger.ZERO
 import java.math.MathContext
 
-fun main(args: Array<String>) {
+fun main() {
     val store = FileBackedMethodSignatureStore(signatureDirectory)
 
     var found = 0

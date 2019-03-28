@@ -5,7 +5,7 @@ import org.kethereum.methodsignatures.FileBackedMethodSignatureStore
 import org.walleth.khex.toNoPrefixHexString
 import java.io.File
 
-fun main(args: Array<String>) {
+fun main() {
     var totalProcessed = 0
     var withUnderscore = 0
     var withCamelCase = 0

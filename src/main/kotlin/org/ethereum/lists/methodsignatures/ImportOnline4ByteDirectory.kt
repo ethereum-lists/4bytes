@@ -20,7 +20,7 @@ val outDir = signatureDirectory.apply { mkdirs() }
 
 var total = 0
 
-fun main(args: Array<String>) {
+fun main() {
     import(url)
 }
 
