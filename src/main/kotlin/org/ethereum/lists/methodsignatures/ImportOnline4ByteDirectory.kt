@@ -32,8 +32,8 @@ private fun import(url: String) {
 
     val response = client.newCall(request).execute()
     when (response.code()) {
-        200 -> response.body()?.use {
-            val string = it.string()
+        200 -> response.body()?.use { body ->
+            val string = body.string()
 
             val jsonObject = Klaxon().parseJsonObject(string.reader())
             val array = jsonObject["results"] as JsonArray<*>
