@@ -2,7 +2,7 @@ package org.ethereum.lists.methodsignatures
 
 import com.beust.klaxon.JsonArray
 import com.beust.klaxon.JsonObject
-import com.beust.klaxon.Parser
+import com.beust.klaxon.Klaxon
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import org.kethereum.methodsignatures.FileBackedMethodSignatureStore
@@ -35,7 +35,7 @@ private fun import(url: String) {
         200 -> response.body()?.use {
             val string = it.string()
 
-            val jsonObject = Parser().parse(string.reader()) as JsonObject
+            val jsonObject = Klaxon().parseJsonObject(string.reader())
             val array = jsonObject["results"] as JsonArray<*>
 
             var new = 0
