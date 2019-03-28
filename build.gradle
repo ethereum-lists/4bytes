@@ -4,14 +4,16 @@ buildscript {
     }
 
     repositories {
-        mavenCentral()
+        jcenter()
     }
 
     dependencies {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${KOTLIN_VERSION}"
+        classpath 'com.github.ben-manes:gradle-versions-plugin:0.21.0'
     }
 }
 
+apply plugin: "com.github.ben-manes.versions"
 apply plugin: "kotlin"
 apply plugin: 'application'
 
