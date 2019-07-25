@@ -1,0 +1,1 @@
+oracleRequest(address,uint256,bytes32,address,bytes4,uint256,uint256,bytes)

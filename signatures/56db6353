@@ -1,0 +1,1 @@
+buildChainlinkRequest(bytes32,address,bytes4)
