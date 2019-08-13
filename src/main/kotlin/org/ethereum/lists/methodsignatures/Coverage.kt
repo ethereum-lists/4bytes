@@ -1,8 +1,8 @@
 package org.ethereum.lists.methodsignatures
 
-import okhttp3.internal.io.FileSystem.SYSTEM
 import okio.GzipSource
-import okio.Okio.buffer
+import okio.buffer
+import okio.source
 import org.kethereum.methodsignatures.FileBackedMethodSignatureStore
 import java.io.File
 import java.math.BigDecimal
@@ -19,7 +19,7 @@ fun main() {
     var missedCalls = ZERO
     var foundCalls = ZERO
 
-    val bufferedSource = buffer(GzipSource(SYSTEM.source(File("signatures_sorted_counted.lst.gz"))))
+    val bufferedSource = GzipSource(File("signatures_sorted_counted.lst.gz").source()).buffer()
     while (true) {
         val line = bufferedSource.readUtf8Line()
         if (line != null) {

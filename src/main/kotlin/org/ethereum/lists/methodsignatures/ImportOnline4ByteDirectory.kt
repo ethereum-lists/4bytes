@@ -31,8 +31,8 @@ private fun import(url: String) {
     val request = Request.Builder().url(url).build()
 
     val response = client.newCall(request).execute()
-    when (response.code()) {
-        200 -> response.body()?.use { body ->
+    when (response.code) {
+        200 -> response.body?.use { body ->
             val string = body.string()
 
             val jsonObject = Klaxon().parseJsonObject(string.reader())
