@@ -51,7 +51,7 @@ dependencies {
     implementation "com.github.walleth.kethereum:keccak_shortcut:0.74.8"
     implementation "com.github.walleth.kethereum:method_signatures:0.74.8"
 
-    implementation 'com.beust:klaxon:5.0.9'
+    implementation 'com.beust:klaxon:5.0.11'
     implementation 'com.squareup.okhttp3:okhttp:3.14.1'
 }
 
