@@ -54,7 +54,7 @@ fun main() {
             val newParams = params.map { it.substringBefore("[") }.filter { it.isNotEmpty() }
             paramSet.addAll(newParams)
             totalProcessed++
-            val jsonParams = params.map { "\"$it\"" }.joinToString()
+            val jsonParams = params.joinToString { "\"$it\"" }
             jsonElements+="{\"id\":\"$signatureHash\",\"name\":\"$methodName\",\"argumentType\":[$jsonParams]}"
         }
     }
