@@ -2,6 +2,8 @@ package org.ethereum.lists.methodsignatures
 
 import org.kethereum.keccakshortcut.keccak
 import org.kethereum.methodsignatures.FileBackedMethodSignatureStore
+import org.kethereum.methodsignatures.model.TextMethodSignature
+import org.kethereum.methodsignatures.toHexSignature
 import org.walleth.khex.toNoPrefixHexString
 import java.io.File
 
@@ -16,7 +18,7 @@ fun main() {
     val paramSet = HashSet<String>()
     var collisions = 0
     var collisionImpacted = 0
-    var jsonElements= arrayOf<String>()
+    var jsonElements = arrayOf<String>()
 
     store.all().forEach { signatureHash ->
 
@@ -53,9 +55,14 @@ fun main() {
             }
             val newParams = params.map { it.substringBefore("[") }.filter { it.isNotEmpty() }
             paramSet.addAll(newParams)
+
+            if (TextMethodSignature(signatureText).toHexSignature().hex != signatureHash) {
+                error("Problem with signature: $signatureText $signatureHash - most likely parameters not normalized")
+            }
+
             totalProcessed++
             val jsonParams = params.joinToString { "\"$it\"" }
-            jsonElements+="{\"id\":\"$signatureHash\",\"name\":\"$methodName\",\"argumentType\":[$jsonParams]}"
+            jsonElements += "{\"id\":\"$signatureHash\",\"name\":\"$methodName\",\"argumentType\":[$jsonParams]}"
         }
     }
 
@@ -80,6 +87,6 @@ fun main() {
     outDir.mkdir()
     val outFile = File(outDir, "methods.json")
     outFile.createNewFile()
-    outFile.writeText("[\n${jsonElements.joinToString (",\n")}\n]")
+    outFile.writeText("[\n${jsonElements.joinToString(",\n")}\n]")
 
 }
