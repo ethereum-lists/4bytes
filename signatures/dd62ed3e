@@ -1,1 +1,1 @@
-allowance(address,address)
+allowance(address,address);remove_good(uint256[],bytes8,bool)
