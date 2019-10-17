@@ -1,0 +1,1 @@
+LogLoanClosed(address,address,address,bool,bytes32,uint256)

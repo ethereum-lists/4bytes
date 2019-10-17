@@ -1,0 +1,1 @@
+init(BTTSLib.Data storage,address,string,string,uint8,uint256,bool,bool)

@@ -1,0 +1,1 @@
+init(DeckLib.Deck storage,uint256)

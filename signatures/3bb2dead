@@ -1,1 +1,1 @@
-resolveAddressLight(address)
+initialFundsReleaseNumerator();resolveAddressLight(address)

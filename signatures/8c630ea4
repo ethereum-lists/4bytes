@@ -1,0 +1,1 @@
+setGoalFailedEvent(bytes32,bool)

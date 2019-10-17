@@ -1,0 +1,1 @@
+changeRequiredMinor(WalletMainLib.WalletData storage,uint256,bool,bytes)

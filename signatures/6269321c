@@ -1,0 +1,1 @@
+burnToken(TokenLib.TokenStorage storage,uint256)

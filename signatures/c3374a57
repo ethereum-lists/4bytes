@@ -1,0 +1,1 @@
+setGoalSucceededEvent(bytes32,bool)

@@ -1,1 +1,1 @@
-startSale(uint256,uint256,uint256)
+startSale(uint256,uint256,uint256);adminResetRank()

@@ -1,0 +1,1 @@
+CampaignInformation(bytes32,address,string,string,uint256[3],uint256[],string)

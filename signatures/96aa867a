@@ -1,0 +1,1 @@
+init(DirectCrowdsaleLib.DirectCrowdsaleStorage storage,address,uint256[],uint256,uint8,CrowdsaleToken)
