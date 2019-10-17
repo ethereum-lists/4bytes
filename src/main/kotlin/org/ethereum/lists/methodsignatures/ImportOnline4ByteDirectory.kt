@@ -5,8 +5,6 @@ import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Klaxon
 import okhttp3.OkHttpClient
 import okhttp3.Request
-import org.kethereum.methodsignatures.FileBackedMethodSignatureStore
-import java.io.File
 import java.util.concurrent.TimeUnit
 
 const val PAGE_SIZE = 2000
@@ -25,9 +23,6 @@ fun main() {
 }
 
 private fun import(url: String) {
-    val blackList = File("black.lst").readLines().toSet()
-
-    val store = FileBackedMethodSignatureStore(outDir)
     val request = Request.Builder().url(url).build()
 
     val response = client.newCall(request).execute()
@@ -42,11 +37,9 @@ private fun import(url: String) {
             array.map { it as JsonObject }.forEach {
                 val hexSignature = it["hex_signature"] as String
                 val textSignature = it["text_signature"] as String
-                if (!blackList.contains(textSignature)) {
-                    if (store.upsert(hexSignature.replace("0x", ""), textSignature)) {
-                        new++
-                        total++
-                    }
+                if (store.upsert(hexSignature.replace("0x", ""), textSignature)) {
+                    new++
+                    total++
                 }
             }
             println("processed: ${array.size} - imported: $new - total: $total")

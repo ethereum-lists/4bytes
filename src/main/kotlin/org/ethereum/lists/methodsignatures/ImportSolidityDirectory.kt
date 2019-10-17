@@ -22,7 +22,6 @@ fun main(args: Array<String>) {
     }
 
     val textStore = FileBackedMethodSignatureStore(textSignatureDirectoryWithParameterNames)
-    val store = FileBackedMethodSignatureStore(signatureDirectory)
 
     importPath.listFiles().forEach { solidity_file ->
         solidity_file.reader().readText().lines().forEach { code ->

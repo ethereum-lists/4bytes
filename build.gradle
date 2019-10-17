@@ -29,6 +29,11 @@ task importFrom4ByteDirectory(type: JavaExec) {
     classpath = sourceSets.main.runtimeClasspath
 }
 
+task importFromEveem(type: JavaExec) {
+    main = "org.ethereum.lists.methodsignatures.ImportFromEveemKt"
+    classpath = sourceSets.main.runtimeClasspath
+}
+
 task coverage(type: JavaExec) {
     main = "org.ethereum.lists.methodsignatures.CoverageKt"
     classpath = sourceSets.main.runtimeClasspath
