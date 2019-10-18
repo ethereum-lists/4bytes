@@ -1,0 +1,1 @@
+changeRequiredMajor(WalletMainLib.WalletData,uint256,bool,bytes)

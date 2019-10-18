@@ -1,0 +1,1 @@
+contains(Sets.bytes32Set,bytes32)

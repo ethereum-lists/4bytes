@@ -1,1 +1,0 @@
-changeMajorThreshold(WalletMainLib.WalletData storage,address,uint256,bool,bytes)

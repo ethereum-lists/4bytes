@@ -15,10 +15,10 @@ private fun import() {
 
     println("please wait - this can take a while")
 
-    File("tmp_eveem").readText().lines().forEach { signature ->
-        if (!(signature.contains("((") || signature.contains("))"))
-                && signature.contains("(")
-                && signature.contains(")")) {
+    File("tmp_eveem").readText().lines().forEach { _signature ->
+        val signature = _signature.replace(" storage","")
+        if (!signature.isBlank()) {
+
             val sig = TextMethodSignature(signature).toHexSignature()
 
             if (store.upsert(sig.hex, signature)) {

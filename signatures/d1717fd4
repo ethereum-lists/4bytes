@@ -1,1 +1,0 @@
-balanceOf(ERC20Lib.TokenStorage storage,address)

@@ -1,0 +1,1 @@
+validateContentHash(CertificateLibrary.Document,bytes32)
