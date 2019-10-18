@@ -8,7 +8,7 @@ class BlacklistAwareFileBackedMethodSignatureStore(blackListFile: File,
 
     private val blackList by lazy { blackListFile.readLines().toSet() }
 
-    fun upsert(signatureHash: String, signatureText: String) = if (blackList.contains(signatureHash)) {
+    fun upsert(signatureHash: String, signatureText: String) = if (blackList.contains(signatureText)) {
         false
     } else {
         fileBackedStore.upsert(signatureHash, signatureText)

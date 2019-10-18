@@ -14,7 +14,6 @@ val client = OkHttpClient.Builder().apply {
     readTimeout(42, TimeUnit.SECONDS)
 }.build()
 
-val outDir = signatureDirectory.apply { mkdirs() }
 
 var total = 0
 

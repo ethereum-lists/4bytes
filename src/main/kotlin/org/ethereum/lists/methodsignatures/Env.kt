@@ -5,4 +5,7 @@ import java.io.File
 
 val signatureDirectory = File("signatures")
 
+
+val outDir = signatureDirectory.apply { mkdirs() }
+
 val store = BlacklistAwareFileBackedMethodSignatureStore(File("black.lst"), FileBackedMethodSignatureStore(outDir))
