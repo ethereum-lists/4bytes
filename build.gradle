@@ -57,6 +57,6 @@ dependencies {
     implementation "com.github.walleth.kethereum:method_signatures:0.79.0"
 
     implementation 'com.beust:klaxon:5.2'
-    implementation 'com.squareup.okhttp3:okhttp:4.2.2'
+    implementation 'com.squareup.okhttp3:okhttp:4.3.0'
 }
 
