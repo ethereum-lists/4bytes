@@ -23,7 +23,7 @@ fun main(args: Array<String>) {
 
     val textStore = FileBackedMethodSignatureStore(textSignatureDirectoryWithParameterNames)
 
-    importPath.listFiles().forEach { solidity_file ->
+    importPath.listFiles()?.forEach { solidity_file ->
         solidity_file.reader().readText().lines().forEach { code ->
             val cleanCode = code.replace(" ", "").replace("\t", "") // ^^-)
             if (cleanCode.startsWith("function")) {
