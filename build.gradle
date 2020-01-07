@@ -1,6 +1,7 @@
 buildscript {
     ext {
         KOTLIN_VERSION = "1.3.61"
+        KETHEREUM_VERSION = "0.79.7"
     }
 
     repositories {
@@ -53,8 +54,12 @@ dependencies {
 
     implementation "com.github.walleth:khex:0.6"
 
-    implementation "com.github.walleth.kethereum:keccak_shortcut:0.79.5"
-    implementation "com.github.walleth.kethereum:method_signatures:0.79.5"
+    implementation "com.github.walleth.kethereum:keccak_shortcut:${KETHEREUM_VERSION}"
+    implementation "com.squareup.moshi:moshi:1.8.0"
+    implementation "com.github.walleth.kethereum:metadata:${KETHEREUM_VERSION}"
+    implementation "com.github.walleth.kethereum:keccak_shortcut:${KETHEREUM_VERSION}"
+    implementation "com.github.walleth.kethereum:method_signatures:${KETHEREUM_VERSION}"
+    implementation "com.github.walleth.kethereum:abi:${KETHEREUM_VERSION}"
 
     implementation 'com.beust:klaxon:5.2'
     implementation 'com.squareup.okhttp3:okhttp:4.3.0'
