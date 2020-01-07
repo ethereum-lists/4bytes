@@ -27,4 +27,5 @@ transfer(address _to,uint256 _value);transfer(address to,uint val)
 
 So please also a plea to all smart contract developers. Please try to check if there are methods with similar signatures and think if you could use the same parameter names to have better UX in the consuming side.
 
-To add your own signatures you can use the [4ByteBot](https://github.com/apps/4bytebot) - or enter them manually on the [4byte.directory](https://www.4byte.directory).
+To add your own signatures ideally verify your sourcecode via [verification.komputing.org](https://verification.komputing.org)
+You can also use the [4ByteBot](https://github.com/apps/4bytebot) - or enter them manually on the [4byte.directory](https://www.4byte.directory). But verified source-code is the preferred option here.
