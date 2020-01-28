@@ -1,0 +1,1 @@
+declareRevocationMessage(MessageBus.MessageBoxstorage,MessageBus.Messagestorage)

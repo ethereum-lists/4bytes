@@ -1,0 +1,1 @@
+addOffer(address,string,string,string,string,uint256[],uint256,uint256,int16,address)

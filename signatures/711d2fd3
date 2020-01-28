@@ -1,0 +1,1 @@
+addSignatureToCertificate(address,bytes32,bytes)

@@ -1,0 +1,1 @@
+declare(string,address[],bytes[],uint256[])
