@@ -1,0 +1,1 @@
+registerPayment(bytes32,int8,uint256,address,uint256)
