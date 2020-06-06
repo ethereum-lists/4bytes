@@ -55,7 +55,7 @@ dependencies {
     implementation "com.github.walleth:khex:1.0.0"
 
     implementation "com.github.walleth.kethereum:keccak_shortcut:${KETHEREUM_VERSION}"
-    implementation "com.squareup.moshi:moshi:1.8.0"
+    implementation "com.squareup.moshi:moshi:1.9.2"
     implementation "com.github.walleth.kethereum:metadata_model:${KETHEREUM_VERSION}"
     implementation "com.github.walleth.kethereum:abi_filter:${KETHEREUM_VERSION}"
     implementation "com.github.walleth.kethereum:keccak_shortcut:${KETHEREUM_VERSION}"
