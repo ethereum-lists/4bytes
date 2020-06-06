@@ -8,4 +8,4 @@ val signatureDirectory = File("signatures")
 
 val outDir = signatureDirectory.apply { mkdirs() }
 
-val store = BlacklistAwareFileBackedMethodSignatureStore(File("black.lst"), FileBackedMethodSignatureStore(outDir))
+val store = BlacklistAwareFileBackedMethodSignatureStore(File("ignored_collisions.lst"), FileBackedMethodSignatureStore(outDir))
