@@ -1,7 +1,7 @@
 buildscript {
     ext {
         KOTLIN_VERSION = "1.3.72"
-        KETHEREUM_VERSION = "0.79.7"
+        KETHEREUM_VERSION = "0.82.2"
     }
 
     repositories {
@@ -52,16 +52,17 @@ task importFromSolidityDirectory(type: JavaExec) {
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
 
-    implementation "com.github.walleth:khex:0.6"
+    implementation "com.github.walleth:khex:1.0.0"
 
     implementation "com.github.walleth.kethereum:keccak_shortcut:${KETHEREUM_VERSION}"
-    implementation "com.squareup.moshi:moshi:1.8.0"
-    implementation "com.github.walleth.kethereum:metadata:${KETHEREUM_VERSION}"
+    implementation "com.squareup.moshi:moshi:1.9.2"
+    implementation "com.github.walleth.kethereum:metadata_model:${KETHEREUM_VERSION}"
+    implementation "com.github.walleth.kethereum:abi_filter:${KETHEREUM_VERSION}"
     implementation "com.github.walleth.kethereum:keccak_shortcut:${KETHEREUM_VERSION}"
     implementation "com.github.walleth.kethereum:method_signatures:${KETHEREUM_VERSION}"
     implementation "com.github.walleth.kethereum:abi:${KETHEREUM_VERSION}"
 
     implementation 'com.beust:klaxon:5.2'
-    implementation 'com.squareup.okhttp3:okhttp:4.6.0'
+    implementation 'com.squareup.okhttp3:okhttp:4.7.2'
 }
 
