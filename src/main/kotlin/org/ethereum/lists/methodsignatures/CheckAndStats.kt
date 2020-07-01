@@ -4,7 +4,7 @@ import org.kethereum.keccakshortcut.keccak
 import org.kethereum.methodsignatures.FileBackedMethodSignatureStore
 import org.kethereum.methodsignatures.model.TextMethodSignature
 import org.kethereum.methodsignatures.toHexSignature
-import org.walleth.khex.toNoPrefixHexString
+import org.komputing.khex.extensions.toNoPrefixHexString
 import java.io.File
 
 fun main() {
