@@ -1,0 +1,1 @@
+testAndSetContractStorageChanged(address,bytes32)

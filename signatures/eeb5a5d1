@@ -1,0 +1,1 @@
+setApprovalForAllFor(address,address,bool)
