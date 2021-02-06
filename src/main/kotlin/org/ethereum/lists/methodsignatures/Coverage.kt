@@ -24,7 +24,7 @@ fun main() {
         val line = bufferedSource.readUtf8Line()
         if (line != null) {
             val (count, signatureInfo) = line.trim().split(" ")
-            val (signature, calldataLength) = signatureInfo.split("-")
+            val (signature, _) = signatureInfo.split("-")
             val countBigInt = BigInteger(count)
             if (store.has(signature.replace("0x", ""))) {
                 found++
