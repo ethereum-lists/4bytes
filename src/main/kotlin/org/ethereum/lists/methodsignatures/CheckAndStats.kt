@@ -74,8 +74,8 @@ fun main() {
     println("names with CamelCase: $withCamelCase")
     println("names starting with upper case char: $startsWiUpperCase")
 
-    val max = methodSet.maxBy { it.length }?.length
-    val min = methodSet.minBy { it.length }?.length
+    val max = methodSet.maxByOrNull { it.length }?.length
+    val min = methodSet.minByOrNull { it.length }?.length
     println("min method name length: $min")
     println("max method name length: $max")
     val size = paramSet.size
