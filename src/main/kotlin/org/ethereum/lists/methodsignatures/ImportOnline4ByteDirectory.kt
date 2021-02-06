@@ -5,6 +5,8 @@ import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Klaxon
 import okhttp3.OkHttpClient
 import okhttp3.Request
+import java.io.IOException
+import java.lang.Thread.sleep
 import java.util.concurrent.TimeUnit
 
 const val PAGE_SIZE = 2000
@@ -21,7 +23,7 @@ fun main() {
     import(url)
 }
 
-private fun import(url: String) {
+private fun import(url: String): Unit? = try {
     val request = Request.Builder().url(url).build()
 
     val response = client.newCall(request).execute()
@@ -45,9 +47,12 @@ private fun import(url: String) {
             (jsonObject["next"] as String?)?.let {
                 import(it)
             }
-
-
         }
         else -> error("Could not get $url")
     }
+} catch (e: IOException) {
+    println("Error fetching " + e.message)
+    println("Retry in 4s")
+    sleep(4000)
+    import(url)
 }
