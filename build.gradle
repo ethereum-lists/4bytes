@@ -62,7 +62,7 @@ dependencies {
     implementation "com.github.walleth.kethereum:abi:${KETHEREUM_VERSION}"
 
     implementation 'com.beust:klaxon:5.5'
-    implementation 'com.squareup.okhttp3:okhttp:4.8.0'
+    implementation 'com.squareup.okhttp3:okhttp:4.9.1'
 }
 
 
