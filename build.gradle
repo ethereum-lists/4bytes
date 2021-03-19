@@ -14,7 +14,6 @@ buildscript {
     }
 }
 
-apply plugin: "com.github.ben-manes.versions"
 apply plugin: "kotlin"
 apply plugin: 'application'
 
@@ -66,3 +65,5 @@ dependencies {
     implementation 'com.squareup.okhttp3:okhttp:4.8.0'
 }
 
+
+apply from: 'https://raw.githubusercontent.com/ligi/gradle-common/master/versions_plugin_stable_only.gradle'
