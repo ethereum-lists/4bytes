@@ -5,7 +5,7 @@ buildscript {
     }
 
     repositories {
-        jcenter()
+        gradlePluginPortal()
     }
 
     dependencies {
@@ -21,7 +21,7 @@ apply plugin: 'application'
 mainClassName = "org.ethereum.lists.methodsignatures.CheckAndStatsKt"
 
 repositories {
-    jcenter()
+    mavenCentral()
     maven { url 'https://jitpack.io' }
 }
 
