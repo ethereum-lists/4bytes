@@ -1,0 +1,1 @@
+requireHasRole(bytes32,address,string)

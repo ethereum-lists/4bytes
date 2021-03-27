@@ -1,0 +1,1 @@
+addInvestmentAssetCurrency(bytes4,address,bool,uint64,uint64,uint8)

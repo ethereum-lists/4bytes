@@ -1,0 +1,1 @@
+registerCommercialMeasurement(string,int256,int256,bytes32,bytes32,bool,int256,int256,int256)

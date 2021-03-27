@@ -1,0 +1,1 @@
+createDeal(uint16,uint16,bytes32,string,address,string,bytes32,bytes32,string,uint16)

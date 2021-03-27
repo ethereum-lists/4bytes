@@ -1,1 +1,1 @@
-acquireTokens(uint256,uint256,address,uint256)
+acquireTokens(uint256,uint256,address,uint256);replacePrimaryOwner(address,address)

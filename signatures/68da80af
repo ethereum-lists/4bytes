@@ -1,0 +1,1 @@
+makeCoverBegin(address,bytes4,uint256[],uint16,uint8,bytes32,bytes32)

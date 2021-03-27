@@ -1,0 +1,1 @@
+modifyCollateralBalance(bytes32,address,int256)

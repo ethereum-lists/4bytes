@@ -1,0 +1,1 @@
+setApprovedMinterForAll(address,bool)

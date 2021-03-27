@@ -1,0 +1,1 @@
+registerDomain(string,address,string,bool,bytes)
