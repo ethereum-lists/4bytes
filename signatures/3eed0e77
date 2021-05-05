@@ -1,0 +1,1 @@
+registerFunctionCallBypassWallet(bool,bytes4,address,uint128)

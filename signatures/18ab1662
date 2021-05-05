@@ -1,0 +1,1 @@
+testERC165Gas(address,bytes4)
