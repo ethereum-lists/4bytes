@@ -35,15 +35,15 @@ fun main() {
                     .substringAfter("(")
                     .substringBefore(")")
                     .split(",")
-                    .filter { !it.isBlank() }
+                    .filter { it.isNotBlank() }
                     .toHashSet()
             methodSet.add(methodName)
             if (methodName.contains("_")) {
                 withUnderscore++
-            } else if (methodName != methodName.toLowerCase()) {
+            } else if (methodName != methodName.lowercase()) {
                 withCamelCase++
             }
-            if (methodName.first().toLowerCase() != methodName.first()) {
+            if (methodName.first().lowercaseChar() != methodName.first()) {
                 startsWiUpperCase++
             }
             if (params.size > maxParams) {

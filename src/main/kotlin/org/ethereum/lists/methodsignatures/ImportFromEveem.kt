@@ -17,7 +17,7 @@ private fun import() {
 
     File("tmp_eveem").readText().lines().forEach { _signature ->
         val signature = _signature.replace(" storage","")
-        if (!signature.isBlank()) {
+        if (signature.isNotBlank()) {
 
             val sig = TextMethodSignature(signature).toHexSignature()
 

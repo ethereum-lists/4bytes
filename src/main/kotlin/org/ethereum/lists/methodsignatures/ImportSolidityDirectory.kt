@@ -37,7 +37,7 @@ fun main(args: Array<String>) {
                 val textMethodSignature = TextMethodSignature("$functionName($functionParametersSignature)")
                 val hexSignature = textMethodSignature.toHexSignature()
 
-                if (!textMethodSignature.functionName.isBlank()) { // constructor
+                if (textMethodSignature.functionName.isNotBlank()) { // constructor
                     textStore.upsert(hexSignature.hex, "$functionName($functionParametersClean)")
 
                     store.upsert(hexSignature.hex, textMethodSignature.normalizedSignature)
