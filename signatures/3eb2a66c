@@ -1,0 +1,1 @@
+registerAndDeployCoinageAndSetCommissionRate(address,address,uint256,bool)
