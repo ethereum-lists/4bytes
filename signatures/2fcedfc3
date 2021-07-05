@@ -1,1 +1,0 @@
-confirmRevocation(MessageBus.MessageBoxstorage,MessageBus.Messagestorage,bytes,uint8,bytes32)

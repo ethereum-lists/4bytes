@@ -1,1 +1,0 @@
-init(BTTSLib.Datastorage,address,string,string,uint8,uint256,bool,bool)
