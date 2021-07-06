@@ -1,5 +1,7 @@
 package org.ethereum.lists.methodsignatures
 
+import org.kethereum.contract.abi.types.isETHType
+import org.kethereum.contract.abi.types.model.NamedETHType
 import org.kethereum.keccakshortcut.keccak
 import org.kethereum.methodsignatures.FileBackedMethodSignatureStore
 import org.kethereum.methodsignatures.model.TextMethodSignature
@@ -32,11 +34,14 @@ fun main() {
         textSignatureSet.map { it.signature }.forEach { signatureText ->
             val methodName = signatureText.substringBefore("(")
             val params = signatureText
-                    .substringAfter("(")
-                    .substringBefore(")")
-                    .split(",")
-                    .filter { it.isNotBlank() }
-                    .toHashSet()
+                .substringAfter("(")
+                .substringBefore(")")
+                .replace("(", ",")
+                .replace(")", ",")
+                .replace(Regex("\\[[0-9]*\\]"), "")
+                .split(",")
+                .filter { it.isNotBlank() }
+                .toHashSet()
             methodSet.add(methodName)
             if (methodName.contains("_")) {
                 withUnderscore++
@@ -53,9 +58,13 @@ fun main() {
             if (!textHash.startsWith(signatureHash)) {
                 error("signature fail $signatureHash $signatureText $textHash")
             }
-            val newParams = params.map { it.substringBefore("[") }.filter { it.isNotEmpty() }
-            paramSet.addAll(newParams)
+            paramSet.addAll(params)
 
+            params.map { NamedETHType(it) }.forEach {
+                if (!it.isETHType ()) {
+                    error("illegal type ${it.name} in $signatureHash - $signatureText ")
+                }
+            }
             if (TextMethodSignature(signatureText).toHexSignature().hex != signatureHash) {
                 error("Problem with signature: $signatureText $signatureHash - most likely parameters not normalized")
             }
