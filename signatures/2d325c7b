@@ -1,0 +1,1 @@
+setNodeTrustedOnly(address,bool)
