@@ -1,7 +1,7 @@
 buildscript {
     ext {
         KOTLIN_VERSION = "1.5.20"
-        KETHEREUM_VERSION = "0.84.5"
+        KETHEREUM_VERSION = "0.84.7"
     }
 
     repositories {
@@ -54,7 +54,7 @@ dependencies {
     implementation "com.github.walleth:khex:1.1.2"
 
     implementation "com.github.walleth.kethereum:keccak_shortcut:${KETHEREUM_VERSION}"
-    implementation "com.squareup.moshi:moshi:1.12.0"
+    implementation "com.squareup.moshi:moshi-kotlin:1.12.0"
     implementation "com.github.walleth.kethereum:metadata_model:${KETHEREUM_VERSION}"
     implementation "com.github.walleth.kethereum:abi_filter:${KETHEREUM_VERSION}"
     implementation "com.github.walleth.kethereum:keccak_shortcut:${KETHEREUM_VERSION}"
