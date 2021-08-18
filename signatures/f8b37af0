@@ -1,0 +1,1 @@
+setCurrencyPaymentFee(uint256,address,uint256,int256,int256[],int256[])
