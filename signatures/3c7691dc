@@ -1,0 +1,1 @@
+setCanTransferBeforeTradingIsEnabled(address,bool)
