@@ -1,0 +1,1 @@
+claimSlotWithPermit(uint8,uint128,address,uint256,uint8,bytes32,bytes32)
