@@ -1,1 +1,1 @@
-lockGovernance()
+lockGovernance();debtDecay(uint256)
