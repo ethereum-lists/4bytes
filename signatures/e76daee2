@@ -1,0 +1,1 @@
+setExcludeAddressFromSendingFees(address,bool)

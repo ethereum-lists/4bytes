@@ -1,0 +1,1 @@
+proveFail_transferFrom_insufficientAllowance(address,uint256,uint256)

@@ -1,0 +1,1 @@
+newTrade(address,address,uint24,uint160,uint128,uint128)
