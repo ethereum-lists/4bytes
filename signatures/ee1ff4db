@@ -1,0 +1,1 @@
+getCharacters()

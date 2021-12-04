@@ -1,0 +1,1 @@
+setIssuerForSignedMessages(address,bool)

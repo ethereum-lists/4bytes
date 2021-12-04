@@ -1,1 +1,1 @@
-asetProperty(bool,address,address,address,address,address,uint256,uint256,bytes32)
+_lockTokens(address,address,address,uint48,uint256,uint16,uint16,bool);asetProperty(bool,address,address,address,address,address,uint256,uint256,bytes32)

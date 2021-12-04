@@ -1,0 +1,1 @@
+encodeTransferErc20AndTotalSupplyMessage(address,address,uint256,uint256)

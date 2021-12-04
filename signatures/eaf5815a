@@ -1,1 +1,1 @@
-recoverAddr(bytes32,bytes)
+recoverAddr(bytes32,bytes);resetCurrentBet()

@@ -1,1 +1,1 @@
-orderCancelledAmounts(bytes32)
+orderCancelledAmounts(bytes32);getBotsBelongingToOwner(address)

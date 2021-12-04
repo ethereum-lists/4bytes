@@ -1,0 +1,1 @@
+registerDrop(address,uint256,uint256,int8,bool,uint256)

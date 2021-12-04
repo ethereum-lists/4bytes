@@ -1,0 +1,1 @@
+setMinterPermission(address,bool)
