@@ -1,0 +1,1 @@
+deployERC20BurnablePausableFreezableToken(string,string,uint8,address[],uint256[],uint256[])

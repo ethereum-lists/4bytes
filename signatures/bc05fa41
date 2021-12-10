@@ -1,0 +1,1 @@
+encodeCreateCoverOfferData(((uint8,uint256,uint8,uint256,uint8,uint256,string,(uint8,uint256[]),uint256,uint8,address),(string,string,uint256,uint256,uint8,bytes32,bytes32),(address,uint256,address,uint256,uint8,bytes32,bytes32)))

@@ -1,0 +1,1 @@
+addItemTypesAndSvgs((string,string,string,int8[6],bool[16],uint8[],(uint8,uint8,uint8,uint8),uint256,uint256,uint256,uint32,uint8,bool,uint16,bool,uint8,int16,uint32)[],string,(bytes32,uint256[])[])

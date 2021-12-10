@@ -1,0 +1,1 @@
+setMigratorEnabled(address,bool)

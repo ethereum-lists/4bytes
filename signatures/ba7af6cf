@@ -1,0 +1,1 @@
+tryBlockAndAggregate(bool,(string,address,bytes)[])

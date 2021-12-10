@@ -1,1 +1,1 @@
-Whitelistable(address)
+Whitelistable(address);verify(address,string,bytes)

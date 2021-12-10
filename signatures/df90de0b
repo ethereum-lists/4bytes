@@ -1,0 +1,1 @@
+joinswapExternAmountIn(IConfigurableRightsPool,IBPool,address,uint256,uint256)

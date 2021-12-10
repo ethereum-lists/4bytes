@@ -1,0 +1,1 @@
+encodeEIP2612Permit((address,uint256,address,uint256,uint8,bytes32,bytes32))

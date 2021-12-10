@@ -1,0 +1,1 @@
+deployERC20PausableToken(string,string,uint8,address[],uint256[],address)
