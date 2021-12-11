@@ -1,0 +1,1 @@
+CreateTradingContract(address,uint256,uint256,string[],address[],bool[],uint256[])

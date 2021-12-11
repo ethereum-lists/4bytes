@@ -1,0 +1,1 @@
+conjureMint(uint256[][4],bytes[],string[],address[][2],uint256[2][2],address[],string[2],bool)

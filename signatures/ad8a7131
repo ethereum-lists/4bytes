@@ -1,0 +1,1 @@
+deployERC20MintablePausableToken(string,string,uint8,address[],uint256[])

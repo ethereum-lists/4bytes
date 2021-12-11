@@ -1,0 +1,1 @@
+createERC20Wrapper(address,uint8,string,string)

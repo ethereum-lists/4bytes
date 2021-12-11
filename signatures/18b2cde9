@@ -1,0 +1,1 @@
+revokeRolesFromMany(bytes32[],address[])
