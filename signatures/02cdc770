@@ -1,0 +1,1 @@
+setPermissionFor(address,bytes4,bool)

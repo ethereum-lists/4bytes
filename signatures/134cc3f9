@@ -1,1 +1,1 @@
-getTokenLockersForAccount(address)
+getTokenLockersForAccount(address);activateCollection(uint256)

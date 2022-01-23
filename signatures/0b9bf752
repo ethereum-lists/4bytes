@@ -1,0 +1,1 @@
+setTrustCaller(address,bool)

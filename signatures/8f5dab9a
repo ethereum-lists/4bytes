@@ -1,0 +1,1 @@
+getQuoteCrossingTicksThroughWeth(address,uint128,address,int24,int24)

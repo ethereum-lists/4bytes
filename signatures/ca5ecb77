@@ -1,0 +1,1 @@
+addNewContract(bytes4,address,uint256)

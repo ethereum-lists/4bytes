@@ -1,0 +1,1 @@
+adminSetDepositAvailability(uint8,bytes32,bool)

@@ -1,0 +1,1 @@
+setContractAllowedStatus(address,bool)
