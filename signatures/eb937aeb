@@ -1,0 +1,1 @@
+batchDispatch((bool,address,bytes)[],address[])
