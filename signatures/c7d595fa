@@ -1,1 +1,1 @@
-nuevoEmpleado(address);setExitCooldownDuration(uint256)
+setExitCooldownDuration(uint256);nuevoEmpleado(address)

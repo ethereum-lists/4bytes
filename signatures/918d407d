@@ -1,1 +1,1 @@
-disallowance(address);acceptOffer(uint256,address)
+acceptOffer(uint256,address);disallowance(address)

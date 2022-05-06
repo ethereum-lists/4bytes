@@ -1,1 +1,1 @@
-func18397752363851325826(address,address,uint256);changeOwner(address)
+changeOwner(address);func18397752363851325826(address,address,uint256)
