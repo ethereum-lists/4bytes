@@ -1,1 +1,1 @@
-stake((uint256));getRoyaltyShares(uint256)
+getRoyaltyShares(uint256);stake((uint256))
