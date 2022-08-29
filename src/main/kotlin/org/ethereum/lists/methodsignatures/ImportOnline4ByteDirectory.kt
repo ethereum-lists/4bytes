@@ -26,31 +26,33 @@ fun main() {
 private fun import(url: String): Unit? = try {
     val request = Request.Builder().url(url).build()
 
-    val response = client.newCall(request).execute()
-    when (response.code) {
-        200 -> response.body?.use { body ->
-            val string = body.string()
+    client.newCall(request).execute().use { response ->
+        when (response.code) {
+            200 -> response.body?.use { body ->
+                val string = body.string()
 
-            val jsonObject = Klaxon().parseJsonObject(string.reader())
-            val array = jsonObject["results"] as JsonArray<*>
+                val jsonObject = Klaxon().parseJsonObject(string.reader())
+                val array = jsonObject["results"] as JsonArray<*>
 
-            var new = 0
-            array.map { it as JsonObject }.forEach {
-                val hexSignature = it["hex_signature"] as String
-                val textSignature = it["text_signature"] as String
-                if (store.upsert(hexSignature.replace("0x", ""), textSignature)) {
-                    new++
-                    total++
+                var new = 0
+                array.map { it as JsonObject }.forEach {
+                    val hexSignature = it["hex_signature"] as String
+                    val textSignature = it["text_signature"] as String
+                    if (store.upsert(hexSignature.replace("0x", ""), textSignature)) {
+                        new++
+                        total++
+                    }
+                }
+                println("processed: ${array.size} - imported: $new - total: $total")
+                (jsonObject["next"] as String?)?.let {
+                    import(it)
                 }
             }
-            println("processed: ${array.size} - imported: $new - total: $total")
-            (jsonObject["next"] as String?)?.let {
-                import(it)
+
+            else -> {
+                // throw as exception so we use the retry logic in the handler
+                throw IOException("${response.message} (code ${response.code}")
             }
-        }
-        else -> {
-            // throw as exception so we use the retry logic in the handler
-            throw IOException("${response.message} (code ${response.code}")
         }
     }
 } catch (e: IOException) {
