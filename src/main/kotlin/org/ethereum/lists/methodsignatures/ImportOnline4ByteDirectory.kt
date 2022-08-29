@@ -48,7 +48,10 @@ private fun import(url: String): Unit? = try {
                 import(it)
             }
         }
-        else -> error("Could not get $url")
+        else -> {
+            // throw as exception so we use the retry logic in the handler
+            throw IOException("${response.message} (code ${response.code}")
+        }
     }
 } catch (e: IOException) {
     println("Error fetching " + e.message)
