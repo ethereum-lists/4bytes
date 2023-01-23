@@ -1,0 +1,1 @@
+onERC721BatchReceived(address,address,uint256[],bytes)

@@ -1,0 +1,1 @@
+registerBossEvent(address,uint256,bool,uint16)

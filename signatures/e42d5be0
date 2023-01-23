@@ -1,1 +1,1 @@
-getPaymentOf(address)
+getPaymentOf(address);setDistribution(address,address)

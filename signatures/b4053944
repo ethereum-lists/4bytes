@@ -1,0 +1,1 @@
+setCohortTokenLockStatus(bytes32,bytes4,bool)

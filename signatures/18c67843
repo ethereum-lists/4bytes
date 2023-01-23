@@ -1,0 +1,1 @@
+GET_WALLET_DATA_BOOL(address,uint256,uint256,uint256,uint256,uint256)

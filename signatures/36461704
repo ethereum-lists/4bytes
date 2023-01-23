@@ -1,0 +1,1 @@
+addMinterOrPauser(address,bytes32)

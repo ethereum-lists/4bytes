@@ -1,1 +1,1 @@
-addBonus(address,address,uint48,uint256,uint256)
+addBonus(address,address,uint48,uint256,uint256);takeAndExchange(bytes32,uint256)

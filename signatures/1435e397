@@ -1,1 +1,1 @@
-setAllocation(address,uint256,uint8)
+setAllocation(address,uint256,uint8);setFirstCap(uint256)

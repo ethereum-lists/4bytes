@@ -1,0 +1,1 @@
+registerBeforeTransferHook(address,bytes4)

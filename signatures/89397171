@@ -1,0 +1,1 @@
+setBlacklistAddressStatus(address,bool)

@@ -1,0 +1,1 @@
+onERC721ReceivedNew(address,address,uint256,bytes)

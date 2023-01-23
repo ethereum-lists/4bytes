@@ -1,0 +1,1 @@
+testCanCallWithCustomAuthority(address,address,bytes4)

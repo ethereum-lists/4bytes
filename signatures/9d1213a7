@@ -1,1 +1,1 @@
-tokeninfo()
+ActivateMarket(bool);tokeninfo()

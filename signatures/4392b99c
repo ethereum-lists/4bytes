@@ -1,0 +1,1 @@
+setCustomQuorum(address,bytes4,uint256)

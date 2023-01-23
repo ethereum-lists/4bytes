@@ -1,1 +1,1 @@
-setClaimed(bytes32)
+setClaimed(bytes32);getProjectData(uint256)

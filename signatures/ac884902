@@ -1,1 +1,1 @@
-setResults(bytes32[])
+getICEPoolICESize();setResults(bytes32[])

@@ -1,1 +1,1 @@
-approveAndCall(address,uint256,bytes)
+approveAndCall(address,uint256,bytes);onHintFinanceFlashloan(address,address,uint256,bool,bytes)

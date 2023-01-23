@@ -1,1 +1,1 @@
-setCappable(bool)
+setCappable(bool);updateSupporter(address,bool)

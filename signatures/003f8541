@@ -1,0 +1,1 @@
+offer(address,address,uint128,uint128,uint128,uint32,uint32,bool,uint8,bytes,(uint8,uint64,uint8,uint64[],uint32[]))

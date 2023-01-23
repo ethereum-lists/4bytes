@@ -1,0 +1,1 @@
+SetIsMaxTokenByWalletExempt(address,bool)
