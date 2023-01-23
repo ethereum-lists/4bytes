@@ -1,0 +1,1 @@
+setExcludedFromTransactionCooldown(address,bool)

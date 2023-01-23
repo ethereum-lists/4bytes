@@ -1,0 +1,1 @@
+setFunctionProtected(address,bytes4,bool)

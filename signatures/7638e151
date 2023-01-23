@@ -1,0 +1,1 @@
+setContractExemptStatus(address,bool)

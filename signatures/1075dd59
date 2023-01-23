@@ -1,0 +1,1 @@
+bulkSendCoinFromContractWithDifferentValue(address,address[],uint256[])

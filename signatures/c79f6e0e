@@ -1,0 +1,1 @@
+SET_WALLET_DATA_BOOL(address,uint256,uint256,bool,uint256,bool,uint256,bool,uint256,bool)

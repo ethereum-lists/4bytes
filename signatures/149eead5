@@ -1,1 +1,1 @@
-master_contract()
+master_contract();claimUserOption(address,uint256,address,uint256)

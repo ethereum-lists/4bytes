@@ -1,0 +1,1 @@
+setMaxWalletLimitExemptStatus(address,bool)

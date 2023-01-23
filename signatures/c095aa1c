@@ -1,0 +1,1 @@
+addGauge(address,address,uint16,bool)

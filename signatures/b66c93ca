@@ -1,0 +1,1 @@
+submitMulSigTx(uint32,address,address,uint256,uint256,uint32,uint32,uint32,uint32,bool)

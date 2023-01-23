@@ -1,0 +1,1 @@
+registerMassERC1155Each(address,bool,address,uint256,uint256,uint256)

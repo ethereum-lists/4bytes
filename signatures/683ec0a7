@@ -1,0 +1,1 @@
+createProductWithWhitelist(bytes32,string,address,uint256,uint8,uint256)

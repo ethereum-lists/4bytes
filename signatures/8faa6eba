@@ -1,0 +1,1 @@
+setApprovalForAllWithPermit(address,address,bool,uint8,bytes32,bytes32)

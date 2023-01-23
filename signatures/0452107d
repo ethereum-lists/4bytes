@@ -1,1 +1,1 @@
-amount(uint256,uint256,uint256,uint256)
+setRebasePct(uint256);amount(uint256,uint256,uint256,uint256)

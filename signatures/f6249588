@@ -1,0 +1,1 @@
+setDeniedERC20Contract(address,bool)

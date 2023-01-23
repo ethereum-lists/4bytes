@@ -1,0 +1,1 @@
+matchERC721UsingCriteria(address,address,address,uint256,bytes32,bytes32[])

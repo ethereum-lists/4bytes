@@ -1,0 +1,1 @@
+setExcludedFromCooldown(address,bool)

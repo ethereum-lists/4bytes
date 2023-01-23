@@ -1,0 +1,1 @@
+allocSetAllowEmergencyTransfer(address,bool)

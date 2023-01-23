@@ -1,0 +1,1 @@
+bondMakerPositionPermit(address,address,uint256,uint16,uint16,uint256,uint8,bytes32,bytes32)

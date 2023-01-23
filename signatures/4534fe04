@@ -1,0 +1,1 @@
+isValidOrderWithConfiguration((address,uint256,bool,bool,uint256,uint256),((address,address,(uint8,address,uint256,uint256,uint256)[],(uint8,address,uint256,uint256,uint256,address)[],uint8,uint256,uint256,bytes32,uint256,bytes32,uint256),bytes))

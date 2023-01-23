@@ -1,1 +1,1 @@
-depositTokens(uint256,uint256,uint256,uint256)
+depositTokens(uint256,uint256,uint256,uint256);balanceOfStake(address,uint256)
