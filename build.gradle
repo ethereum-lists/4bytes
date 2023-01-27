@@ -29,6 +29,17 @@ task importFrom4ByteDirectory(type: JavaExec) {
     classpath = sourceSets.main.runtimeClasspath
 }
 
+task removeIgnoreListed(type: JavaExec) {
+    main = "org.ethereum.lists.methodsignatures.RemoveIgnoreListedKt"
+    classpath = sourceSets.main.runtimeClasspath
+}
+
+
+task detectPotentialBadSignatures(type: JavaExec) {
+    main = "org.ethereum.lists.methodsignatures.DetectPotentialBadSignaturesKt"
+    classpath = sourceSets.main.runtimeClasspath
+}
+
 task importFromEveem(type: JavaExec) {
     main = "org.ethereum.lists.methodsignatures.ImportFromEveemKt"
     classpath = sourceSets.main.runtimeClasspath
