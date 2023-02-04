@@ -1,0 +1,1 @@
+registerFeature((address,string,(bytes4,string)[]))

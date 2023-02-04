@@ -1,0 +1,1 @@
+deployDynamicBlueprint((string,string,string,address),(address[],uint32[]),(address,address),string)

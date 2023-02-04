@@ -1,0 +1,1 @@
+addInvoice(uint8,uint32,uint32,bool,address,string,string,string,string)

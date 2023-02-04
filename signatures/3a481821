@@ -1,0 +1,1 @@
+GET_INVOCATION_ARRAY_PACKETHASH(((address,uint256,bytes),((address,bytes32,(address,bytes)[]),bytes)[])[])

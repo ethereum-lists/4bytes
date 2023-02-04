@@ -1,0 +1,1 @@
+setFreezeFlagOnNftByTokenId(address[],uint256[],bool)

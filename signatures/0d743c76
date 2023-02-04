@@ -1,0 +1,1 @@
+setupDropsContract(string,string,address,uint64,uint16,address,(uint104,uint32,uint64,uint64,uint64,uint64,bytes32),address,bytes)

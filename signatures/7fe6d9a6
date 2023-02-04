@@ -1,0 +1,1 @@
+delegationIsValid((address,address,address),(bool,bool,bool),uint96,uint256,uint256,(uint40,uint40))

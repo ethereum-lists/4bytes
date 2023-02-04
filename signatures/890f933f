@@ -1,0 +1,1 @@
+multiCreateAccount(address,address,bytes32[])

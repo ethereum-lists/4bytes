@@ -1,0 +1,1 @@
+addNewDapp(bytes32,string,address,string,string,string,string,string,string[],string[],string[],string[])

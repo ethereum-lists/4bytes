@@ -1,0 +1,1 @@
+setMintingAddress(address,bytes32[2][256],bytes[256],bytes32)

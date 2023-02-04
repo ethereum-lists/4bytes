@@ -1,0 +1,1 @@
+delete_initiated_trades_by_ids(address,uint256,uint256[])

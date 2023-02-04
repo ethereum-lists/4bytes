@@ -1,0 +1,1 @@
+batchInsert(address[],int256[],int256[],int256[],bool[],uint256[],uint256[],int256[])

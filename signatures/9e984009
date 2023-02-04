@@ -1,0 +1,1 @@
+setERC20BeneficiaryPercentage(string,address,address,uint8)

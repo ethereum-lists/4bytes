@@ -1,0 +1,1 @@
+createPairERC20WithPriceOracle((address,address,address,address,uint8,uint128,uint96,uint256[],uint256))

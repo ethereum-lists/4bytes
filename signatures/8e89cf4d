@@ -1,0 +1,1 @@
+setWalletExcludedFromFees(address,bool)

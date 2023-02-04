@@ -1,0 +1,1 @@
+publishContract(address,string,string,string,bytes32,address)

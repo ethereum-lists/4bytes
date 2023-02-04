@@ -1,0 +1,1 @@
+createAuctionForNewToken(bytes32,(address,address,address,address,uint256,uint256,bool,uint8))

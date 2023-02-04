@@ -1,0 +1,1 @@
+registerWithConfig(bytes32,string,address,uint256,bytes32,address,address)

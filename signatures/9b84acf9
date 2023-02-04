@@ -1,0 +1,1 @@
+setRentables((address,uint256,bool,uint256,uint16,uint16)[])

@@ -1,0 +1,1 @@
+setUserUseERC721AsCollateral(address,uint256[],bool)

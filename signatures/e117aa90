@@ -1,0 +1,1 @@
+setQuestDefinition(uint32,(bool,(uint32,bytes)[],((uint8,address,uint256,uint256),(uint8,uint256,int256)[],uint256,bool,bool,uint32,uint32,uint32)[],(uint8,address,uint256,uint256)[],uint32,uint32,uint32,uint32))

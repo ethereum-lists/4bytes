@@ -1,0 +1,1 @@
+setRolesOnToken(address,bytes32[],address)

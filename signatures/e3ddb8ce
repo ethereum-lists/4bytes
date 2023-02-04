@@ -1,0 +1,1 @@
+mintAndTransfer(address,address,uint256,uint96,string,uint8,bytes32,bytes32)

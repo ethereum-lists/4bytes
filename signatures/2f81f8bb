@@ -1,0 +1,1 @@
+offerLoan((uint24,uint40,uint128,address,address,string,address,(bytes32,uint8,uint8)))

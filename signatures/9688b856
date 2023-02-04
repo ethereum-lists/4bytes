@@ -1,0 +1,1 @@
+addNewDapp((string,bytes32,address,string,string,string,string,string,string[],string[],string[],string[],bool,uint256,uint256),bool)

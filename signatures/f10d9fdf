@@ -1,0 +1,1 @@
+setupERC721EditionCollectionWithEdition(address,(address,uint16),address,string,string,string,(string,string,string,string,string,string),uint256,bytes32)

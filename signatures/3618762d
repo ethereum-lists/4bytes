@@ -1,0 +1,1 @@
+attestSlots((uint32,bytes32,bytes32,uint32,bytes32[10]),bytes)

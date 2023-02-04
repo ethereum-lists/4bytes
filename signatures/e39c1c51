@@ -1,0 +1,1 @@
+unsafeGetBalanceOfBulk(address,bytes32[])
