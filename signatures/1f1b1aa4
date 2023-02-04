@@ -1,0 +1,1 @@
+batchRevokeRole(bytes32,address[],address[])

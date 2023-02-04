@@ -1,0 +1,1 @@
+newRaffle(string,string,address,uint256,address,bool,bool,bool,bool,uint256)

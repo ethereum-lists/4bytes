@@ -1,0 +1,1 @@
+contractInvoke(((address,uint256,bytes),((address,bytes32,(address,bytes)[]),bytes)[])[])

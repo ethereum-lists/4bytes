@@ -1,0 +1,1 @@
+setEggTypeCosts(uint8,(address,address,uint16,address,uint16))

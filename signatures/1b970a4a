@@ -1,0 +1,1 @@
+setupERC721GeneralCollection(address,(address,uint16),address,string,string,string,string,uint256,bytes32)

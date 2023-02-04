@@ -1,0 +1,1 @@
+setERC1155BeneficiaryPercentage(string,address,uint256,address,uint8)

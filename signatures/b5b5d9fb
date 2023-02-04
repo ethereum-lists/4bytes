@@ -1,0 +1,1 @@
+createSimplePolicy(bytes32,bytes32,(bytes32[],bytes32[],bytes[]),(uint256,uint256,bytes32,uint256,bool,bool,uint256,uint256,bytes32[],uint256[],uint256),bytes32)

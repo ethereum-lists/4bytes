@@ -1,0 +1,1 @@
+setBatchPermissionToCall(address[],address[],bytes4[],bool[])

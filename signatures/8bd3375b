@@ -1,0 +1,1 @@
+addInstallationTypes((uint8,uint8,uint16,uint8,uint8,uint32,uint16,uint8,uint32,uint32,bool,uint256[4],uint256,uint256,uint256[],string,uint256,uint256)[])

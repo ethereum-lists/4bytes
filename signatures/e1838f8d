@@ -1,0 +1,1 @@
+whitelistMethod(address,bytes4,bool)

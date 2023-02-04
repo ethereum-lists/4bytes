@@ -1,0 +1,1 @@
+syncBets((uint256,uint256,uint256,uint256,uint256,uint32,address)[],(address,address)[],(address,uint256)[],(address,string,string,bool,uint256,bytes)[],uint256)

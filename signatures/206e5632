@@ -1,0 +1,1 @@
+setContractInfo(bytes32,string,uint8,string,int32,address)

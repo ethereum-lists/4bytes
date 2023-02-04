@@ -1,0 +1,1 @@
+permit(address,((address,uint160,uint48,uint48),address,uint256),bytes)

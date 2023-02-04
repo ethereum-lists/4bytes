@@ -1,0 +1,1 @@
+requireRandomnessState(address,bytes32,bool)

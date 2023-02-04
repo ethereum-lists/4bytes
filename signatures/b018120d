@@ -1,0 +1,1 @@
+addCraftingRecipe((string,uint256,uint256,uint256,uint64,uint64,bool,(((uint64,uint64),bool,uint64,uint256)[],uint8,bool)[],((uint64,uint64,uint64,uint64,uint128,(uint32,uint64[],int32[]))[],uint8[],(uint32,uint64[],int32[])[])[]))

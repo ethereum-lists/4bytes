@@ -1,0 +1,1 @@
+batch_registerWithConfig(string[],address[],uint256[],bytes32[],address[],address[])

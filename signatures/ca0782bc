@@ -1,0 +1,1 @@
+changeSuspendSellerStatus(address,bool)

@@ -1,0 +1,1 @@
+addOrUpdateERC20ContractAsPayment(address,bool,uint256)

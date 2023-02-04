@@ -1,0 +1,1 @@
+getContractByUserAndIndex(address,uint256,uint8,bool[4])

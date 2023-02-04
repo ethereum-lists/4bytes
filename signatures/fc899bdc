@@ -1,0 +1,1 @@
+setIsWalletExempt(address,bool)

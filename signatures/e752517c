@@ -1,0 +1,1 @@
+addContract(address,bytes32,bool)

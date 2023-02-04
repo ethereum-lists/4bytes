@@ -1,0 +1,1 @@
+batch_set_delegation_status(address,address[256],uint256[256])

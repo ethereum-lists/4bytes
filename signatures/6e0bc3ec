@@ -1,0 +1,1 @@
+approveERC721ForAll(address,address,bool)

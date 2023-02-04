@@ -1,0 +1,1 @@
+addNewOption((bool,bool,bytes32,uint256,uint256,uint256))
