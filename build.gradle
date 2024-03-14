@@ -62,7 +62,7 @@ task importFromSolidityDirectory(type: JavaExec) {
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
 
-    implementation "com.github.walleth:khex:1.1.2"
+    implementation "com.github.walleth:khex:1.1.5"
 
     implementation "com.github.walleth.kethereum:keccak_shortcut:${KETHEREUM_VERSION}"
     implementation "com.squareup.moshi:moshi-kotlin:1.15.0"
